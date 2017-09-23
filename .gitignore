@@ -31,3 +31,8 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+packrat/lib*/
+.Rproj.user
+
+# Exclude the raw html-sites
+/pokemon/

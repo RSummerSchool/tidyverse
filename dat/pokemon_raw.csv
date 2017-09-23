@@ -1,0 +1,808 @@
+# Data taken from https://www.pokewiki.de/
+german,path,rn,generation,color,english,ep_to_100,gender,size,types,weight,attack,speed,hp,attack_special,defense_special,defense
+Bisasam,https://www.pokewiki.de/Bisasam,1,1. Generation‍,Grün,Bulbasaur,1.059.860,"87,5% ♂ 12,5% ♀","0,7 m",Pflanze Gift,"6,9 kg",49,45,45,65,65,49
+Bisaknosp,https://www.pokewiki.de/Bisaknosp,2,1. Generation‍,Grün,Ivysaur,1.059.860,"87,5% ♂ 12,5% ♀","1,0 m",Pflanze Gift,"13,0 kg",62,60,60,80,80,63
+Bisaflor,https://www.pokewiki.de/Bisaflor,3,1. Generation‍,Grün,Venusaur,1.059.860,"87,5% ♂ 12,5% ♀","2,0 m2,4 m (Mega)",Pflanze Gift,"100,0 kg155,5 kg (Mega)",82,80,80,100,100,83
+Glumanda,https://www.pokewiki.de/Glumanda,4,1. Generation‍,Rot,Charmander,1.059.860,"87,5% ♂ 12,5% ♀","0,6 m",Feuer,"8,5 kg",52,65,39,60,50,43
+Glutexo,https://www.pokewiki.de/Glutexo,5,1. Generation‍,Rot,Charmeleon,1.059.860,"87,5% ♂ 12,5% ♀","1,1 m",Feuer,"19,0 kg",64,80,58,80,65,58
+Glurak,https://www.pokewiki.de/Glurak,6,1. Generation‍,Rot,Charizard,1.059.860,"87,5% ♂ 12,5% ♀","1,7 m",Feuer Flug  Feuer Drache (Mega X),"90,5 kg 110,5 kg (Mega X)100,5 kg (Mega Y)",84,100,78,109,85,78
+Schiggy,https://www.pokewiki.de/Schiggy,7,1. Generation‍,Blau,Squirtle,1.059.860,"87,5% ♂ 12,5% ♀","0,5 m",Wasser,"9,0 kg",48,43,44,50,64,65
+Schillok,https://www.pokewiki.de/Schillok,8,1. Generation‍,Blau,Wartortle,1.059.860,"87,5% ♂ 12,5% ♀","1,0 m",Wasser,"22,5 kg",63,58,59,65,80,80
+Turtok,https://www.pokewiki.de/Turtok,9,1. Generation‍,Blau,Blastoise,1.059.860,"87,5% ♂ 12,5% ♀","1,6 m",Wasser,"85,5 kg101,1 kg (Mega)",83,78,79,85,105,100
+Raupy,https://www.pokewiki.de/Raupy,10,1. Generation‍,Grün,Caterpie,1.000.000,50% ♂ 50% ♀,"0,3 m",Käfer,"2,9 kg",30,45,45,20,20,35
+Safcon,https://www.pokewiki.de/Safcon,11,1. Generation‍,Grün,Metapod,1.000.000,50% ♂ 50% ♀,"0,7 m",Käfer,"9,9 kg",20,30,50,25,25,55
+Smettbo,https://www.pokewiki.de/Smettbo,12,1. Generation‍,Weiß,Butterfree,1.000.000,50% ♂ 50% ♀,"1,1 m",Käfer Flug,"32,0 kg",45,70,60,90,80,50
+Hornliu,https://www.pokewiki.de/Hornliu,13,1. Generation‍,Braun,Weedle,1.000.000,50% ♂ 50% ♀,"0,3 m",Käfer Gift,"3,2 kg",35,50,40,20,20,30
+Kokuna,https://www.pokewiki.de/Kokuna,14,1. Generation‍,Gelb,Kakuna,1.000.000,50% ♂ 50% ♀,"0,6 m",Käfer Gift,"10,0 kg",25,35,45,25,25,50
+Bibor,https://www.pokewiki.de/Bibor,15,1. Generation‍,Gelb,Beedrill,1.000.000,50% ♂ 50% ♀,"1,0 m1,4 m (Mega)",Käfer Gift,"29,5 kg40,5 kg (Mega)",90,75,65,45,80,40
+Taubsi,https://www.pokewiki.de/Taubsi,16,1. Generation‍,Braun,Pidgey,1.059.860,50% ♂ 50% ♀,"0,3 m",Normal Flug,"1,8 kg",45,56,40,35,35,40
+Tauboga,https://www.pokewiki.de/Tauboga,17,1. Generation‍,Braun,Pidgeotto,1.059.860,50% ♂ 50% ♀,"1,1 m",Normal Flug,"30,0 kg",60,71,63,50,50,55
+Tauboss,https://www.pokewiki.de/Tauboss,18,1. Generation‍,Braun,Pidgeot,1.059.860,50% ♂ 50% ♀,"1,5 m2,2 m (Mega)",Normal Flug,"39,5 kg50,5 kg (Mega)",80,101,83,70,70,75
+Rattfratz,https://www.pokewiki.de/Rattfratz,19,1. Generation‍,Violett,Rattata,1.000.000,50% ♂ 50% ♀,"0,3 m",Normal   Unlicht Normal (Alola),"3,5 kg3,8 kg (Alola)",56,72,30,25,35,35
+Rattikarl,https://www.pokewiki.de/Rattikarl,20,1. Generation‍,Braun,Raticate,1.000.000,50% ♂ 50% ♀,"0,7 m",Normal   Unlicht Normal (Alola),"18,5 kg25,5 kg (Alola)",81,97,55,50,70,60
+Habitak,https://www.pokewiki.de/Habitak,21,1. Generation‍,Braun,Spearow,1.000.000,50% ♂ 50% ♀,"0,3 m",Normal Flug,"2,0 kg",60,70,40,31,31,30
+Ibitak,https://www.pokewiki.de/Ibitak,22,1. Generation‍,Braun,Fearow,1.000.000,50% ♂ 50% ♀,"1,2 m",Normal Flug,"38,0 kg",90,100,65,61,61,65
+Rettan,https://www.pokewiki.de/Rettan,23,1. Generation‍,Violett,Ekans,1.000.000,50% ♂ 50% ♀,"2,0 m",Gift,"6,9 kg",60,55,35,40,54,44
+Arbok,https://www.pokewiki.de/Arbok,24,1. Generation‍,Violett,Arbok,1.000.000,50% ♂ 50% ♀,"3,5 m",Gift,"65,0 kg",95,80,60,65,79,69
+Pikachu,https://www.pokewiki.de/Pikachu,25,1. Generation‍,Gelb,Pikachu,1.000.000,50% ♂ 50% ♀,"0,4 m",Elektro,"6,0 kg",55,90,35,50,50,40
+Raichu,https://www.pokewiki.de/Raichu,26,1. Generation‍,Gelb,Raichu,1.000.000,50% ♂ 50% ♀,"0,8 m 0,7 m (Alola)",Elektro   Elektro Psycho (Alola),"30,0 kg21,0 kg (Alola)",90,110,60,90,80,55
+Sandan,https://www.pokewiki.de/Sandan,27,1. Generation‍,Gelb,Sandshrew,1.000.000,50% ♂ 50% ♀,"0,6 m0,7 m (Alola)",Boden   Eis Stahl (Alola),"12,0 kg40,0 kg (Alola)",75,40,50,20,30,85
+Sandamer,https://www.pokewiki.de/Sandamer,28,1. Generation‍,Gelb,Sandslash,1.000.000,50% ♂ 50% ♀,"1,0 m1,2 m (Alola)",Boden   Eis Stahl (Alola),"29,5 kg55,0 kg (Alola)",100,65,75,45,55,110
+Nidoran♀,https://www.pokewiki.de/Nidoran%E2%99%80,29,1. Generation‍,Blau,Nidoran♀,1.059.860,100% ♀,"0,4 m",Gift,"7,0 kg",47,41,55,40,40,52
+Nidorina,https://www.pokewiki.de/Nidorina,30,1. Generation‍,Blau,Nidorina,1.059.860,100% ♀,"0,8 m",Gift,"20,0 kg",62,56,70,55,55,67
+Nidoqueen,https://www.pokewiki.de/Nidoqueen,31,1. Generation‍,Blau,Nidoqueen,1.059.860,100% ♀,"1,3 m",Gift Boden,"60,0 kg",92,76,90,75,85,87
+Nidoran♂,https://www.pokewiki.de/Nidoran%E2%99%82,32,1. Generation‍,Violett,Nidoran♂,1.059.860,100% ♂,"0,5 m",Gift,"9,0 kg",57,50,46,40,40,40
+Nidorino,https://www.pokewiki.de/Nidorino,33,1. Generation‍,Violett,Nidorino,1.059.860,100% ♂,"0,9 m",Gift,"19,5 kg",72,65,61,55,55,57
+Nidoking,https://www.pokewiki.de/Nidoking,34,1. Generation‍,Violett,Nidoking,1.059.860,100% ♂,"1,4 m",Gift Boden,"62,0 kg",102,85,81,85,75,77
+Piepi,https://www.pokewiki.de/Piepi,35,1. Generation‍,Rosa,Clefairy,800.000,25% ♂ 75% ♀,"0,6 m",Fee,"7,5 kg",45,35,70,60,65,48
+Pixi,https://www.pokewiki.de/Pixi,36,1. Generation‍,Rosa,Clefable,800.000,25% ♂ 75% ♀,"1,3 m",Fee,"40,0 kg",70,60,95,95,90,73
+Vulpix,https://www.pokewiki.de/Vulpix,37,1. Generation‍,Braun,Vulpix,1.000.000,25% ♂ 75% ♀,"0,6 m",Feuer   Eis (Alola),"9,9 kg",41,65,38,50,65,40
+Vulnona,https://www.pokewiki.de/Vulnona,38,1. Generation‍,Gelb,Ninetales,1.000.000,25% ♂ 75% ♀,"1,1 m",Feuer   Eis Fee (Alola),"19,9 kg",76,100,73,81,100,75
+Pummeluff,https://www.pokewiki.de/Pummeluff,39,1. Generation‍,Rosa,Jigglypuff,800.000,25% ♂ 75% ♀,"0,5 m",Normal Fee,"5,5 kg",45,20,115,45,25,20
+Knuddeluff,https://www.pokewiki.de/Knuddeluff,40,1. Generation‍,Rosa,Wigglytuff,800.000,25% ♂ 75% ♀,"1,0 m",Normal Fee,"12,0 kg",70,45,140,85,50,45
+Zubat,https://www.pokewiki.de/Zubat,41,1. Generation‍,Violett,Zubat,1.000.000,50% ♂ 50% ♀,"0,8 m",Gift Flug,"7,5 kg",45,55,40,30,40,35
+Golbat,https://www.pokewiki.de/Golbat,42,1. Generation‍,Violett,Golbat,1.000.000,50% ♂ 50% ♀,"1,6 m",Gift Flug,"55,0 kg",80,90,75,65,75,70
+Myrapla,https://www.pokewiki.de/Myrapla,43,1. Generation‍,Blau,Oddish,1.059.860,50% ♂ 50% ♀,"0,5 m",Pflanze Gift,"5,4 kg",50,30,45,75,65,55
+Duflor,https://www.pokewiki.de/Duflor,44,1. Generation‍,Blau,Gloom,1.059.860,50% ♂ 50% ♀,"0,8 m",Pflanze Gift,"8,6 kg",65,40,60,85,75,70
+Giflor,https://www.pokewiki.de/Giflor,45,1. Generation‍,Rot,Vileplume,1.059.860,50% ♂ 50% ♀,"1,2 m",Pflanze Gift,"18,6 kg",80,50,75,110,90,85
+Paras,https://www.pokewiki.de/Paras,46,1. Generation‍,Rot,Paras,1.000.000,50% ♂ 50% ♀,"0,3 m",Käfer Pflanze,"5,4 kg",70,25,35,45,55,55
+Parasek,https://www.pokewiki.de/Parasek,47,1. Generation‍,Rot,Parasect,1.000.000,50% ♂ 50% ♀,"1,0 m",Käfer Pflanze,"29,5 kg",95,30,60,60,80,80
+Bluzuk,https://www.pokewiki.de/Bluzuk,48,1. Generation‍,Violett,Venonat,1.000.000,50% ♂ 50% ♀,"1,0 m",Käfer Gift,"30,0 kg",55,45,60,40,55,50
+Omot,https://www.pokewiki.de/Omot,49,1. Generation‍,Violett,Venomoth,1.000.000,50% ♂ 50% ♀,"1,5 m",Käfer Gift,"12,5 kg",65,90,70,90,75,60
+Digda,https://www.pokewiki.de/Digda,50,1. Generation‍,Braun,Diglett,1.000.000,50% ♂ 50% ♀,"0,2 m",Boden   BodenStahl (Alola),"0,8 kg1,0 kg (Alola)",55,95,10,35,45,25
+Digdri,https://www.pokewiki.de/Digdri,51,1. Generation‍,Braun,Dugtrio,1.000.000,50% ♂ 50% ♀,"0,7 m",Boden   Boden Stahl (Alola),"33,3 kg66,6 kg (Alola)",100,120,35,50,70,50
+Mauzi,https://www.pokewiki.de/Mauzi,52,1. Generation‍,Gelb,Meowth,1.000.000,50% ♂ 50% ♀,"0,4 m",Normal   Unlicht (Alola),"4,2 kg",45,90,40,40,40,35
+Snobilikat,https://www.pokewiki.de/Snobilikat,53,1. Generation‍,Gelb,Persian,1.000.000,50% ♂ 50% ♀,"1,0 m1,1 m (Alola)",Normal   Unlicht (Alola),"32,0 kg33,0 kg (Alola)",70,115,65,65,65,60
+Enton,https://www.pokewiki.de/Enton,54,1. Generation‍,Gelb,Psyduck,1.000.000,50% ♂ 50% ♀,"0,8 m",Wasser,"19,6 kg",52,55,50,65,50,48
+Entoron,https://www.pokewiki.de/Entoron,55,1. Generation‍,Blau,Golduck,1.000.000,50% ♂ 50% ♀,"1,7 m",Wasser,"76,6 kg",82,85,80,95,80,78
+Menki,https://www.pokewiki.de/Menki,56,1. Generation‍,Braun,Mankey,1.000.000,50% ♂ 50% ♀,"0,5 m",Kampf,"28,0 kg",80,70,40,35,45,35
+Rasaff,https://www.pokewiki.de/Rasaff,57,1. Generation‍,Braun,Primeape,1.000.000,50% ♂ 50% ♀,"1,0 m",Kampf,"32,0 kg",105,95,65,60,70,60
+Fukano,https://www.pokewiki.de/Fukano,58,1. Generation‍,Braun,Growlithe,1.250.000,75% ♂ 25% ♀,"0,7 m",Feuer,"19,0 kg",70,60,55,70,50,45
+Arkani,https://www.pokewiki.de/Arkani,59,1. Generation‍,Braun,Arcanine,1.250.000,75% ♂ 25% ♀,"1,9 m",Feuer,"155,0 kg",110,95,90,100,80,80
+Quapsel,https://www.pokewiki.de/Quapsel,60,1. Generation‍,Blau,Poliwag,1.059.860,50% ♂ 50% ♀,"0,6 m",Wasser,"12,4 kg",50,90,40,40,40,40
+Quaputzi,https://www.pokewiki.de/Quaputzi,61,1. Generation‍,Blau,Poliwhirl,1.059.860,50% ♂ 50% ♀,"1,0 m",Wasser,"20,0 kg",65,90,65,50,50,65
+Quappo,https://www.pokewiki.de/Quappo,62,1. Generation‍,Blau,Poliwrath,1.059.860,50% ♂ 50% ♀,"1,3 m",Wasser Kampf,"54,0 kg",95,70,90,70,90,95
+Abra,https://www.pokewiki.de/Abra,63,1. Generation‍,Braun,Abra,1.059.860,75% ♂ 25% ♀,"0,9 m",Psycho,"19,5 kg",20,90,25,105,55,15
+Kadabra,https://www.pokewiki.de/Kadabra,64,1. Generation‍,Braun,Kadabra,1.059.860,75% ♂ 25% ♀,"1,3 m",Psycho,"56,5 kg",35,105,40,120,70,30
+Simsala,https://www.pokewiki.de/Simsala,65,1. Generation‍,Braun,Alakazam,1.059.860,75% ♂ 25% ♀,"1,5 m 1,2 m (Mega)",Psycho,"48,0 kg",50,120,55,135,95,45
+Machollo,https://www.pokewiki.de/Machollo,66,1. Generation‍,Grau,Machop,1.059.860,75% ♂ 25% ♀,"0,8 m",Kampf,"19,5 kg",80,35,70,35,35,50
+Maschock,https://www.pokewiki.de/Maschock,67,1. Generation‍,Grau,Machoke,1.059.860,75% ♂ 25% ♀,"1,5 m",Kampf,"70,5 kg",100,45,80,50,60,70
+Machomei,https://www.pokewiki.de/Machomei,68,1. Generation‍,Grau,Machamp,1.059.860,75% ♂ 25% ♀,"1,6 m",Kampf,"130,0 kg",130,55,90,65,85,80
+Knofensa,https://www.pokewiki.de/Knofensa,69,1. Generation‍,Grün,Bellsprout,1.059.860,50% ♂ 50% ♀,"0,7 m",Pflanze Gift,"4,0 kg",75,40,50,70,30,35
+Ultrigaria,https://www.pokewiki.de/Ultrigaria,70,1. Generation‍,Grün,Weepinbell,1.059.860,50% ♂ 50% ♀,"1,0 m",Pflanze Gift,"6,4 kg",90,55,65,85,45,50
+Sarzenia,https://www.pokewiki.de/Sarzenia,71,1. Generation‍,Grün,Victreebel,1.059.860,50% ♂ 50% ♀,"1,7 m",Pflanze Gift,"15,5 kg",105,70,80,100,70,65
+Tentacha,https://www.pokewiki.de/Tentacha,72,1. Generation‍,Blau,Tentacool,1.250.000,50% ♂ 50% ♀,"0,9 m",Wasser Gift,"45,5 kg",40,70,40,50,100,35
+Tentoxa,https://www.pokewiki.de/Tentoxa,73,1. Generation‍,Blau,Tentacruel,1.250.000,50% ♂ 50% ♀,"1,6 m",Wasser Gift,"55,0 kg",70,100,80,80,120,65
+Kleinstein,https://www.pokewiki.de/Kleinstein,74,1. Generation‍,Braun,Geodude,1.059.860,50% ♂ 50% ♀,"0,4 m",Gestein Boden  GesteinElektro (Alola),"20,0 kg20,3 kg (Alola)",80,20,40,30,30,100
+Georok,https://www.pokewiki.de/Georok,75,1. Generation‍,Braun,Graveler,1.059.860,50% ♂ 50% ♀,"1,0 m",Gestein Boden  GesteinElektro (Alola),"105,0 kg110,0 kg (Alola)",95,35,55,45,45,115
+Geowaz,https://www.pokewiki.de/Geowaz,76,1. Generation‍,Braun,Golem,1.059.860,50% ♂ 50% ♀,"1,4 m1,7 m (Alola)",Gestein Boden  GesteinElektro (Alola),"300,0 kg316,0 kg (Alola)",120,45,80,55,65,130
+Ponita,https://www.pokewiki.de/Ponita,77,1. Generation‍,Gelb,Ponyta,1.000.000,50% ♂ 50% ♀,"1,0 m",Feuer,"30,0 kg",85,90,50,65,65,55
+Gallopa,https://www.pokewiki.de/Gallopa,78,1. Generation‍,Gelb,Rapidash,1.000.000,50% ♂ 50% ♀,"1,7 m",Feuer,"95,0 kg",100,105,65,80,80,70
+Flegmon,https://www.pokewiki.de/Flegmon,79,1. Generation‍,Rosa,Slowpoke,1.000.000,50% ♂ 50% ♀,"1,2 m",Wasser Psycho,"36,0 kg",65,15,90,40,40,65
+Lahmus,https://www.pokewiki.de/Lahmus,80,1. Generation‍,Rosa,Slowbro,1.000.000,50% ♂ 50% ♀,"1,6 m 2,0 m (Mega)",Wasser Psycho,"78,5 kg 120,0 kg (Mega)",75,30,95,100,80,110
+Magnetilo,https://www.pokewiki.de/Magnetilo,81,1. Generation‍,Grau,Magnemite,1.000.000,—,"0,3 m",Elektro Stahl,"6,0 kg",35,45,25,95,55,70
+Magneton,https://www.pokewiki.de/Magneton,82,1. Generation‍,Grau,Magneton,1.000.000,—,"1,0 m",Elektro Stahl,"60,0 kg",60,70,50,120,70,95
+Porenta,https://www.pokewiki.de/Porenta,83,1. Generation‍,Braun,Farfetch’d,1.000.000,50% ♂ 50% ♀,"0,8 m",Normal Flug,"15,0 kg",90,60,52,58,62,55
+Dodu,https://www.pokewiki.de/Dodu,84,1. Generation‍,Braun,Doduo,1.000.000,50% ♂ 50% ♀,"1,4 m",Normal Flug,"39,2 kg",85,75,35,35,35,45
+Dodri,https://www.pokewiki.de/Dodri,85,1. Generation‍,Braun,Dodrio,1.000.000,50% ♂ 50% ♀,"1,8 m",Normal Flug,"85,2 kg",110,110,60,60,60,70
+Jurob,https://www.pokewiki.de/Jurob,86,1. Generation‍,Weiß,Seel,1.000.000,50% ♂ 50% ♀,"1,1 m",Wasser,"90,0 kg",45,45,65,45,70,55
+Jugong,https://www.pokewiki.de/Jugong,87,1. Generation‍,Weiß,Dewgong,1.000.000,50% ♂ 50% ♀,"1,7 m",Wasser Eis,"120,0 kg",70,70,90,70,95,80
+Sleima,https://www.pokewiki.de/Sleima,88,1. Generation‍,Violett,Grimer,1.000.000,50% ♂ 50% ♀,"0,9 m0,7 m (Alola)",Gift   Gift Unlicht (Alola),"30,0 kg42,0 kg (Alola)",80,25,80,40,50,50
+Sleimok,https://www.pokewiki.de/Sleimok,89,1. Generation‍,Violett,Muk,1.000.000,50% ♂ 50% ♀,"1,2 m1,0 m (Alola)",Gift   Gift Unlicht (Alola),"30,0 kg52,0 kg (Alola)",105,50,105,65,100,75
+Muschas,https://www.pokewiki.de/Muschas,90,1. Generation‍,Violett,Shellder,1.250.000,50% ♂ 50% ♀,"0,3 m",Wasser,"4,0 kg",65,40,30,45,25,100
+Austos,https://www.pokewiki.de/Austos,91,1. Generation‍,Violett,Cloyster,1.250.000,50% ♂ 50% ♀,"1,5 m",Wasser Eis,"132,5 kg",95,70,50,85,45,180
+Nebulak,https://www.pokewiki.de/Nebulak,92,1. Generation‍,Violett,Gastly,1.059.860,50% ♂ 50% ♀,"1,3 m",Geist Gift,"0,1 kg",35,80,30,100,35,30
+Alpollo,https://www.pokewiki.de/Alpollo,93,1. Generation‍,Violett,Haunter,1.059.860,50% ♂ 50% ♀,"1,6 m",Geist Gift,"0,1 kg",50,95,45,115,55,45
+Gengar,https://www.pokewiki.de/Gengar,94,1. Generation‍,Violett,Gengar,1.059.860,50% ♂ 50% ♀,"1,5 m 1,4 m (Mega)",Geist Gift,"40,5 kg",65,110,60,130,75,60
+Onix,https://www.pokewiki.de/Onix,95,1. Generation‍,Grau,Onix,1.000.000,50% ♂ 50% ♀,"8,8 m",Gestein Boden,"210,0 kg",45,70,35,30,45,160
+Traumato,https://www.pokewiki.de/Traumato,96,1. Generation‍,Gelb,Drowzee,1.000.000,50% ♂ 50% ♀,"1,0 m",Psycho,"32,4 kg",48,42,60,43,90,45
+Hypno,https://www.pokewiki.de/Hypno,97,1. Generation‍,Gelb,Hypno,1.000.000,50% ♂ 50% ♀,"1,6 m",Psycho,"75,6 kg",73,67,85,73,115,70
+Krabby,https://www.pokewiki.de/Krabby,98,1. Generation‍,Rot,Krabby,1.000.000,50% ♂ 50% ♀,"0,4 m",Wasser,"6,5 kg",105,50,30,25,25,90
+Kingler,https://www.pokewiki.de/Kingler,99,1. Generation‍,Rot,Kingler,1.000.000,50% ♂ 50% ♀,"1,3 m",Wasser,"60,0 kg",130,75,55,50,50,115
+Voltobal,https://www.pokewiki.de/Voltobal,100,1. Generation‍,Rot,Voltorb,1.000.000,—,"0,5 m",Elektro,"10,4 kg",30,100,40,55,55,50
+Lektrobal,https://www.pokewiki.de/Lektrobal,101,1. Generation‍,Rot,Electrode,1.000.000,—,"1,2 m",Elektro,"66,6 kg",50,150,60,80,80,70
+Owei,https://www.pokewiki.de/Owei,102,1. Generation‍,Rosa,Exeggcute,1.250.000,50% ♂ 50% ♀,"0,4 m",Pflanze Psycho,"2,5 kg",40,40,60,60,45,80
+Kokowei,https://www.pokewiki.de/Kokowei,103,1. Generation‍,Gelb,Exeggutor,1.250.000,50% ♂ 50% ♀,"2,0 m10,9 m (Alola)",Pflanze Psycho  Pflanze Drache (Alola),"120,0 kg415,6 kg (Alola)",95,55,95,125,75,85
+Tragosso,https://www.pokewiki.de/Tragosso,104,1. Generation‍,Braun,Cubone,1.000.000,50% ♂ 50% ♀,"0,4 m",Boden,"6,5 kg",50,35,50,40,50,95
+Knogga,https://www.pokewiki.de/Knogga,105,1. Generation‍,Braun,Marowak,1.000.000,50% ♂ 50% ♀,"1,0 m",Boden   Feuer Geist (Alola),"45,0 kg34,0 kg (Alola)",80,45,60,50,80,110
+Kicklee,https://www.pokewiki.de/Kicklee,106,1. Generation‍,Braun,Hitmonlee,1.000.000,100% ♂,"1,5 m",Kampf,"49,8 kg",120,87,50,35,110,53
+Nockchan,https://www.pokewiki.de/Nockchan,107,1. Generation‍,Braun,Hitmonchan,1.000.000,100% ♂,"1,4 m",Kampf,"50,2 kg",105,76,50,35,110,79
+Schlurp,https://www.pokewiki.de/Schlurp,108,1. Generation‍,Rosa,Lickitung,1.000.000,50% ♂ 50% ♀,"1,2 m",Normal,"65,5 kg",55,30,90,60,75,75
+Smogon,https://www.pokewiki.de/Smogon,109,1. Generation‍,Violett,Koffing,1.000.000,50% ♂ 50% ♀,"0,6 m",Gift,"1,0 kg",65,35,40,60,45,95
+Smogmog,https://www.pokewiki.de/Smogmog,110,1. Generation‍,Violett,Weezing,1.000.000,50% ♂ 50% ♀,"1,2 m",Gift,"9,5 kg",90,60,65,85,70,120
+Rihorn,https://www.pokewiki.de/Rihorn,111,1. Generation‍,Grau,Rhyhorn,1.250.000,50% ♂ 50% ♀,"1,0 m",Boden Gestein,"115,0 kg",85,25,80,30,30,95
+Rizeros,https://www.pokewiki.de/Rizeros,112,1. Generation‍,Grau,Rhydon,1.250.000,50% ♂ 50% ♀,"1,9 m",Boden Gestein,"120,0 kg",130,40,105,45,45,120
+Chaneira,https://www.pokewiki.de/Chaneira,113,1. Generation‍,Rosa,Chansey,800.000,100% ♀,"1,1 m",Normal,"34,6 kg",5,50,250,35,105,5
+Tangela,https://www.pokewiki.de/Tangela,114,1. Generation‍,Blau,Tangela,1.000.000,50% ♂ 50% ♀,"1,0 m",Pflanze,"35,0 kg",55,60,65,100,40,115
+Kangama,https://www.pokewiki.de/Kangama,115,1. Generation‍,Braun,Kangaskhan,1.000.000,100% ♀,"2,2 m",Normal,"80,0 kg 100,0 kg (Mega)",95,90,105,40,80,80
+Seeper,https://www.pokewiki.de/Seeper,116,1. Generation‍,Blau,Horsea,1.000.000,50% ♂ 50% ♀,"0,4 m",Wasser,"8,0 kg",40,60,30,70,25,70
+Seemon,https://www.pokewiki.de/Seemon,117,1. Generation‍,Blau,Seadra,1.000.000,50% ♂ 50% ♀,"1,2 m",Wasser,"25,0 kg",65,85,55,95,45,95
+Goldini,https://www.pokewiki.de/Goldini,118,1. Generation‍,Rot,Goldeen,1.000.000,50% ♂ 50% ♀,"0,6 m",Wasser,"15,0 kg",67,63,45,35,50,60
+Golking,https://www.pokewiki.de/Golking,119,1. Generation‍,Rot,Seaking,1.000.000,50% ♂ 50% ♀,"1,3 m",Wasser,"39,0 kg",92,68,80,65,80,65
+Sterndu,https://www.pokewiki.de/Sterndu,120,1. Generation‍,Braun,Staryu,1.250.000,—,"0,8 m",Wasser,"34,5 kg",45,85,30,70,55,55
+Starmie,https://www.pokewiki.de/Starmie,121,1. Generation‍,Violett,Starmie,1.250.000,—,"1,1 m",Wasser Psycho,"80,0 kg",75,115,60,100,85,85
+Pantimos,https://www.pokewiki.de/Pantimos,122,1. Generation‍,Rosa,Mr. Mime,1.000.000,50% ♂ 50% ♀,"1,3 m",Psycho Fee,"54,5 kg",45,90,40,100,120,65
+Sichlor,https://www.pokewiki.de/Sichlor,123,1. Generation‍,Grün,Scyther,1.000.000,50% ♂ 50% ♀,"1,5 m",Käfer Flug,"56,0 kg",110,105,70,55,80,80
+Rossana,https://www.pokewiki.de/Rossana,124,1. Generation‍,Rot,Jynx,1.000.000,100% ♀,"1,4 m",Eis Psycho,"40,6 kg",50,95,65,115,95,35
+Elektek,https://www.pokewiki.de/Elektek,125,1. Generation‍,Gelb,Electabuzz,1.000.000,75% ♂ 25% ♀,"1,1 m",Elektro,"30,0 kg",83,105,65,95,85,57
+Magmar,https://www.pokewiki.de/Magmar,126,1. Generation‍,Rot,Magmar,1.000.000,75% ♂ 25% ♀,"1,3 m",Feuer,"44,5 kg",95,93,65,100,85,57
+Pinsir,https://www.pokewiki.de/Pinsir,127,1. Generation‍,Braun,Pinsir,1.250.000,50% ♂ 50% ♀,"1,5 m 1,7 m (Mega)",Käfer   Käfer Flug (Mega),"55,0 kg 59,0 kg (Mega)",125,85,65,55,70,100
+Tauros,https://www.pokewiki.de/Tauros,128,1. Generation‍,Braun,Tauros,1.250.000,100% ♂,"1,4 m",Normal,"88,4 kg",100,110,75,40,70,95
+Karpador,https://www.pokewiki.de/Karpador,129,1. Generation‍,Rot,Magikarp,1.250.000,50% ♂ 50% ♀,"0,9 m",Wasser,"10,0 kg",10,80,20,15,20,55
+Garados,https://www.pokewiki.de/Garados,130,1. Generation‍,Blau,Gyarados,1.250.000,50% ♂ 50% ♀,"6,5 m",Wasser Flug  Wasser Unlicht (Mega),"235,0 kg 305,0 kg (Mega)",125,81,95,60,100,79
+Lapras,https://www.pokewiki.de/Lapras,131,1. Generation‍,Blau,Lapras,1.250.000,50% ♂ 50% ♀,"2,5 m",Wasser Eis,"220,0 kg",85,60,130,85,95,80
+Ditto,https://www.pokewiki.de/Ditto,132,1. Generation‍,Violett,Ditto,1.000.000,—,"0,3 m",Normal,"4,0 kg",48,48,48,48,48,48
+Evoli,https://www.pokewiki.de/Evoli,133,1. Generation‍,Braun,Eevee,1.000.000,"87,5% ♂ 12,5% ♀","0,3 m",Normal,"6,5 kg",55,55,55,45,65,50
+Aquana,https://www.pokewiki.de/Aquana,134,1. Generation‍,Blau,Vaporeon,1.000.000,"87,5% ♂ 12,5% ♀","1,0 m",Wasser,"29,0 kg",65,65,130,110,95,60
+Blitza,https://www.pokewiki.de/Blitza,135,1. Generation‍,Gelb,Jolteon,1.000.000,"87,5% ♂ 12,5% ♀","0,8 m",Elektro,"24,5 kg",65,130,65,110,95,60
+Flamara,https://www.pokewiki.de/Flamara,136,1. Generation‍,Rot,Flareon,1.000.000,"87,5% ♂ 12,5% ♀","0,9 m",Feuer,"25,0 kg",130,65,65,95,110,60
+Porygon,https://www.pokewiki.de/Porygon,137,1. Generation‍,Rosa,Porygon,1.000.000,—,"0,8 m",Normal,"36,5 kg",60,40,65,85,75,70
+Amonitas,https://www.pokewiki.de/Amonitas,138,1. Generation‍,Blau,Omanyte,1.000.000,"87,5% ♂ 12,5% ♀","0,4 m",Gestein Wasser,"7,5 kg",40,35,35,90,55,100
+Amoroso,https://www.pokewiki.de/Amoroso,139,1. Generation‍,Blau,Omastar,1.000.000,"87,5% ♂ 12,5% ♀","1,0 m",Gestein Wasser,"35,0 kg",60,55,70,115,70,125
+Kabuto,https://www.pokewiki.de/Kabuto,140,1. Generation‍,Braun,Kabuto,1.000.000,"87,5% ♂ 12,5% ♀","0,5 m",Gestein Wasser,"11,5 kg",80,55,30,55,45,90
+Kabutops,https://www.pokewiki.de/Kabutops,141,1. Generation‍,Braun,Kabutops,1.000.000,"87,5% ♂ 12,5% ♀","1,3 m",Gestein Wasser,"40,5 kg",115,80,60,65,70,105
+Aerodactyl,https://www.pokewiki.de/Aerodactyl,142,1. Generation‍,Violett,Aerodactyl,1.250.000,"87,5% ♂ 12,5% ♀","1,8 m 2,1 m (Mega)",Gestein Flug,"59,0 kg 79,0 kg (Mega)",105,130,80,60,75,65
+Relaxo,https://www.pokewiki.de/Relaxo,143,1. Generation‍,Schwarz,Snorlax,1.250.000,"87,5% ♂ 12,5% ♀","2,1 m",Normal,"460,0 kg",110,30,160,65,110,65
+Arktos,https://www.pokewiki.de/Arktos,144,1. Generation‍,Blau,Articuno,1.250.000,—,"1,7 m",Eis Flug,"55,4 kg",85,85,90,95,125,100
+Zapdos,https://www.pokewiki.de/Zapdos,145,1. Generation‍,Gelb,Zapdos,1.250.000,—,"1,6 m",Elektro Flug,"52,6 kg",90,100,90,125,90,85
+Lavados,https://www.pokewiki.de/Lavados,146,1. Generation‍,Gelb,Moltres,1.250.000,—,"2,0 m",Feuer Flug,"60,0 kg",100,90,90,125,85,90
+Dratini,https://www.pokewiki.de/Dratini,147,1. Generation‍,Blau,Dratini,1.250.000,50% ♂ 50% ♀,"1,8 m",Drache,"3,3 kg",64,50,41,50,50,45
+Dragonir,https://www.pokewiki.de/Dragonir,148,1. Generation‍,Blau,Dragonair,1.250.000,50% ♂ 50% ♀,"4,0 m",Drache,"16,5 kg",84,70,61,70,70,65
+Dragoran,https://www.pokewiki.de/Dragoran,149,1. Generation‍,Braun,Dragonite,1.250.000,50% ♂ 50% ♀,"2,2 m",Drache Flug,"210,0 kg",134,80,91,100,100,95
+Mewtu,https://www.pokewiki.de/Mewtu,150,1. Generation‍,Violett,Mewtwo,1.250.000,—,"2,0 m 2,3 m (Mega X)1,5 m (Mega Y)",Psycho   Psycho Kampf (Mega X),"122,0 kg 127,0 kg (Mega X)33,0 kg (Mega Y)",110,130,106,154,90,90
+Mew,https://www.pokewiki.de/Mew,151,1. Generation‍,Rosa,Mew,1.059.860,—,"0,4 m",Psycho,"4,0 kg",100,100,100,100,100,100
+Endivie,https://www.pokewiki.de/Endivie,152,2. Generation‍,Grün,Chikorita,1.059.860,"87,5% ♂ 12,5% ♀","0,9 m",Pflanze,"6,4 kg",49,45,45,49,65,65
+Lorblatt,https://www.pokewiki.de/Lorblatt,153,2. Generation‍,Grün,Bayleef,1.059.860,"87,5% ♂ 12,5% ♀","1,2 m",Pflanze,"15,8 kg",62,60,60,63,80,80
+Meganie,https://www.pokewiki.de/Meganie,154,2. Generation‍,Grün,Meganium,1.059.860,"87,5% ♂ 12,5% ♀","1,8 m",Pflanze,"100,5 kg",82,80,80,83,100,100
+Feurigel,https://www.pokewiki.de/Feurigel,155,2. Generation‍,Gelb,Cyndaquil,1.059.860,"87,5% ♂ 12,5% ♀","0,5 m",Feuer,"7,9 kg",52,65,39,60,50,43
+Igelavar,https://www.pokewiki.de/Igelavar,156,2. Generation‍,Gelb,Quilava,1.059.860,"87,5% ♂ 12,5% ♀","0,9 m",Feuer,"19,0 kg",64,80,58,80,65,58
+Tornupto,https://www.pokewiki.de/Tornupto,157,2. Generation‍,Gelb,Typhlosion,1.059.860,"87,5% ♂ 12,5% ♀","1,7 m",Feuer,"79,5 kg",84,100,78,109,85,78
+Karnimani,https://www.pokewiki.de/Karnimani,158,2. Generation‍,Blau,Totodile,1.059.860,"87,5% ♂ 12,5% ♀","0,6 m",Wasser,"9,5 kg",65,43,50,44,48,64
+Tyracroc,https://www.pokewiki.de/Tyracroc,159,2. Generation‍,Blau,Croconaw,1.059.860,"87,5% ♂ 12,5% ♀","1,1 m",Wasser,"25,0 kg",80,58,65,59,63,80
+Impergator,https://www.pokewiki.de/Impergator,160,2. Generation‍,Blau,Feraligatr,1.059.860,"87,5% ♂ 12,5% ♀","2,3 m",Wasser,"88,8 kg",105,78,85,79,83,100
+Wiesor,https://www.pokewiki.de/Wiesor,161,2. Generation‍,Braun,Sentret,1.000.000,50% ♂ 50% ♀,"0,8 m",Normal,"6,0 kg",46,20,35,35,45,34
+Wiesenior,https://www.pokewiki.de/Wiesenior,162,2. Generation‍,Braun,Furret,1.000.000,50% ♂ 50% ♀,"1,8 m",Normal,"32,5 kg",76,90,85,45,55,64
+Hoothoot,https://www.pokewiki.de/Hoothoot,163,2. Generation‍,Braun,Hoothoot,1.000.000,50% ♂ 50% ♀,"0,7 m",Normal Flug,"21,2 kg",30,50,60,36,56,30
+Noctuh,https://www.pokewiki.de/Noctuh,164,2. Generation‍,Braun,Noctowl,1.000.000,50% ♂ 50% ♀,"1,6 m",Normal Flug,"40,8 kg",50,70,100,86,96,50
+Ledyba,https://www.pokewiki.de/Ledyba,165,2. Generation‍,Rot,Ledyba,800.000,50% ♂ 50% ♀,"1,0 m",Käfer Flug,"10,8 kg",20,55,40,40,80,30
+Ledian,https://www.pokewiki.de/Ledian,166,2. Generation‍,Rot,Ledian,800.000,50% ♂ 50% ♀,"1,4 m",Käfer Flug,"35,6 kg",35,85,55,55,110,50
+Webarak,https://www.pokewiki.de/Webarak,167,2. Generation‍,Grün,Spinarak,800.000,50% ♂ 50% ♀,"0,5 m",Käfer Gift,"8,5 kg",60,30,40,40,40,40
+Ariados,https://www.pokewiki.de/Ariados,168,2. Generation‍,Rot,Ariados,800.000,50% ♂ 50% ♀,"1,1 m",Käfer Gift,"33,5 kg",90,40,70,60,70,70
+Iksbat,https://www.pokewiki.de/Iksbat,169,2. Generation‍,Violett,Crobat,1.000.000,50% ♂ 50% ♀,"1,8 m",Gift Flug,"75,0 kg",90,130,85,70,80,80
+Lampi,https://www.pokewiki.de/Lampi,170,2. Generation‍,Blau,Chinchou,1.250.000,50% ♂ 50% ♀,"0,5 m",Wasser Elektro,"12,0 kg",38,67,75,56,56,38
+Lanturn,https://www.pokewiki.de/Lanturn,171,2. Generation‍,Blau,Lanturn,1.250.000,50% ♂ 50% ♀,"1,2 m",Wasser Elektro,"22,5 kg",58,67,125,76,76,58
+Pichu,https://www.pokewiki.de/Pichu,172,2. Generation‍,Gelb,Pichu,1.000.000,50% ♂ 50% ♀,"0,3 m",Elektro,"2,0 kg",40,60,20,35,35,15
+Pii,https://www.pokewiki.de/Pii,173,2. Generation‍,Rosa,Cleffa,800.000,25% ♂ 75% ♀,"0,3 m",Fee,"3,0 kg",25,15,50,45,55,28
+Fluffeluff,https://www.pokewiki.de/Fluffeluff,174,2. Generation‍,Rosa,Igglybuff,800.000,25% ♂ 75% ♀,"0,3 m",Normal Fee,"1,0 kg",30,15,90,40,20,15
+Togepi,https://www.pokewiki.de/Togepi,175,2. Generation‍,Weiß,Togepi,800.000,"87,5% ♂ 12,5% ♀","0,3 m",Fee,"1,5 kg",20,20,35,40,65,65
+Togetic,https://www.pokewiki.de/Togetic,176,2. Generation‍,Weiß,Togetic,800.000,"87,5% ♂ 12,5% ♀","0,6 m",Fee Flug,"3,2 kg",40,40,55,80,105,85
+Natu,https://www.pokewiki.de/Natu,177,2. Generation‍,Grün,Natu,1.000.000,50% ♂ 50% ♀,"0,2 m",Psycho Flug,"2,0 kg",50,70,40,70,45,45
+Xatu,https://www.pokewiki.de/Xatu,178,2. Generation‍,Grün,Xatu,1.000.000,50% ♂ 50% ♀,"1,5 m",Psycho Flug,"15,0 kg",75,95,65,95,70,70
+Voltilamm,https://www.pokewiki.de/Voltilamm,179,2. Generation‍,Weiß,Mareep,1.059.860,50% ♂ 50% ♀,"0,6 m",Elektro,"7,8 kg",40,35,55,65,45,40
+Waaty,https://www.pokewiki.de/Waaty,180,2. Generation‍,Rosa,Flaaffy,1.059.860,50% ♂ 50% ♀,"0,8 m",Elektro,"13,3 kg",55,45,70,80,60,55
+Ampharos,https://www.pokewiki.de/Ampharos,181,2. Generation‍,Gelb,Ampharos,1.059.860,50% ♂ 50% ♀,"1,4 m",Elektro   Elektro Drache (Mega),"61,5 kg",75,55,90,115,90,85
+Blubella,https://www.pokewiki.de/Blubella,182,2. Generation‍,Grün,Bellossom,1.059.860,50% ♂ 50% ♀,"0,4 m",Pflanze,"5,8 kg",80,50,75,90,100,95
+Marill,https://www.pokewiki.de/Marill,183,2. Generation‍,Blau,Marill,800.000,50% ♂ 50% ♀,"0,4 m",Wasser Fee,"8,5 kg",20,40,70,20,50,50
+Azumarill,https://www.pokewiki.de/Azumarill,184,2. Generation‍,Blau,Azumarill,800.000,50% ♂ 50% ♀,"0,8 m",Wasser Fee,"28,5 kg",50,50,100,60,80,80
+Mogelbaum,https://www.pokewiki.de/Mogelbaum,185,2. Generation‍,Braun,Sudowoodo,1.000.000,50% ♂ 50% ♀,"1,2 m",Gestein,"38,0 kg",100,30,70,30,65,115
+Quaxo,https://www.pokewiki.de/Quaxo,186,2. Generation‍,Grün,Politoed,1.059.860,50% ♂ 50% ♀,"1,1 m",Wasser,"33,9 kg",75,70,90,90,100,75
+Hoppspross,https://www.pokewiki.de/Hoppspross,187,2. Generation‍,Rosa,Hoppip,1.059.860,50% ♂ 50% ♀,"0,4 m",Pflanze Flug,"0,5 kg",35,50,35,35,55,40
+Hubelupf,https://www.pokewiki.de/Hubelupf,188,2. Generation‍,Grün,Skiploom,1.059.860,50% ♂ 50% ♀,"0,6 m",Pflanze Flug,"1,0 kg",45,80,55,45,65,50
+Papungha,https://www.pokewiki.de/Papungha,189,2. Generation‍,Blau,Jumpluff,1.059.860,50% ♂ 50% ♀,"0,8 m",Pflanze Flug,"3,0 kg",55,110,75,55,95,70
+Griffel,https://www.pokewiki.de/Griffel,190,2. Generation‍,Violett,Aipom,800.000,50% ♂ 50% ♀,"0,8 m",Normal,"11,5 kg",70,85,55,40,55,55
+Sonnkern,https://www.pokewiki.de/Sonnkern,191,2. Generation‍,Gelb,Sunkern,1.059.860,50% ♂ 50% ♀,"0,3 m",Pflanze,"1,8 kg",30,30,30,30,30,30
+Sonnflora,https://www.pokewiki.de/Sonnflora,192,2. Generation‍,Gelb,Sunflora,1.059.860,50% ♂ 50% ♀,"0,8 m",Pflanze,"8,5 kg",75,30,75,105,85,55
+Yanma,https://www.pokewiki.de/Yanma,193,2. Generation‍,Rot,Yanma,1.000.000,50% ♂ 50% ♀,"1,2 m",Käfer Flug,"38,0 kg",65,95,65,75,45,45
+Felino,https://www.pokewiki.de/Felino,194,2. Generation‍,Blau,Wooper,1.000.000,50% ♂ 50% ♀,"0,4 m",Wasser Boden,"8,5 kg",45,15,55,25,25,45
+Morlord,https://www.pokewiki.de/Morlord,195,2. Generation‍,Blau,Quagsire,1.000.000,50% ♂ 50% ♀,"1,4 m",Wasser Boden,"75,0 kg",85,35,95,65,65,85
+Psiana,https://www.pokewiki.de/Psiana,196,2. Generation‍,Violett,Espeon,1.000.000,"87,5% ♂ 12,5% ♀","0,9 m",Psycho,"26,5 kg",65,110,65,130,95,60
+Nachtara,https://www.pokewiki.de/Nachtara,197,2. Generation‍,Schwarz,Umbreon,1.000.000,"87,5% ♂ 12,5% ♀","1,0 m",Unlicht,"27,0 kg",65,65,95,60,130,110
+Kramurx,https://www.pokewiki.de/Kramurx,198,2. Generation‍,Schwarz,Murkrow,1.059.860,50% ♂ 50% ♀,"0,5 m",Unlicht Flug,"2,1 kg",85,91,60,85,42,42
+Laschoking,https://www.pokewiki.de/Laschoking,199,2. Generation‍,Rosa,Slowking,1.000.000,50% ♂ 50% ♀,"2,0 m",Wasser Psycho,"79,5 kg",75,30,95,100,110,80
+Traunfugil,https://www.pokewiki.de/Traunfugil,200,2. Generation‍,Grau,Misdreavus,800.000,50% ♂ 50% ♀,"0,7 m",Geist,"1,0 kg",60,85,60,85,85,60
+Icognito,https://www.pokewiki.de/Icognito,201,2. Generation‍,Schwarz,Unown,1.000.000,—,"0,5 m",Psycho,"5,0 kg",72,48,48,72,48,48
+Woingenau,https://www.pokewiki.de/Woingenau,202,2. Generation‍,Blau,Wobbuffet,1.000.000,50% ♂ 50% ♀,"1,3 m",Psycho,"28,5 kg",33,33,190,33,58,58
+Girafarig,https://www.pokewiki.de/Girafarig,203,2. Generation‍,Gelb,Girafarig,1.000.000,50% ♂ 50% ♀,"1,5 m",Normal Psycho,"41,5 kg",80,85,70,90,65,65
+Tannza,https://www.pokewiki.de/Tannza,204,2. Generation‍,Grau,Pineco,1.000.000,50% ♂ 50% ♀,"0,6 m",Käfer,"7,2 kg",65,15,50,35,35,90
+Forstellka,https://www.pokewiki.de/Forstellka,205,2. Generation‍,Violett,Forretress,1.000.000,50% ♂ 50% ♀,"1,2 m",Käfer Stahl,"125,8 kg",90,40,75,60,60,140
+Dummisel,https://www.pokewiki.de/Dummisel,206,2. Generation‍,Gelb,Dunsparce,1.000.000,50% ♂ 50% ♀,"1,5 m",Normal,"14,0 kg",70,45,100,65,65,70
+Skorgla,https://www.pokewiki.de/Skorgla,207,2. Generation‍,Violett,Gligar,1.059.860,50% ♂ 50% ♀,"1,1 m",Boden Flug,"64,8 kg",75,85,65,35,65,105
+Stahlos,https://www.pokewiki.de/Stahlos,208,2. Generation‍,Grau,Steelix,1.000.000,50% ♂ 50% ♀,"9,2 m10,5 m (Mega)",Stahl Boden,"400,0 kg740,0 kg (Mega)",85,30,75,55,65,200
+Snubbull,https://www.pokewiki.de/Snubbull,209,2. Generation‍,Rosa,Snubbull,800.000,25% ♂ 75% ♀,"0,6 m",Fee,"7,8 kg",80,30,60,40,40,50
+Granbull,https://www.pokewiki.de/Granbull,210,2. Generation‍,Violett,Granbull,800.000,25% ♂ 75% ♀,"1,4 m",Fee,"48,7 kg",120,45,90,60,60,75
+Baldorfish,https://www.pokewiki.de/Baldorfish,211,2. Generation‍,Grau,Qwilfish,1.000.000,50% ♂ 50% ♀,"0,5 m",Wasser Gift,"3,9 kg",95,85,65,55,55,85
+Scherox,https://www.pokewiki.de/Scherox,212,2. Generation‍,Rot,Scizor,1.000.000,50% ♂ 50% ♀,"1,8 m 2,0 m (Mega)",Käfer Stahl,"118,0 kg 125,0 kg (Mega)",130,65,70,55,80,100
+Pottrott,https://www.pokewiki.de/Pottrott,213,2. Generation‍,Gelb,Shuckle,1.059.860,50% ♂ 50% ♀,"0,6 m",Käfer Gestein,"20,5 kg",10,5,20,10,230,230
+Skaraborn,https://www.pokewiki.de/Skaraborn,214,2. Generation‍,Blau,Heracross,1.250.000,50% ♂ 50% ♀,"1,5 m 1,7 m (Mega)",Käfer Kampf,"54,0 kg 62,5 kg (Mega)",125,85,80,40,95,75
+Sniebel,https://www.pokewiki.de/Sniebel,215,2. Generation‍,Schwarz,Sneasel,1.059.860,50% ♂ 50% ♀,"0,9 m",Unlicht Eis,"28,0 kg",95,115,55,35,75,55
+Teddiursa,https://www.pokewiki.de/Teddiursa,216,2. Generation‍,Braun,Teddiursa,1.000.000,50% ♂ 50% ♀,"0,6 m",Normal,"8,8 kg",80,40,60,50,50,50
+Ursaring,https://www.pokewiki.de/Ursaring,217,2. Generation‍,Braun,Ursaring,1.000.000,50% ♂ 50% ♀,"1,8 m",Normal,"125,8 kg",130,55,90,75,75,75
+Schneckmag,https://www.pokewiki.de/Schneckmag,218,2. Generation‍,Rot,Slugma,1.000.000,50% ♂ 50% ♀,"0,7 m",Feuer,"35,0 kg",40,20,40,70,40,40
+Magcargo,https://www.pokewiki.de/Magcargo,219,2. Generation‍,Rot,Magcargo,1.000.000,50% ♂ 50% ♀,"0,8 m",Feuer Gestein,"55,0 kg",50,30,60,90,80,120
+Quiekel,https://www.pokewiki.de/Quiekel,220,2. Generation‍,Braun,Swinub,1.250.000,50% ♂ 50% ♀,"0,4 m",Eis Boden,"6,5 kg",50,50,50,30,30,40
+Keifel,https://www.pokewiki.de/Keifel,221,2. Generation‍,Braun,Piloswine,1.250.000,50% ♂ 50% ♀,"1,1 m",Eis Boden,"55,8 kg",100,50,100,60,60,80
+Corasonn,https://www.pokewiki.de/Corasonn,222,2. Generation‍,Rosa,Corsola,800.000,25% ♂ 75% ♀,"0,6 m",Wasser Gestein,"5,0 kg",55,35,65,65,95,95
+Remoraid,https://www.pokewiki.de/Remoraid,223,2. Generation‍,Grau,Remoraid,1.000.000,50% ♂ 50% ♀,"0,6 m",Wasser,"12,0 kg",65,65,35,65,35,35
+Octillery,https://www.pokewiki.de/Octillery,224,2. Generation‍,Rot,Octillery,1.000.000,50% ♂ 50% ♀,"0,9 m",Wasser,"28,5 kg",105,45,75,105,75,75
+Botogel,https://www.pokewiki.de/Botogel,225,2. Generation‍,Rot,Delibird,800.000,50% ♂ 50% ♀,"0,9 m",Eis Flug,"16,0 kg",55,75,45,65,45,45
+Mantax,https://www.pokewiki.de/Mantax,226,2. Generation‍,Violett,Mantine,1.250.000,50% ♂ 50% ♀,"2,1 m",Wasser Flug,"220,0 kg",40,70,85,80,140,70
+Panzaeron,https://www.pokewiki.de/Panzaeron,227,2. Generation‍,Grau,Skarmory,1.250.000,50% ♂ 50% ♀,"1,7 m",Stahl Flug,"50,5 kg",80,70,65,40,70,140
+Hunduster,https://www.pokewiki.de/Hunduster,228,2. Generation‍,Schwarz,Houndour,1.250.000,50% ♂ 50% ♀,"0,6 m",Unlicht Feuer,"10,8 kg",60,65,45,80,50,30
+Hundemon,https://www.pokewiki.de/Hundemon,229,2. Generation‍,Schwarz,Houndoom,1.250.000,50% ♂ 50% ♀,"1,4 m 1,9 m (Mega)",Unlicht Feuer,"35,0 kg 49,5 kg (Mega)",90,95,75,110,80,50
+Seedraking,https://www.pokewiki.de/Seedraking,230,2. Generation‍,Blau,Kingdra,1.000.000,50% ♂ 50% ♀,"1,8 m",Wasser Drache,"152,0 kg",95,85,75,95,95,95
+Phanpy,https://www.pokewiki.de/Phanpy,231,2. Generation‍,Blau,Phanpy,1.000.000,50% ♂ 50% ♀,"0,5 m",Boden,"33,5 kg",60,40,90,40,40,60
+Donphan,https://www.pokewiki.de/Donphan,232,2. Generation‍,Grau,Donphan,1.000.000,50% ♂ 50% ♀,"1,1 m",Boden,"120,0 kg",120,50,90,60,60,120
+Porygon2,https://www.pokewiki.de/Porygon2,233,2. Generation‍,Rot,Porygon2,1.000.000,—,"0,6 m",Normal,"32,5 kg",80,60,85,105,95,90
+Damhirplex,https://www.pokewiki.de/Damhirplex,234,2. Generation‍,Braun,Stantler,1.250.000,50% ♂ 50% ♀,"1,4 m",Normal,"71,2 kg",95,85,73,85,65,62
+Farbeagle,https://www.pokewiki.de/Farbeagle,235,2. Generation‍,Weiß,Smeargle,800.000,50% ♂ 50% ♀,"1,2 m",Normal,"58,0 kg",20,75,55,20,45,35
+Rabauz,https://www.pokewiki.de/Rabauz,236,2. Generation‍,Violett,Tyrogue,1.000.000,100% ♂,"0,7 m",Kampf,"21,0 kg",35,35,35,35,35,35
+Kapoera,https://www.pokewiki.de/Kapoera,237,2. Generation‍,Braun,Hitmontop,1.000.000,100% ♂,"1,4 m",Kampf,"48,0 kg",95,70,50,35,110,95
+Kussilla,https://www.pokewiki.de/Kussilla,238,2. Generation‍,Rosa,Smoochum,1.000.000,100% ♀,"0,4 m",Eis Psycho,"6,0 kg",30,65,45,85,65,15
+Elekid,https://www.pokewiki.de/Elekid,239,2. Generation‍,Gelb,Elekid,1.000.000,75% ♂ 25% ♀,"0,6 m",Elektro,"23,5 kg",63,95,45,65,55,37
+Magby,https://www.pokewiki.de/Magby,240,2. Generation‍,Rot,Magby,1.000.000,75% ♂ 25% ♀,"0,7 m",Feuer,"21,4 kg",75,83,45,70,55,37
+Miltank,https://www.pokewiki.de/Miltank,241,2. Generation‍,Rosa,Miltank,1.250.000,100% ♀,"1,2 m",Normal,"75,5 kg",80,100,95,40,70,105
+Heiteira,https://www.pokewiki.de/Heiteira,242,2. Generation‍,Rosa,Blissey,800.000,100% ♀,"1,5 m",Normal,"46,8 kg",10,55,255,75,135,10
+Raikou,https://www.pokewiki.de/Raikou,243,2. Generation‍,Gelb,Raikou,1.250.000,—,"1,9 m",Elektro,"178,0 kg",85,115,90,115,100,75
+Entei,https://www.pokewiki.de/Entei,244,2. Generation‍,Braun,Entei,1.250.000,—,"2,1 m",Feuer,"198,0 kg",115,100,115,90,75,85
+Suicune,https://www.pokewiki.de/Suicune,245,2. Generation‍,Blau,Suicune,1.250.000,—,"2,0 m",Wasser,"187,0 kg",75,85,100,90,115,115
+Larvitar,https://www.pokewiki.de/Larvitar,246,2. Generation‍,Grün,Larvitar,1.250.000,50% ♂ 50% ♀,"0,6 m",Gestein Boden,"72,0 kg",64,41,50,45,50,50
+Pupitar,https://www.pokewiki.de/Pupitar,247,2. Generation‍,Grau,Pupitar,1.250.000,50% ♂ 50% ♀,"1,2 m",Gestein Boden,"152,0 kg",84,51,70,65,70,70
+Despotar,https://www.pokewiki.de/Despotar,248,2. Generation‍,Grün,Tyranitar,1.250.000,50% ♂ 50% ♀,"2,0 m 2,5 m (Mega)",Gestein Unlicht,"202,0 kg 255,0 kg (Mega)",134,61,100,95,100,110
+Lugia,https://www.pokewiki.de/Lugia,249,2. Generation‍,Weiß,Lugia,1.250.000,—,"5,2 m",Psycho Flug,"216,0 kg",90,110,106,90,154,130
+Ho-Oh,https://www.pokewiki.de/Ho-Oh,250,2. Generation‍,Rot,Ho-Oh,1.250.000,—,"3,8 m",Feuer Flug,"199,0 kg",130,90,106,110,154,90
+Celebi,https://www.pokewiki.de/Celebi,251,2. Generation‍,Grün,Celebi,1.059.860,—,"0,6 m",Psycho Pflanze,"5,0 kg",100,100,100,100,100,100
+Geckarbor,https://www.pokewiki.de/Geckarbor,252,3. Generation‍,Grün,Treecko,1.059.860,"87,5% ♂ 12,5% ♀","0,5 m",Pflanze,"5,0 kg",45,70,40,65,55,35
+Reptain,https://www.pokewiki.de/Reptain,253,3. Generation‍,Grün,Grovyle,1.059.860,"87,5% ♂ 12,5% ♀","0,9 m",Pflanze,"21,6 kg",65,95,50,85,65,45
+Gewaldro,https://www.pokewiki.de/Gewaldro,254,3. Generation‍,Grün,Sceptile,1.059.860,"87,5% ♂ 12,5% ♀","1,7 m1,9 m (Mega)",Pflanze   Pflanze Drache (Mega),"52,2 kg55,2 kg (Mega)",85,120,70,105,85,65
+Flemmli,https://www.pokewiki.de/Flemmli,255,3. Generation‍,Rot,Torchic,1.059.860,"87,5% ♂ 12,5% ♀","0,4 m",Feuer,"2,5 kg",60,45,45,70,50,40
+Jungglut,https://www.pokewiki.de/Jungglut,256,3. Generation‍,Rot,Combusken,1.059.860,"87,5% ♂ 12,5% ♀","0,9 m",Feuer Kampf,"19,5 kg",85,55,60,85,60,60
+Lohgock,https://www.pokewiki.de/Lohgock,257,3. Generation‍,Rot,Blaziken,1.059.860,"87,5% ♂ 12,5% ♀","1,9 m",Feuer Kampf,"52,0 kg",120,80,80,110,70,70
+Hydropi,https://www.pokewiki.de/Hydropi,258,3. Generation‍,Blau,Mudkip,1.059.860,"87,5% ♂ 12,5% ♀","0,4 m",Wasser,"7,6 kg",70,40,50,50,50,50
+Moorabbel,https://www.pokewiki.de/Moorabbel,259,3. Generation‍,Blau,Marshtomp,1.059.860,"87,5% ♂ 12,5% ♀","0,7 m",Wasser Boden,"28,0 kg",85,50,70,60,70,70
+Sumpex,https://www.pokewiki.de/Sumpex,260,3. Generation‍,Blau,Swampert,1.059.860,"87,5% ♂ 12,5% ♀","1,5 m1,9 m (Mega)",Wasser Boden,"81,9 kg102,0 kg (Mega)",110,60,100,85,90,90
+Fiffyen,https://www.pokewiki.de/Fiffyen,261,3. Generation‍,Grau,Poochyena,1.000.000,50% ♂ 50% ♀,"0,5 m",Unlicht,"13,6 kg",55,35,35,30,30,35
+Magnayen,https://www.pokewiki.de/Magnayen,262,3. Generation‍,Grau,Mightyena,1.000.000,50% ♂ 50% ♀,"1,0 m",Unlicht,"37,0 kg",90,70,70,60,60,70
+Zigzachs,https://www.pokewiki.de/Zigzachs,263,3. Generation‍,Braun,Zigzagoon,1.000.000,50% ♂ 50% ♀,"0,4 m",Normal,"17,5 kg",30,60,38,30,41,41
+Geradaks,https://www.pokewiki.de/Geradaks,264,3. Generation‍,Weiß,Linoone,1.000.000,50% ♂ 50% ♀,"0,5 m",Normal,"32,5 kg",70,100,78,50,61,61
+Waumpel,https://www.pokewiki.de/Waumpel,265,3. Generation‍,Rot,Wurmple,1.000.000,50% ♂ 50% ♀,"0,3 m",Käfer,"3,6 kg",45,20,45,20,30,35
+Schaloko,https://www.pokewiki.de/Schaloko,266,3. Generation‍,Weiß,Silcoon,1.000.000,50% ♂ 50% ♀,"0,6 m",Käfer,"10,0 kg",35,15,50,25,25,55
+Papinella,https://www.pokewiki.de/Papinella,267,3. Generation‍,Gelb,Beautifly,1.000.000,50% ♂ 50% ♀,"1,0 m",Käfer Flug,"28,4 kg",70,65,60,100,50,50
+Panekon,https://www.pokewiki.de/Panekon,268,3. Generation‍,Violett,Cascoon,1.000.000,50% ♂ 50% ♀,"0,7 m",Käfer,"11,5 kg",35,15,50,25,25,55
+Pudox,https://www.pokewiki.de/Pudox,269,3. Generation‍,Grün,Dustox,1.000.000,50% ♂ 50% ♀,"1,2 m",Käfer Gift,"31,6 kg",50,65,60,50,90,70
+Loturzel,https://www.pokewiki.de/Loturzel,270,3. Generation‍,Grün,Lotad,1.059.860,50% ♂ 50% ♀,"0,5 m",Wasser Pflanze,"2,6 kg",30,30,40,40,50,30
+Lombrero,https://www.pokewiki.de/Lombrero,271,3. Generation‍,Grün,Lombre,1.059.860,50% ♂ 50% ♀,"1,2 m",Wasser Pflanze,"32,5 kg",50,50,60,60,70,50
+Kappalores,https://www.pokewiki.de/Kappalores,272,3. Generation‍,Grün,Ludicolo,1.059.860,50% ♂ 50% ♀,"1,5 m",Wasser Pflanze,"55,0 kg",70,70,80,90,100,70
+Samurzel,https://www.pokewiki.de/Samurzel,273,3. Generation‍,Braun,Seedot,1.059.860,50% ♂ 50% ♀,"0,5 m",Pflanze,"4,0 kg",40,30,40,30,30,50
+Blanas,https://www.pokewiki.de/Blanas,274,3. Generation‍,Braun,Nuzleaf,1.059.860,50% ♂ 50% ♀,"1,0 m",Pflanze Unlicht,"28,0 kg",70,60,70,60,40,40
+Tengulist,https://www.pokewiki.de/Tengulist,275,3. Generation‍,Braun,Shiftry,1.059.860,50% ♂ 50% ♀,"1,3 m",Pflanze Unlicht,"59,6 kg",100,80,90,90,60,60
+Schwalbini,https://www.pokewiki.de/Schwalbini,276,3. Generation‍,Blau,Taillow,1.059.860,50% ♂ 50% ♀,"0,3 m",Normal Flug,"2,3 kg",55,85,40,30,30,30
+Schwalboss,https://www.pokewiki.de/Schwalboss,277,3. Generation‍,Blau,Swellow,1.059.860,50% ♂ 50% ♀,"0,7 m",Normal Flug,"19,8 kg",85,125,60,75,50,60
+Wingull,https://www.pokewiki.de/Wingull,278,3. Generation‍,Weiß,Wingull,1.000.000,50% ♂ 50% ♀,"0,6 m",Wasser Flug,"9,5 kg",30,85,40,55,30,30
+Pelipper,https://www.pokewiki.de/Pelipper,279,3. Generation‍,Gelb,Pelipper,1.000.000,50% ♂ 50% ♀,"1,2 m",Wasser Flug,"28,0 kg",50,65,60,95,70,100
+Trasla,https://www.pokewiki.de/Trasla,280,3. Generation‍,Weiß,Ralts,1.250.000,50% ♂ 50% ♀,"0,4 m",Psycho Fee,"6,6 kg",25,40,28,45,35,25
+Kirlia,https://www.pokewiki.de/Kirlia,281,3. Generation‍,Weiß,Kirlia,1.250.000,50% ♂ 50% ♀,"0,8 m",Psycho Fee,"20,2 kg",35,50,38,65,55,35
+Guardevoir,https://www.pokewiki.de/Guardevoir,282,3. Generation‍,Weiß,Gardevoir,1.250.000,50% ♂ 50% ♀,"1,6 m",Psycho Fee,"48,4 kg",65,80,68,125,115,65
+Gehweiher,https://www.pokewiki.de/Gehweiher,283,3. Generation‍,Blau,Surskit,1.000.000,50% ♂ 50% ♀,"0,5 m",Käfer Wasser,"1,7 kg",30,65,40,50,52,32
+Maskeregen,https://www.pokewiki.de/Maskeregen,284,3. Generation‍,Blau,Masquerain,1.000.000,50% ♂ 50% ♀,"0,8 m",Käfer Flug,"3,6 kg",60,80,70,100,82,62
+Knilz,https://www.pokewiki.de/Knilz,285,3. Generation‍,Braun,Shroomish,1.640.000,50% ♂ 50% ♀,"0,4 m",Pflanze,"4,5 kg",40,35,60,40,60,60
+Kapilz,https://www.pokewiki.de/Kapilz,286,3. Generation‍,Grün,Breloom,1.640.000,50% ♂ 50% ♀,"1,2 m",Pflanze Kampf,"39,2 kg",130,70,60,60,60,80
+Bummelz,https://www.pokewiki.de/Bummelz,287,3. Generation‍,Braun,Slakoth,1.250.000,50% ♂ 50% ♀,"0,8 m",Normal,"24,0 kg",60,30,60,35,35,60
+Muntier,https://www.pokewiki.de/Muntier,288,3. Generation‍,Weiß,Vigoroth,1.250.000,50% ♂ 50% ♀,"1,4 m",Normal,"46,5 kg",80,90,80,55,55,80
+Letarking,https://www.pokewiki.de/Letarking,289,3. Generation‍,Braun,Slaking,1.250.000,50% ♂ 50% ♀,"2,0 m",Normal,"130,5 kg",160,100,150,95,65,100
+Nincada,https://www.pokewiki.de/Nincada,290,3. Generation‍,Grau,Nincada,600.000,50% ♂ 50% ♀,"0,5 m",Käfer Boden,"5,5 kg",45,40,31,30,30,90
+Ninjask,https://www.pokewiki.de/Ninjask,291,3. Generation‍,Gelb,Ninjask,600.000,50% ♂ 50% ♀,"0,8 m",Käfer Flug,"12,0 kg",90,160,61,50,50,45
+Ninjatom,https://www.pokewiki.de/Ninjatom,292,3. Generation‍,Braun,Shedinja,600.000,—,"0,8 m",Käfer Geist,"1,2 kg",90,40,1,30,30,45
+Flurmel,https://www.pokewiki.de/Flurmel,293,3. Generation‍,Rosa,Whismur,1.059.860,50% ♂ 50% ♀,"0,6 m",Normal,"16,3 kg",51,28,64,51,23,23
+Krakeelo,https://www.pokewiki.de/Krakeelo,294,3. Generation‍,Blau,Loudred,1.059.860,50% ♂ 50% ♀,"1,0 m",Normal,"40,5 kg",71,48,84,71,43,43
+Krawumms,https://www.pokewiki.de/Krawumms,295,3. Generation‍,Blau,Exploud,1.059.860,50% ♂ 50% ♀,"1,5 m",Normal,"84,0 kg",91,68,104,91,73,63
+Makuhita,https://www.pokewiki.de/Makuhita,296,3. Generation‍,Gelb,Makuhita,1.640.000,75% ♂ 25% ♀,"1,0 m",Kampf,"86,4 kg",60,25,72,20,30,30
+Hariyama,https://www.pokewiki.de/Hariyama,297,3. Generation‍,Braun,Hariyama,1.640.000,75% ♂ 25% ♀,"2,3 m",Kampf,"253,8 kg",120,50,144,40,60,60
+Azurill,https://www.pokewiki.de/Azurill,298,3. Generation‍,Blau,Azurill,800.000,25% ♂ 75% ♀,"0,2 m",Normal Fee,"2,0 kg",20,20,50,20,40,40
+Nasgnet,https://www.pokewiki.de/Nasgnet,299,3. Generation‍,Grau,Nosepass,1.000.000,50% ♂ 50% ♀,"1,0 m",Gestein,"97,0 kg",45,30,30,45,90,135
+Eneco,https://www.pokewiki.de/Eneco,300,3. Generation‍,Rosa,Skitty,800.000,25% ♂ 75% ♀,"0,6 m",Normal,"11,0 kg",45,50,50,35,35,45
+Enekoro,https://www.pokewiki.de/Enekoro,301,3. Generation‍,Violett,Delcatty,800.000,25% ♂ 75% ♀,"1,1 m",Normal,"32,6 kg",65,90,70,55,55,65
+Zobiris,https://www.pokewiki.de/Zobiris,302,3. Generation‍,Violett,Sableye,1.059.860,50% ♂ 50% ♀,"0,5 m",Unlicht Geist,"11,0 kg161,0 kg (Mega)",75,50,50,65,65,75
+Flunkifer,https://www.pokewiki.de/Flunkifer,303,3. Generation‍,Schwarz,Mawile,800.000,50% ♂ 50% ♀,"0,6 m 1,0 m (Mega)",Stahl Fee,"11,5 kg 23,5 kg (Mega)",85,50,50,55,55,85
+Stollunior,https://www.pokewiki.de/Stollunior,304,3. Generation‍,Grau,Aron,1.250.000,50% ♂ 50% ♀,"0,4 m",Stahl Gestein,"60,0 kg",70,30,50,40,40,100
+Stollrak,https://www.pokewiki.de/Stollrak,305,3. Generation‍,Grau,Lairon,1.250.000,50% ♂ 50% ♀,"0,9 m",Stahl Gestein,"120,0 kg",90,40,60,50,50,140
+Stolloss,https://www.pokewiki.de/Stolloss,306,3. Generation‍,Grau,Aggron,1.250.000,50% ♂ 50% ♀,"2,1 m 2,2 m (Mega)",Stahl Gestein  Stahl (Mega),"360,0 kg 395,0 kg (Mega)",110,50,70,60,60,180
+Meditie,https://www.pokewiki.de/Meditie,307,3. Generation‍,Blau,Meditite,1.000.000,50% ♂ 50% ♀,"0,6 m",Kampf Psycho,"11,2 kg",40,60,30,40,55,55
+Meditalis,https://www.pokewiki.de/Meditalis,308,3. Generation‍,Rot,Medicham,1.000.000,50% ♂ 50% ♀,"1,3 m",Kampf Psycho,"31,5 kg",60,80,60,60,75,75
+Frizelbliz,https://www.pokewiki.de/Frizelbliz,309,3. Generation‍,Grün,Electrike,1.250.000,50% ♂ 50% ♀,"0,6 m",Elektro,"15,2 kg",45,65,40,65,40,40
+Voltenso,https://www.pokewiki.de/Voltenso,310,3. Generation‍,Gelb,Manectric,1.250.000,50% ♂ 50% ♀,"1,5 m 1,8 m (Mega)",Elektro,"40,2 kg 44,0 kg (Mega)",75,105,70,105,60,60
+Plusle,https://www.pokewiki.de/Plusle,311,3. Generation‍,Gelb,Plusle,1.000.000,50% ♂ 50% ♀,"0,4 m",Elektro,"4,2 kg",50,95,60,85,75,40
+Minun,https://www.pokewiki.de/Minun,312,3. Generation‍,Gelb,Minun,1.000.000,50% ♂ 50% ♀,"0,4 m",Elektro,"4,2 kg",40,95,60,75,85,50
+Volbeat,https://www.pokewiki.de/Volbeat,313,3. Generation‍,Grau,Volbeat,600.000,100% ♂,"0,7 m",Käfer,"17,7 kg",73,85,65,47,85,75
+Illumise,https://www.pokewiki.de/Illumise,314,3. Generation‍,Violett,Illumise,1.640.000,100% ♀,"0,6 m",Käfer,"17,7 kg",47,85,65,73,85,75
+Roselia,https://www.pokewiki.de/Roselia,315,3. Generation‍,Grün,Roselia,1.059.860,50% ♂ 50% ♀,"0,3 m",Pflanze Gift,"2,0 kg",60,65,50,100,80,45
+Schluppuck,https://www.pokewiki.de/Schluppuck,316,3. Generation‍,Grün,Gulpin,1.640.000,50% ♂ 50% ♀,"0,4 m",Gift,"10,3 kg",43,40,70,43,53,53
+Schlukwech,https://www.pokewiki.de/Schlukwech,317,3. Generation‍,Violett,Swalot,1.640.000,50% ♂ 50% ♀,"1,7 m",Gift,"80,0 kg",73,55,100,73,83,83
+Kanivanha,https://www.pokewiki.de/Kanivanha,318,3. Generation‍,Rot,Carvanha,1.250.000,50% ♂ 50% ♀,"0,8 m",Wasser Unlicht,"20,8 kg",90,65,45,65,20,20
+Tohaido,https://www.pokewiki.de/Tohaido,319,3. Generation‍,Blau,Sharpedo,1.250.000,50% ♂ 50% ♀,"1,8 m2,5 m (Mega)",Wasser Unlicht,"88,8 kg130,3 kg (Mega)",120,95,70,95,40,40
+Wailmer,https://www.pokewiki.de/Wailmer,320,3. Generation‍,Blau,Wailmer,1.640.000,50% ♂ 50% ♀,"2,0 m",Wasser,"130,0 kg",70,60,130,70,35,35
+Wailord,https://www.pokewiki.de/Wailord,321,3. Generation‍,Blau,Wailord,1.640.000,50% ♂ 50% ♀,"14,5 m",Wasser,"398,0 kg",90,60,170,90,45,45
+Camaub,https://www.pokewiki.de/Camaub,322,3. Generation‍,Gelb,Numel,1.000.000,50% ♂ 50% ♀,"0,7 m",Feuer Boden,"24,0 kg",60,35,60,65,45,40
+Camerupt,https://www.pokewiki.de/Camerupt,323,3. Generation‍,Rot,Camerupt,1.000.000,50% ♂ 50% ♀,"1,9 m2,5 m (Mega)",Feuer Boden,"220,0 kg320,5 kg (Mega)",100,40,70,105,75,70
+Qurtel,https://www.pokewiki.de/Qurtel,324,3. Generation‍,Braun,Torkoal,1.000.000,50% ♂ 50% ♀,"0,5 m",Feuer,"80,4 kg",85,20,70,85,70,140
+Spoink,https://www.pokewiki.de/Spoink,325,3. Generation‍,Schwarz,Spoink,800.000,50% ♂ 50% ♀,"0,7 m",Psycho,"30,6 kg",25,60,60,70,80,35
+Groink,https://www.pokewiki.de/Groink,326,3. Generation‍,Violett,Grumpig,800.000,50% ♂ 50% ♀,"0,9 m",Psycho,"71,5 kg",45,80,80,90,110,65
+Pandir,https://www.pokewiki.de/Pandir,327,3. Generation‍,Braun,Spinda,800.000,50% ♂ 50% ♀,"1,1 m",Normal,"5,0 kg",60,60,60,60,60,60
+Knacklion,https://www.pokewiki.de/Knacklion,328,3. Generation‍,Braun,Trapinch,1.059.860,50% ♂ 50% ♀,"0,7 m",Boden,"15,0 kg",100,10,45,45,45,45
+Vibrava,https://www.pokewiki.de/Vibrava,329,3. Generation‍,Grün,Vibrava,1.059.860,50% ♂ 50% ♀,"1,1 m",Boden Drache,"15,3 kg",70,70,50,50,50,50
+Libelldra,https://www.pokewiki.de/Libelldra,330,3. Generation‍,Grün,Flygon,1.059.860,50% ♂ 50% ♀,"2,0 m",Boden Drache,"82,0 kg",100,100,80,80,80,80
+Tuska,https://www.pokewiki.de/Tuska,331,3. Generation‍,Grün,Cacnea,1.059.860,50% ♂ 50% ♀,"0,4 m",Pflanze,"51,3 kg",85,35,50,85,40,40
+Noktuska,https://www.pokewiki.de/Noktuska,332,3. Generation‍,Grün,Cacturne,1.059.860,50% ♂ 50% ♀,"1,3 m",Pflanze Unlicht,"77,4 kg",115,55,70,115,60,60
+Wablu,https://www.pokewiki.de/Wablu,333,3. Generation‍,Blau,Swablu,600.000,50% ♂ 50% ♀,"0,4 m",Normal Flug,"1,2 kg",40,50,45,40,75,60
+Altaria,https://www.pokewiki.de/Altaria,334,3. Generation‍,Blau,Altaria,600.000,50% ♂ 50% ♀,"1,1 m 1,5 m (Mega)",Drache Flug  Drache Fee (Mega),"20,6 kg",70,80,75,70,105,90
+Sengo,https://www.pokewiki.de/Sengo,335,3. Generation‍,Weiß,Zangoose,600.000,50% ♂ 50% ♀,"1,3 m",Normal,"40,3 kg",115,90,73,60,60,60
+Vipitis,https://www.pokewiki.de/Vipitis,336,3. Generation‍,Schwarz,Seviper,1.640.000,50% ♂ 50% ♀,"2,7 m",Gift,"52,5 kg",100,65,73,100,60,60
+Lunastein,https://www.pokewiki.de/Lunastein,337,3. Generation‍,Gelb,Lunatone,800.000,—,"1,0 m",Gestein Psycho,"168,0 kg",55,70,90,95,85,65
+Sonnfel,https://www.pokewiki.de/Sonnfel,338,3. Generation‍,Rot,Solrock,800.000,—,"1,2 m",Gestein Psycho,"154,0 kg",95,70,90,55,65,85
+Schmerbe,https://www.pokewiki.de/Schmerbe,339,3. Generation‍,Grau,Barboach,1.000.000,50% ♂ 50% ♀,"0,4 m",Wasser Boden,"1,9 kg",48,60,50,46,41,43
+Welsar,https://www.pokewiki.de/Welsar,340,3. Generation‍,Blau,Whiscash,1.000.000,50% ♂ 50% ♀,"0,9 m",Wasser Boden,"23,6 kg",78,60,110,76,71,73
+Krebscorps,https://www.pokewiki.de/Krebscorps,341,3. Generation‍,Rot,Corphish,1.640.000,50% ♂ 50% ♀,"0,6 m",Wasser,"11,5 kg",80,35,43,50,35,65
+Krebutack,https://www.pokewiki.de/Krebutack,342,3. Generation‍,Rot,Crawdaunt,1.640.000,50% ♂ 50% ♀,"1,1 m",Wasser Unlicht,"32,8 kg",120,55,63,90,55,85
+Puppance,https://www.pokewiki.de/Puppance,343,3. Generation‍,Braun,Baltoy,1.000.000,—,"0,5 m",Boden Psycho,"21,5 kg",40,55,40,40,70,55
+Lepumentas,https://www.pokewiki.de/Lepumentas,344,3. Generation‍,Schwarz,Claydol,1.000.000,—,"1,5 m",Boden Psycho,"108,0 kg",70,75,60,70,120,105
+Liliep,https://www.pokewiki.de/Liliep,345,3. Generation‍,Violett,Lileep,600.000,"87,5% ♂ 12,5% ♀","1,0 m",Gestein Pflanze,"23,8 kg",41,23,66,61,87,77
+Wielie,https://www.pokewiki.de/Wielie,346,3. Generation‍,Grün,Cradily,600.000,"87,5% ♂ 12,5% ♀","1,5 m",Gestein Pflanze,"60,4 kg",81,43,86,81,107,97
+Anorith,https://www.pokewiki.de/Anorith,347,3. Generation‍,Grau,Anorith,600.000,"87,5% ♂ 12,5% ♀","0,7 m",Gestein Käfer,"12,5 kg",95,75,45,40,50,50
+Armaldo,https://www.pokewiki.de/Armaldo,348,3. Generation‍,Grau,Armaldo,600.000,"87,5% ♂ 12,5% ♀","1,5 m",Gestein Käfer,"68,2 kg",125,45,75,70,80,100
+Barschwa,https://www.pokewiki.de/Barschwa,349,3. Generation‍,Braun,Feebas,600.000,50% ♂ 50% ♀,"0,6 m",Wasser,"7,4 kg",15,80,20,10,55,20
+Milotic,https://www.pokewiki.de/Milotic,350,3. Generation‍,Rosa,Milotic,600.000,50% ♂ 50% ♀,"6,2 m",Wasser,"162,0 kg",60,81,95,100,125,79
+Formeo,https://www.pokewiki.de/Formeo,351,3. Generation‍,Weiß,Castform,1.000.000,50% ♂ 50% ♀,"0,3 m",Normal  (Normalform)Wasser (Regenform)Feuer (Sonnenform)Eis (Schneeform),"0,8 kg",70,70,70,70,70,70
+Kecleon,https://www.pokewiki.de/Kecleon,352,3. Generation‍,Grün,Kecleon,1.059.860,50% ♂ 50% ♀,"1,0 m",Normal,"22,0 kg",90,40,60,60,120,70
+Shuppet,https://www.pokewiki.de/Shuppet,353,3. Generation‍,Schwarz,Shuppet,800.000,50% ♂ 50% ♀,"0,6 m",Geist,"2,3 kg",75,45,44,63,33,35
+Banette,https://www.pokewiki.de/Banette,354,3. Generation‍,Schwarz,Banette,800.000,50% ♂ 50% ♀,"1,1 m 1,2 m (Mega)",Geist,"12,5 kg 13,0 kg (Mega)",115,65,64,83,63,65
+Zwirrlicht,https://www.pokewiki.de/Zwirrlicht,355,3. Generation‍,Schwarz,Duskull,800.000,50% ♂ 50% ♀,"0,8 m",Geist,"15,0 kg",40,25,20,30,90,90
+Zwirrklop,https://www.pokewiki.de/Zwirrklop,356,3. Generation‍,Schwarz,Dusclops,800.000,50% ♂ 50% ♀,"1,6 m",Geist,"30,6 kg",70,25,40,60,130,130
+Tropius,https://www.pokewiki.de/Tropius,357,3. Generation‍,Grün,Tropius,1.250.000,50% ♂ 50% ♀,"2,0 m",Pflanze Flug,"100,0 kg",68,51,99,72,87,83
+Palimpalim,https://www.pokewiki.de/Palimpalim,358,3. Generation‍,Blau,Chimecho,800.000,50% ♂ 50% ♀,"0,6 m",Psycho,"1,0 kg",50,65,75,95,90,80
+Absol,https://www.pokewiki.de/Absol,359,3. Generation‍,Weiß,Absol,1.059.860,50% ♂ 50% ♀,"1,2 m",Unlicht,"47,0 kg49,0 kg (Mega)",130,75,65,75,60,60
+Isso,https://www.pokewiki.de/Isso,360,3. Generation‍,Blau,Wynaut,1.000.000,50% ♂ 50% ♀,"0,6 m",Psycho,"14,0 kg",23,23,95,23,48,48
+Schneppke,https://www.pokewiki.de/Schneppke,361,3. Generation‍,Grau,Snorunt,1.000.000,50% ♂ 50% ♀,"0,7 m",Eis,"16,8 kg",50,50,50,50,50,50
+Firnontor,https://www.pokewiki.de/Firnontor,362,3. Generation‍,Grau,Glalie,1.000.000,50% ♂ 50% ♀,"1,5 m2,1 m (Mega)",Eis,"256,5 kg350,2 kg (Mega)",80,80,80,80,80,80
+Seemops,https://www.pokewiki.de/Seemops,363,3. Generation‍,Blau,Spheal,1.059.860,50% ♂ 50% ♀,"0,8 m",Eis Wasser,"39,5 kg",40,25,70,55,50,50
+Seejong,https://www.pokewiki.de/Seejong,364,3. Generation‍,Blau,Sealeo,1.059.860,50% ♂ 50% ♀,"1,1 m",Eis Wasser,"87,6 kg",60,45,90,75,70,70
+Walraisa,https://www.pokewiki.de/Walraisa,365,3. Generation‍,Blau,Walrein,1.059.860,50% ♂ 50% ♀,"1,4 m",Eis Wasser,"150,6 kg",80,65,110,95,90,90
+Perlu,https://www.pokewiki.de/Perlu,366,3. Generation‍,Blau,Clamperl,600.000,50% ♂ 50% ♀,"0,4 m",Wasser,"52,5 kg",64,32,35,74,55,85
+Aalabyss,https://www.pokewiki.de/Aalabyss,367,3. Generation‍,Blau,Huntail,600.000,50% ♂ 50% ♀,"1,7 m",Wasser,"27,0 kg",104,52,55,94,75,105
+Saganabyss,https://www.pokewiki.de/Saganabyss,368,3. Generation‍,Rosa,Gorebyss,600.000,50% ♂ 50% ♀,"1,8 m",Wasser,"22,6 kg",84,52,55,114,75,105
+Relicanth,https://www.pokewiki.de/Relicanth,369,3. Generation‍,Grau,Relicanth,1.250.000,"87,5% ♂ 12,5% ♀","1,0 m",Wasser Gestein,"23,4 kg",90,55,100,45,65,130
+Liebiskus,https://www.pokewiki.de/Liebiskus,370,3. Generation‍,Rosa,Luvdisc,800.000,25% ♂ 75% ♀,"0,6 m",Wasser,"8,7 kg",30,97,43,40,65,55
+Kindwurm,https://www.pokewiki.de/Kindwurm,371,3. Generation‍,Blau,Bagon,1.250.000,50% ♂ 50% ♀,"0,6 m",Drache,"42,1 kg",75,50,45,40,30,60
+Draschel,https://www.pokewiki.de/Draschel,372,3. Generation‍,Weiß,Shelgon,1.250.000,50% ♂ 50% ♀,"1,1 m",Drache,"110,5 kg",95,50,65,60,50,100
+Brutalanda,https://www.pokewiki.de/Brutalanda,373,3. Generation‍,Blau,Salamence,1.250.000,50% ♂ 50% ♀,"1,5 m1,8 m (Mega)",Drache Flug,"102,6 kg112,6 kg (Mega)",135,100,95,110,80,80
+Tanhel,https://www.pokewiki.de/Tanhel,374,3. Generation‍,Blau,Beldum,1.250.000,—,"0,6 m",Stahl Psycho,"95,2 kg",55,30,40,35,60,80
+Metang,https://www.pokewiki.de/Metang,375,3. Generation‍,Blau,Metang,1.250.000,—,"1,2 m",Stahl Psycho,"202,5 kg",75,50,60,55,80,100
+Metagross,https://www.pokewiki.de/Metagross,376,3. Generation‍,Blau,Metagross,1.250.000,—,"1,6 m2,5 m (Mega)",Stahl Psycho,"550,0 kg942,9 kg (Mega)",135,70,80,95,90,130
+Regirock,https://www.pokewiki.de/Regirock,377,3. Generation‍,Braun,Regirock,1.250.000,—,"1,7 m",Gestein,"230,0 kg",100,50,80,50,100,200
+Regice,https://www.pokewiki.de/Regice,378,3. Generation‍,Blau,Regice,1.250.000,—,"1,8 m",Eis,"175,0 kg",50,50,80,100,200,100
+Registeel,https://www.pokewiki.de/Registeel,379,3. Generation‍,Grau,Registeel,1.250.000,—,"1,9 m",Stahl,"205,0 kg",75,50,80,75,150,150
+Latias,https://www.pokewiki.de/Latias,380,3. Generation‍,Rot,Latias,1.250.000,100% ♀,"1,4 m1,8 m (Mega)",Drache Psycho,"40,0 kg52,0 kg (Mega)",80,110,80,110,130,90
+Latios,https://www.pokewiki.de/Latios,381,3. Generation‍,Blau,Latios,1.250.000,100% ♂,"2,0 m2,3 m (Mega)",Drache Psycho,"60,0 kg70,0 kg (Mega)",90,110,80,130,110,80
+Kyogre,https://www.pokewiki.de/Kyogre,382,3. Generation‍,Blau,Kyogre,1.250.000,—,"4,5 m9,8 m (Proto)",Wasser,"352,0 kg430,0 kg (Proto)",100,90,100,150,140,90
+Groudon,https://www.pokewiki.de/Groudon,383,3. Generation‍,Rot,Groudon,1.250.000,—,"3,5 m5,0 m (Proto)",Boden   Boden Feuer (Proto),"950,0 kg999,7 kg (Proto)",150,90,100,100,90,140
+Rayquaza,https://www.pokewiki.de/Rayquaza,384,3. Generation‍,Grün,Rayquaza,1.250.000,—,"7,0 m10,8 m (Mega)",Drache Flug,"206,5 kg392,0 kg (Mega)",150,95,105,150,90,90
+Jirachi,https://www.pokewiki.de/Jirachi,385,3. Generation‍,Gelb,Jirachi,1.250.000,—,"0,3 m",Stahl Psycho,"1,1 kg",100,100,100,100,100,100
+Deoxys,https://www.pokewiki.de/Deoxys,386,3. Generation‍,Rot,Deoxys,1.250.000,—,"1,7 m",Psycho,"60,8 kg",150,150,50,150,50,50
+Chelast,https://www.pokewiki.de/Chelast,387,4. Generation‍,Grün,Turtwig,1.059.860,"87,5% ♂ 12,5% ♀","0,4 m",Pflanze,"10,2 kg",68,31,55,45,55,64
+Chelcarain,https://www.pokewiki.de/Chelcarain,388,4. Generation‍,Grün,Grotle,1.059.860,"87,5% ♂ 12,5% ♀","1,1 m",Pflanze,"97,0 kg",89,36,75,55,65,85
+Chelterrar,https://www.pokewiki.de/Chelterrar,389,4. Generation‍,Grün,Torterra,1.059.860,"87,5% ♂ 12,5% ♀","2,2 m",Pflanze Boden,"310,0 kg",109,56,95,75,85,105
+Panflam,https://www.pokewiki.de/Panflam,390,4. Generation‍,Braun,Chimchar,1.059.860,"87,5% ♂ 12,5% ♀","0,5 m",Feuer,"6,2 kg",58,61,44,58,44,44
+Panpyro,https://www.pokewiki.de/Panpyro,391,4. Generation‍,Braun,Monferno,1.059.860,"87,5% ♂ 12,5% ♀","0,9 m",Feuer Kampf,"22,0 kg",78,81,64,78,52,52
+Panferno,https://www.pokewiki.de/Panferno,392,4. Generation‍,Braun,Infernape,1.059.860,"87,5% ♂ 12,5% ♀","1,2 m",Feuer Kampf,"55,0 kg",104,108,76,104,71,71
+Plinfa,https://www.pokewiki.de/Plinfa,393,4. Generation‍,Blau,Piplup,1.059.860,"87,5% ♂ 12,5% ♀","0,4 m",Wasser,"5,2 kg",51,40,53,61,56,53
+Pliprin,https://www.pokewiki.de/Pliprin,394,4. Generation‍,Blau,Prinplup,1.059.860,"87,5% ♂ 12,5% ♀","0,8 m",Wasser,"23,0 kg",66,50,64,81,76,68
+Impoleon,https://www.pokewiki.de/Impoleon,395,4. Generation‍,Blau,Empoleon,1.059.860,"87,5% ♂ 12,5% ♀","1,7 m",Wasser Stahl,"84,5 kg",86,60,84,111,101,88
+Staralili,https://www.pokewiki.de/Staralili,396,4. Generation‍,Braun,Starly,1.059.860,50% ♂ 50% ♀,"0,3 m",Normal Flug,"2,0 kg",55,60,40,30,30,30
+Staravia,https://www.pokewiki.de/Staravia,397,4. Generation‍,Braun,Staravia,1.059.860,50% ♂ 50% ♀,"0,6 m",Normal Flug,"15,5 kg",75,80,55,40,40,50
+Staraptor,https://www.pokewiki.de/Staraptor,398,4. Generation‍,Braun,Staraptor,1.059.860,50% ♂ 50% ♀,"1,2 m",Normal Flug,"24,9 kg",120,100,85,50,60,70
+Bidiza,https://www.pokewiki.de/Bidiza,399,4. Generation‍,Braun,Bidoof,1.000.000,50% ♂ 50% ♀,"0,5 m",Normal,"20,0 kg",45,31,59,35,40,40
+Bidifas,https://www.pokewiki.de/Bidifas,400,4. Generation‍,Braun,Bibarel,1.000.000,50% ♂ 50% ♀,"1,0 m",Normal Wasser,"31,5 kg",85,71,79,55,60,60
+Zirpurze,https://www.pokewiki.de/Zirpurze,401,4. Generation‍,Rot,Kricketot,1.059.860,50% ♂ 50% ♀,"0,3 m",Käfer,"2,2 kg",25,25,37,25,41,41
+Zirpeise,https://www.pokewiki.de/Zirpeise,402,4. Generation‍,Rot,Kricketune,1.059.860,50% ♂ 50% ♀,"1,0 m",Käfer,"25,5 kg",85,65,77,55,51,51
+Sheinux,https://www.pokewiki.de/Sheinux,403,4. Generation‍,Blau,Shinx,1.059.860,50% ♂ 50% ♀,"0,5 m",Elektro,"9,5 kg",65,45,45,40,34,34
+Luxio,https://www.pokewiki.de/Luxio,404,4. Generation‍,Blau,Luxio,1.059.860,50% ♂ 50% ♀,"0,9 m",Elektro,"30,5 kg",85,60,60,60,49,49
+Luxtra,https://www.pokewiki.de/Luxtra,405,4. Generation‍,Blau,Luxray,1.059.860,50% ♂ 50% ♀,"1,4 m",Elektro,"42,0 kg",120,70,80,95,79,79
+Knospi,https://www.pokewiki.de/Knospi,406,4. Generation‍,Grün,Budew,1.059.860,50% ♂ 50% ♀,"0,2 m",Pflanze Gift,"1,2 kg",30,55,40,50,70,35
+Roserade,https://www.pokewiki.de/Roserade,407,4. Generation‍,Grün,Roserade,1.059.860,50% ♂ 50% ♀,"0,9 m",Pflanze Gift,"14,5 kg",70,90,60,125,105,65
+Koknodon,https://www.pokewiki.de/Koknodon,408,4. Generation‍,Blau,Cranidos,600.000,"87,5% ♂ 12,5% ♀","0,9 m",Gestein,"31,5 kg",125,58,67,30,30,40
+Rameidon,https://www.pokewiki.de/Rameidon,409,4. Generation‍,Blau,Rampardos,600.000,"87,5% ♂ 12,5% ♀","1,6 m",Gestein,"102,5 kg",165,58,97,65,50,60
+Schilterus,https://www.pokewiki.de/Schilterus,410,4. Generation‍,Grau,Shieldon,600.000,"87,5% ♂ 12,5% ♀","0,5 m",Gestein Stahl,"57,0 kg",42,30,30,42,88,118
+Bollterus,https://www.pokewiki.de/Bollterus,411,4. Generation‍,Grau,Bastiodon,600.000,"87,5% ♂ 12,5% ♀","1,3 m",Gestein Stahl,"149,5 kg",52,30,60,47,138,168
+Burmy,https://www.pokewiki.de/Burmy,412,4. Generation‍,Grau,Burmy,1.000.000,50% ♂ 50% ♀,"0,2 m",Käfer,"3,4 kg",29,36,40,29,45,45
+Burmadame,https://www.pokewiki.de/Burmadame,413,4. Generation‍,Grau,Wormadam,1.000.000,100% ♀,"0,5 m",Käfer Pflanze (Pflanzenumhang)Käfer Boden (Sandumhang)Käfer Stahl (Lumpenumhang),"6,5 kg",59,36,60,79,105,85
+Moterpel,https://www.pokewiki.de/Moterpel,414,4. Generation‍,Gelb,Mothim,1.000.000,100% ♂,"0,9 m",Käfer Flug,"23,3 kg",94,66,70,94,50,50
+Wadribie,https://www.pokewiki.de/Wadribie,415,4. Generation‍,Gelb,Combee,1.059.860,"87,5% ♂ 12,5% ♀","0,3 m",Käfer Flug,"5,5 kg",30,70,30,30,42,42
+Honweisel,https://www.pokewiki.de/Honweisel,416,4. Generation‍,Gelb,Vespiquen,1.059.860,100% ♀,"1,2 m",Käfer Flug,"38,5 kg",80,40,70,80,102,102
+Pachirisu,https://www.pokewiki.de/Pachirisu,417,4. Generation‍,Weiß,Pachirisu,1.000.000,50% ♂ 50% ♀,"0,4 m",Elektro,"3,9 kg",45,95,60,45,90,70
+Bamelin,https://www.pokewiki.de/Bamelin,418,4. Generation‍,Braun,Buizel,1.000.000,50% ♂ 50% ♀,"0,7 m",Wasser,"29,5 kg",65,85,55,60,30,35
+Bojelin,https://www.pokewiki.de/Bojelin,419,4. Generation‍,Braun,Floatzel,1.000.000,50% ♂ 50% ♀,"1,1 m",Wasser,"33,5 kg",105,115,85,85,50,55
+Kikugi,https://www.pokewiki.de/Kikugi,420,4. Generation‍,Rosa,Cherubi,1.000.000,50% ♂ 50% ♀,"0,4 m",Pflanze,"3,3 kg",35,35,45,62,53,45
+Kinoso,https://www.pokewiki.de/Kinoso,421,4. Generation‍,Rosa,Cherrim,1.000.000,50% ♂ 50% ♀,"0,5 m",Pflanze,"9,3 kg",60,85,70,87,78,70
+Schalellos,https://www.pokewiki.de/Schalellos,422,4. Generation‍,Violett,Shellos,1.000.000,50% ♂ 50% ♀,"0,3 m",Wasser,"6,3 kg",48,34,76,57,62,48
+Gastrodon,https://www.pokewiki.de/Gastrodon,423,4. Generation‍,Violett,Gastrodon,1.000.000,50% ♂ 50% ♀,"0,9 m",Wasser Boden,"29,9 kg",83,39,111,92,82,68
+Ambidiffel,https://www.pokewiki.de/Ambidiffel,424,4. Generation‍,Violett,Ambipom,800.000,50% ♂ 50% ♀,"1,2 m",Normal,"20,3 kg",100,115,75,60,66,66
+Driftlon,https://www.pokewiki.de/Driftlon,425,4. Generation‍,Violett,Drifloon,1.640.000,50% ♂ 50% ♀,"0,4 m",Geist Flug,"1,2 kg",50,70,90,60,44,34
+Drifzepeli,https://www.pokewiki.de/Drifzepeli,426,4. Generation‍,Violett,Drifblim,1.640.000,50% ♂ 50% ♀,"1,2 m",Geist Flug,"15,0 kg",80,80,150,90,54,44
+Haspiror,https://www.pokewiki.de/Haspiror,427,4. Generation‍,Braun,Buneary,1.000.000,50% ♂ 50% ♀,"0,4 m",Normal,"5,5 kg",66,85,55,44,56,44
+Schlapor,https://www.pokewiki.de/Schlapor,428,4. Generation‍,Braun,Lopunny,1.000.000,50% ♂ 50% ♀,"1,2 m1,3 m (Mega)",Normal   Normal Kampf (Mega),"33,3 kg28,3 kg (Mega)",76,105,65,54,96,84
+Traunmagil,https://www.pokewiki.de/Traunmagil,429,4. Generation‍,Violett,Mismagius,800.000,50% ♂ 50% ♀,"0,9 m",Geist,"4,4 kg",60,105,60,105,105,60
+Kramshef,https://www.pokewiki.de/Kramshef,430,4. Generation‍,Schwarz,Honchkrow,1.059.860,50% ♂ 50% ♀,"0,9 m",Unlicht Flug,"27,3 kg",125,71,100,105,52,52
+Charmian,https://www.pokewiki.de/Charmian,431,4. Generation‍,Grau,Glameow,800.000,25% ♂ 75% ♀,"0,5 m",Normal,"3,9 kg",55,85,49,42,37,42
+Shnurgarst,https://www.pokewiki.de/Shnurgarst,432,4. Generation‍,Grau,Purugly,800.000,25% ♂ 75% ♀,"1,0 m",Normal,"43,8 kg",82,112,71,64,59,64
+Klingplim,https://www.pokewiki.de/Klingplim,433,4. Generation‍,Gelb,Chingling,800.000,50% ♂ 50% ♀,"0,2 m",Psycho,"0,6 kg",30,45,45,65,50,50
+Skunkapuh,https://www.pokewiki.de/Skunkapuh,434,4. Generation‍,Violett,Stunky,1.000.000,50% ♂ 50% ♀,"0,4 m",Gift Unlicht,"19,2 kg",63,74,63,41,41,47
+Skuntank,https://www.pokewiki.de/Skuntank,435,4. Generation‍,Violett,Skuntank,1.000.000,50% ♂ 50% ♀,"1,0 m",Gift Unlicht,"38,0 kg",93,84,103,71,61,67
+Bronzel,https://www.pokewiki.de/Bronzel,436,4. Generation‍,Grün,Bronzor,1.000.000,—,"0,5 m",Stahl Psycho,"60,5 kg",24,23,57,24,86,86
+Bronzong,https://www.pokewiki.de/Bronzong,437,4. Generation‍,Grün,Bronzong,1.000.000,—,"1,3 m",Stahl Psycho,"187,0 kg",89,33,67,79,116,116
+Mobai,https://www.pokewiki.de/Mobai,438,4. Generation‍,Braun,Bonsly,1.000.000,50% ♂ 50% ♀,"0,5 m",Gestein,"15,0 kg",80,10,50,10,45,95
+Pantimimi,https://www.pokewiki.de/Pantimimi,439,4. Generation‍,Rosa,Mime Jr.,1.000.000,50% ♂ 50% ♀,"0,6 m",Psycho Fee,"13,0 kg",25,60,20,70,90,45
+Wonneira,https://www.pokewiki.de/Wonneira,440,4. Generation‍,Rosa,Happiny,800.000,100% ♀,"0,6 m",Normal,"24,4 kg",5,30,100,15,65,5
+Plaudagei,https://www.pokewiki.de/Plaudagei,441,4. Generation‍,Schwarz,Chatot,1.059.860,50% ♂ 50% ♀,"0,5 m",Normal Flug,"1,9 kg",65,91,76,92,42,45
+Kryppuk,https://www.pokewiki.de/Kryppuk,442,4. Generation‍,Violett,Spiritomb,1.000.000,50% ♂ 50% ♀,"1,0 m",Geist Unlicht,"108,0 kg",92,35,50,92,108,108
+Kaumalat,https://www.pokewiki.de/Kaumalat,443,4. Generation‍,Blau,Gible,1.250.000,50% ♂ 50% ♀,"0,7 m",Drache Boden,"20,5 kg",70,42,58,40,45,45
+Knarksel,https://www.pokewiki.de/Knarksel,444,4. Generation‍,Blau,Gabite,1.250.000,50% ♂ 50% ♀,"1,4 m",Drache Boden,"56,0 kg",90,82,68,50,55,65
+Knakrack,https://www.pokewiki.de/Knakrack,445,4. Generation‍,Blau,Garchomp,1.250.000,50% ♂ 50% ♀,"1,9 m",Drache Boden,"95,0 kg",130,102,108,80,85,95
+Mampfaxo,https://www.pokewiki.de/Mampfaxo,446,4. Generation‍,Schwarz,Munchlax,1.250.000,"87,5% ♂ 12,5% ♀","0,6 m",Normal,"105,0 kg",85,5,135,40,85,40
+Riolu,https://www.pokewiki.de/Riolu,447,4. Generation‍,Blau,Riolu,1.059.860,"87,5% ♂ 12,5% ♀","0,7 m",Kampf,"20,2 kg",70,60,40,35,40,40
+Lucario,https://www.pokewiki.de/Lucario,448,4. Generation‍,Blau,Lucario,1.059.860,"87,5% ♂ 12,5% ♀","1,2 m 1,3 m (Mega)",Kampf Stahl,"54,0 kg 57,5 kg (Mega)",110,90,70,115,70,70
+Hippopotas,https://www.pokewiki.de/Hippopotas,449,4. Generation‍,Braun,Hippopotas,1.250.000,50% ♂ 50% ♀,"0,8 m",Boden,"49,5 kg",72,32,68,38,42,78
+Hippoterus,https://www.pokewiki.de/Hippoterus,450,4. Generation‍,Braun,Hippowdon,1.250.000,50% ♂ 50% ♀,"2,0 m",Boden,"300,0 kg",112,47,108,68,72,118
+Pionskora,https://www.pokewiki.de/Pionskora,451,4. Generation‍,Violett,Skorupi,1.250.000,50% ♂ 50% ♀,"0,8 m",Gift Käfer,"12,0 kg",50,65,40,30,55,90
+Piondragi,https://www.pokewiki.de/Piondragi,452,4. Generation‍,Violett,Drapion,1.250.000,50% ♂ 50% ♀,"1,3 m",Gift Unlicht,"61,5 kg",90,95,70,60,75,110
+Glibunkel,https://www.pokewiki.de/Glibunkel,453,4. Generation‍,Blau,Croagunk,1.000.000,50% ♂ 50% ♀,"0,7 m",Gift Kampf,"23,0 kg",61,50,48,61,40,40
+Toxiquak,https://www.pokewiki.de/Toxiquak,454,4. Generation‍,Blau,Toxicroak,1.000.000,50% ♂ 50% ♀,"1,3 m",Gift Kampf,"44,4 kg",106,85,83,86,65,65
+Venuflibis,https://www.pokewiki.de/Venuflibis,455,4. Generation‍,Grün,Carnivine,1.250.000,50% ♂ 50% ♀,"1,4 m",Pflanze,"27,0 kg",100,46,74,90,72,72
+Finneon,https://www.pokewiki.de/Finneon,456,4. Generation‍,Blau,Finneon,600.000,50% ♂ 50% ♀,"0,4 m",Wasser,"7,0 kg",49,66,49,49,61,56
+Lumineon,https://www.pokewiki.de/Lumineon,457,4. Generation‍,Blau,Lumineon,600.000,50% ♂ 50% ♀,"1,2 m",Wasser,"24,0 kg",69,91,69,69,86,76
+Mantirps,https://www.pokewiki.de/Mantirps,458,4. Generation‍,Blau,Mantyke,1.250.000,50% ♂ 50% ♀,"1,0 m",Wasser Flug,"65,0 kg",20,50,45,60,120,50
+Shnebedeck,https://www.pokewiki.de/Shnebedeck,459,4. Generation‍,Weiß,Snover,1.250.000,50% ♂ 50% ♀,"1,0 m",Pflanze Eis,"50,5 kg",62,40,60,62,60,50
+Rexblisar,https://www.pokewiki.de/Rexblisar,460,4. Generation‍,Weiß,Abomasnow,1.250.000,50% ♂ 50% ♀,"2,2 m 2,7 m (Mega)",Pflanze Eis,"135,5 kg 185,0 kg (Mega)",92,60,90,92,85,75
+Snibunna,https://www.pokewiki.de/Snibunna,461,4. Generation‍,Schwarz,Weavile,1.059.860,50% ♂ 50% ♀,"1,1 m",Unlicht Eis,"34,0 kg",120,125,70,45,85,65
+Magnezone,https://www.pokewiki.de/Magnezone,462,4. Generation‍,Grau,Magnezone,1.000.000,—,"1,2 m",Elektro Stahl,"180,0 kg",70,60,70,130,90,115
+Schlurplek,https://www.pokewiki.de/Schlurplek,463,4. Generation‍,Rosa,Lickilicky,1.000.000,50% ♂ 50% ♀,"1,7 m",Normal,"140,0 kg",85,50,110,80,95,95
+Rihornior,https://www.pokewiki.de/Rihornior,464,4. Generation‍,Grau,Rhyperior,1.250.000,50% ♂ 50% ♀,"2,4 m",Boden Gestein,"282,8 kg",140,40,115,55,55,130
+Tangoloss,https://www.pokewiki.de/Tangoloss,465,4. Generation‍,Blau,Tangrowth,1.000.000,50% ♂ 50% ♀,"2,0 m",Pflanze,"128,6 kg",100,50,100,110,50,125
+Elevoltek,https://www.pokewiki.de/Elevoltek,466,4. Generation‍,Gelb,Electivire,1.000.000,75% ♂ 25% ♀,"1,8 m",Elektro,"138,6 kg",123,95,75,95,85,67
+Magbrant,https://www.pokewiki.de/Magbrant,467,4. Generation‍,Rot,Magmortar,1.000.000,75% ♂ 25% ♀,"1,6 m",Feuer,"68,0 kg",95,83,75,125,95,67
+Togekiss,https://www.pokewiki.de/Togekiss,468,4. Generation‍,Weiß,Togekiss,800.000,"87,5% ♂ 12,5% ♀","1,5 m",Fee Flug,"38,0 kg",50,80,85,120,115,95
+Yanmega,https://www.pokewiki.de/Yanmega,469,4. Generation‍,Grün,Yanmega,1.000.000,50% ♂ 50% ♀,"1,9 m",Käfer Flug,"51,5 kg",76,95,86,116,56,86
+Folipurba,https://www.pokewiki.de/Folipurba,470,4. Generation‍,Grün,Leafeon,1.000.000,"87,5% ♂ 12,5% ♀","1,0 m",Pflanze,"25,5 kg",110,95,65,60,65,130
+Glaziola,https://www.pokewiki.de/Glaziola,471,4. Generation‍,Blau,Glaceon,1.000.000,"87,5% ♂ 12,5% ♀","0,8 m",Eis,"25,9 kg",60,65,65,130,95,110
+Skorgro,https://www.pokewiki.de/Skorgro,472,4. Generation‍,Violett,Gliscor,1.059.860,50% ♂ 50% ♀,"2,0 m",Boden Flug,"42,5 kg",95,95,75,45,75,125
+Mamutel,https://www.pokewiki.de/Mamutel,473,4. Generation‍,Braun,Mamoswine,1.250.000,50% ♂ 50% ♀,"2,5 m",Eis Boden,"291,0 kg",130,80,110,70,60,80
+Porygon-Z,https://www.pokewiki.de/Porygon-Z,474,4. Generation‍,Rot,Porygon-Z,1.000.000,—,"0,9 m",Normal,"34,0 kg",80,90,85,135,75,70
+Galagladi,https://www.pokewiki.de/Galagladi,475,4. Generation‍,Weiß,Gallade,1.250.000,100% ♂,"1,6 m",Psycho Kampf,"52,0 kg 56,4 kg (Mega)",125,80,68,65,115,65
+Voluminas,https://www.pokewiki.de/Voluminas,476,4. Generation‍,Grau,Probopass,1.000.000,50% ♂ 50% ♀,"1,4 m",Gestein Stahl,"340,0 kg",55,40,60,75,150,145
+Zwirrfinst,https://www.pokewiki.de/Zwirrfinst,477,4. Generation‍,Schwarz,Dusknoir,800.000,50% ♂ 50% ♀,"2,2 m",Geist,"106,6 kg",100,45,45,65,135,135
+Frosdedje,https://www.pokewiki.de/Frosdedje,478,4. Generation‍,Weiß,Froslass,1.000.000,100% ♀,"1,3 m",Eis Geist,"26,6 kg",80,110,70,80,70,70
+Rotom,https://www.pokewiki.de/Rotom,479,4. Generation‍,Rot,Rotom,1.000.000,—,"0,3 m",Elektro Geist (Normalform)Elektro Feuer(Hitze-Form)Elektro Wasser(Wasch-Form)Elektro Eis(Frost-Form)Elektro Flug(Wirbel-Form)Elektro Pflanze(Schneid-Form),"0,3 kg",50,91,50,95,77,77
+Selfe,https://www.pokewiki.de/Selfe,480,4. Generation‍,Gelb,Uxie,1.250.000,—,"0,3 m",Psycho,"0,3 kg",75,95,75,75,130,130
+Vesprit,https://www.pokewiki.de/Vesprit,481,4. Generation‍,Rosa,Mesprit,1.250.000,—,"0,3 m",Psycho,"0,3 kg",105,80,80,105,105,105
+Tobutz,https://www.pokewiki.de/Tobutz,482,4. Generation‍,Blau,Azelf,1.250.000,—,"0,3 m",Psycho,"0,3 kg",125,115,75,125,70,70
+Dialga,https://www.pokewiki.de/Dialga,483,4. Generation‍,Weiß,Dialga,1.250.000,—,"5,4 m",Stahl Drache,"683,0 kg",120,90,100,150,100,120
+Palkia,https://www.pokewiki.de/Palkia,484,4. Generation‍,Violett,Palkia,1.250.000,—,"4,2 m",Wasser Drache,"336,0 kg",120,100,90,150,120,100
+Heatran,https://www.pokewiki.de/Heatran,485,4. Generation‍,Braun,Heatran,1.250.000,50% ♂ 50% ♀,"1,7 m",Feuer Stahl,"430,0 kg",90,77,91,130,106,106
+Regigigas,https://www.pokewiki.de/Regigigas,486,4. Generation‍,Weiß,Regigigas,1.250.000,—,"3,7 m",Normal,"420,0 kg",160,100,110,80,110,110
+Giratina,https://www.pokewiki.de/Giratina,487,4. Generation‍,Schwarz,Giratina,1.250.000,—,"4,5 m (Wandelform)6,9 m (Urform)",Geist Drache,"750,0 kg (Wandelform)650,0 kg (Urform)",100,90,150,100,120,120
+Cresselia,https://www.pokewiki.de/Cresselia,488,4. Generation‍,Gelb,Cresselia,1.250.000,100% ♀,"1,5 m",Psycho,"85,6 kg",70,85,120,75,130,120
+Phione,https://www.pokewiki.de/Phione,489,4. Generation‍,Blau,Phione,1.250.000,—,"0,4 m",Wasser,"3,1 kg",80,80,80,80,80,80
+Manaphy,https://www.pokewiki.de/Manaphy,490,4. Generation‍,Blau,Manaphy,1.250.000,—,"0,3 m",Wasser,"1,4 kg",100,100,100,100,100,100
+Darkrai,https://www.pokewiki.de/Darkrai,491,4. Generation‍,Schwarz,Darkrai,1.250.000,—,"1,5 m",Unlicht,"50,5 kg",90,125,70,135,90,90
+Shaymin,https://www.pokewiki.de/Shaymin,492,4. Generation‍,Grün,Shaymin,1.059.860,—,"0,2 m (Landform)0,4 m (Zenitform)",Pflanze  (Landform)Pflanze Flug (Zenitform),"2,1 kg (Landform)5,2 kg (Zenitform)",100,100,100,100,100,100
+Arceus,https://www.pokewiki.de/Arceus,493,4. Generation‍,Grau,Arceus,1.250.000,—,"3,2 m",Normal  (variabel) (variiert je nach getragener Tafel),"320,0 kg",120,120,120,120,120,120
+Victini,https://www.pokewiki.de/Victini,494,5. Generation‍,Gelb,Victini,1.250.000,—,"0,4 m",Psycho Feuer,"4,0 kg",100,100,100,100,100,100
+Serpifeu,https://www.pokewiki.de/Serpifeu,495,5. Generation‍,Grün,Snivy,1.059.860,"87,5% ♂ 12,5% ♀","0,6 m",Pflanze,"8,1 kg",45,63,45,45,55,55
+Efoserp,https://www.pokewiki.de/Efoserp,496,5. Generation‍,Grün,Servine,1.059.860,"87,5% ♂ 12,5% ♀","0,8 m",Pflanze,"16,0 kg",60,83,60,60,75,75
+Serpiroyal,https://www.pokewiki.de/Serpiroyal,497,5. Generation‍,Grün,Serperior,1.059.860,"87,5% ♂ 12,5% ♀","3,3 m",Pflanze,"63,0 kg",75,113,75,75,95,95
+Floink,https://www.pokewiki.de/Floink,498,5. Generation‍,Rot,Tepig,1.059.860,"87,5% ♂ 12,5% ♀","0,5 m",Feuer,"9,9 kg",63,45,65,45,45,45
+Ferkokel,https://www.pokewiki.de/Ferkokel,499,5. Generation‍,Rot,Pignite,1.059.860,"87,5% ♂ 12,5% ♀","1,0 m",Feuer Kampf,"55,0 kg",93,55,90,70,55,55
+Flambirex,https://www.pokewiki.de/Flambirex,500,5. Generation‍,Rot,Emboar,1.059.860,"87,5% ♂ 12,5% ♀","1,6 m",Feuer Kampf,"150,0 kg",123,65,110,100,65,65
+Ottaro,https://www.pokewiki.de/Ottaro,501,5. Generation‍,Blau,Oshawott,1.059.860,"87,5% ♂ 12,5% ♀","0,5 m",Wasser,"5,9 kg",55,45,55,63,45,45
+Zwottronin,https://www.pokewiki.de/Zwottronin,502,5. Generation‍,Blau,Dewott,1.059.860,"87,5% ♂ 12,5% ♀","0,8 m",Wasser,"24,5 kg",75,60,75,83,60,60
+Admurai,https://www.pokewiki.de/Admurai,503,5. Generation‍,Blau,Samurott,1.059.860,"87,5% ♂ 12,5% ♀","1,5 m",Wasser,"94,6 kg",100,70,95,108,70,85
+Nagelotz,https://www.pokewiki.de/Nagelotz,504,5. Generation‍,Braun,Patrat,1.000.000,50% ♂ 50% ♀,"0,5 m",Normal,"11,6 kg",55,42,45,35,39,39
+Kukmarda,https://www.pokewiki.de/Kukmarda,505,5. Generation‍,Braun,Watchog,1.000.000,50% ♂ 50% ♀,"1,1 m",Normal,"27,0 kg",85,77,60,60,69,69
+Yorkleff,https://www.pokewiki.de/Yorkleff,506,5. Generation‍,Braun,Lillipup,1.059.860,50% ♂ 50% ♀,"0,4 m",Normal,"4,1 kg",60,55,45,25,45,45
+Terribark,https://www.pokewiki.de/Terribark,507,5. Generation‍,Grau,Herdier,1.059.860,50% ♂ 50% ♀,"0,9 m",Normal,"14,7 kg",80,60,65,35,65,65
+Bissbark,https://www.pokewiki.de/Bissbark,508,5. Generation‍,Grau,Stoutland,1.059.860,50% ♂ 50% ♀,"1,2 m",Normal,"61,0 kg",110,80,85,45,90,90
+Felilou,https://www.pokewiki.de/Felilou,509,5. Generation‍,Violett,Purrloin,1.000.000,50% ♂ 50% ♀,"0,4 m",Unlicht,"10,1 kg",50,66,41,50,37,37
+Kleoparda,https://www.pokewiki.de/Kleoparda,510,5. Generation‍,Violett,Liepard,1.000.000,50% ♂ 50% ♀,"1,1 m",Unlicht,"37,5 kg",88,106,64,88,50,50
+Vegimak,https://www.pokewiki.de/Vegimak,511,5. Generation‍,Grün,Pansage,1.000.000,"87,5% ♂ 12,5% ♀","0,6 m",Pflanze,"10,5 kg",53,64,50,53,48,48
+Vegichita,https://www.pokewiki.de/Vegichita,512,5. Generation‍,Grün,Simisage,1.000.000,"87,5% ♂ 12,5% ♀","1,1 m",Pflanze,"30,5 kg",98,101,75,98,63,63
+Grillmak,https://www.pokewiki.de/Grillmak,513,5. Generation‍,Rot,Pansear,1.000.000,"87,5% ♂ 12,5% ♀","0,6 m",Feuer,"11,0 kg",53,64,50,53,48,48
+Grillchita,https://www.pokewiki.de/Grillchita,514,5. Generation‍,Rot,Simisear,1.000.000,"87,5% ♂ 12,5% ♀","1,0 m",Feuer,"28,0 kg",98,101,75,98,63,63
+Sodamak,https://www.pokewiki.de/Sodamak,515,5. Generation‍,Blau,Panpour,1.000.000,"87,5% ♂ 12,5% ♀","0,6 m",Wasser,"13,5 kg",53,64,50,53,48,48
+Sodachita,https://www.pokewiki.de/Sodachita,516,5. Generation‍,Blau,Simipour,1.000.000,"87,5% ♂ 12,5% ♀","1,0 m",Wasser,"29,0 kg",98,101,75,98,63,63
+Somniam,https://www.pokewiki.de/Somniam,517,5. Generation‍,Rosa,Munna,800.000,50% ♂ 50% ♀,"0,6 m",Psycho,"23,3 kg",25,24,76,67,55,45
+Somnivora,https://www.pokewiki.de/Somnivora,518,5. Generation‍,Rosa,Musharna,800.000,50% ♂ 50% ♀,"1,1 m",Psycho,"60,5 kg",55,29,116,107,95,85
+Dusselgurr,https://www.pokewiki.de/Dusselgurr,519,5. Generation‍,Grau,Pidove,1.059.860,50% ♂ 50% ♀,"0,3 m",Normal Flug,"2,1 kg",55,43,50,36,30,50
+Navitaub,https://www.pokewiki.de/Navitaub,520,5. Generation‍,Grau,Tranquill,1.059.860,50% ♂ 50% ♀,"0,6 m",Normal Flug,"15,0 kg",77,65,62,50,42,62
+Fasasnob,https://www.pokewiki.de/Fasasnob,521,5. Generation‍,Grau,Unfezant,1.059.860,50% ♂ 50% ♀,"1,2 m",Normal Flug,"29,0 kg",115,93,80,65,55,80
+Elezeba,https://www.pokewiki.de/Elezeba,522,5. Generation‍,Schwarz,Blitzle,1.000.000,50% ♂ 50% ♀,"0,8 m",Elektro,"29,8 kg",60,76,45,50,32,32
+Zebritz,https://www.pokewiki.de/Zebritz,523,5. Generation‍,Schwarz,Zebstrika,1.000.000,50% ♂ 50% ♀,"1,6 m",Elektro,"79,5 kg",100,116,75,80,63,63
+Kiesling,https://www.pokewiki.de/Kiesling,524,5. Generation‍,Blau,Roggenrola,1.059.860,50% ♂ 50% ♀,"0,4 m",Gestein,"18,0 kg",75,15,55,25,25,85
+Sedimantur,https://www.pokewiki.de/Sedimantur,525,5. Generation‍,Blau,Boldore,1.059.860,50% ♂ 50% ♀,"0,9 m",Gestein,"102,0 kg",105,20,70,50,40,105
+Brockoloss,https://www.pokewiki.de/Brockoloss,526,5. Generation‍,Blau,Gigalith,1.059.860,50% ♂ 50% ♀,"1,7 m",Gestein,"260,0 kg",135,25,85,60,80,130
+Fleknoil,https://www.pokewiki.de/Fleknoil,527,5. Generation‍,Blau,Woobat,1.000.000,50% ♂ 50% ♀,"0,4 m",Psycho Flug,"2,1 kg",45,72,65,55,43,43
+Fletiamo,https://www.pokewiki.de/Fletiamo,528,5. Generation‍,Blau,Swoobat,1.000.000,50% ♂ 50% ♀,"0,9 m",Psycho Flug,"10,5 kg",57,114,67,77,55,55
+Rotomurf,https://www.pokewiki.de/Rotomurf,529,5. Generation‍,Grau,Drilbur,1.000.000,50% ♂ 50% ♀,"0,3 m",Boden,"8,5 kg",85,68,60,30,45,40
+Stalobor,https://www.pokewiki.de/Stalobor,530,5. Generation‍,Grau,Excadrill,1.000.000,50% ♂ 50% ♀,"0,7 m",Boden Stahl,"40,4 kg",135,88,110,50,65,60
+Ohrdoch,https://www.pokewiki.de/Ohrdoch,531,5. Generation‍,Rosa,Audino,800.000,50% ♂ 50% ♀,"1,1 m 1,5 m (Mega)",Normal   Normal Fee (Mega),"31,0 kg 32,0 kg (Mega)",60,50,103,60,86,86
+Praktibalk,https://www.pokewiki.de/Praktibalk,532,5. Generation‍,Grau,Timburr,1.059.860,75% ♂ 25% ♀,"0,6 m",Kampf,"12,5 kg",80,35,75,25,35,55
+Strepoli,https://www.pokewiki.de/Strepoli,533,5. Generation‍,Grau,Gurdurr,1.059.860,75% ♂ 25% ♀,"1,2 m",Kampf,"40,0 kg",105,40,85,40,50,85
+Meistagrif,https://www.pokewiki.de/Meistagrif,534,5. Generation‍,Braun,Conkeldurr,1.059.860,75% ♂ 25% ♀,"1,4 m",Kampf,"87,0 kg",140,45,105,55,65,95
+Schallquap,https://www.pokewiki.de/Schallquap,535,5. Generation‍,Blau,Tympole,1.059.860,50% ♂ 50% ♀,"0,5 m",Wasser,"4,5 kg",50,64,50,50,40,40
+Mebrana,https://www.pokewiki.de/Mebrana,536,5. Generation‍,Blau,Palpitoad,1.059.860,50% ♂ 50% ♀,"0,8 m",Wasser Boden,"17,0 kg",65,69,75,65,55,55
+Branawarz,https://www.pokewiki.de/Branawarz,537,5. Generation‍,Blau,Seismitoad,1.059.860,50% ♂ 50% ♀,"1,5 m",Wasser Boden,"62,0 kg",95,74,105,85,75,75
+Jiutesto,https://www.pokewiki.de/Jiutesto,538,5. Generation‍,Rot,Throh,1.000.000,100% ♂,"1,3 m",Kampf,"55,5 kg",100,45,120,30,85,85
+Karadonis,https://www.pokewiki.de/Karadonis,539,5. Generation‍,Blau,Sawk,1.000.000,100% ♂,"1,4 m",Kampf,"51,0 kg",125,85,75,30,75,75
+Strawickl,https://www.pokewiki.de/Strawickl,540,5. Generation‍,Gelb,Sewaddle,1.059.860,50% ♂ 50% ♀,"0,3 m",Käfer Pflanze,"2,5 kg",53,42,45,40,60,70
+Folikon,https://www.pokewiki.de/Folikon,541,5. Generation‍,Grün,Swadloon,1.059.860,50% ♂ 50% ♀,"0,5 m",Käfer Pflanze,"7,3 kg",63,42,55,50,80,90
+Matrifol,https://www.pokewiki.de/Matrifol,542,5. Generation‍,Gelb,Leavanny,1.059.860,50% ♀ 50% ♂,"1,2 m",Käfer Pflanze,"20,5 kg",103,92,75,70,80,80
+Toxiped,https://www.pokewiki.de/Toxiped,543,5. Generation‍,Rot,Venipede,1.059.860,50% ♂ 50% ♀,"0,4 m",Käfer Gift,"5,3 kg",45,57,30,30,39,59
+Rollum,https://www.pokewiki.de/Rollum,544,5. Generation‍,Grau,Whirlipede,1.059.860,50% ♂ 50% ♀,"1,2 m",Käfer Gift,"58,5 kg",55,47,40,40,79,99
+Cerapendra,https://www.pokewiki.de/Cerapendra,545,5. Generation‍,Rot,Scolipede,1.059.860,50% ♂ 50% ♀,"2,5 m",Käfer Gift,"200,5 kg",100,112,60,55,69,89
+Waumboll,https://www.pokewiki.de/Waumboll,546,5. Generation‍,Grün,Cottonee,1.000.000,50% ♂ 50% ♀,"0,3 m",Pflanze Fee,"0,6 kg",27,66,40,37,50,60
+Elfun,https://www.pokewiki.de/Elfun,547,5. Generation‍,Grün,Whimsicott,1.000.000,50% ♂ 50% ♀,"0,7 m",Pflanze Fee,"6,6 kg",67,116,60,77,75,85
+Lilminip,https://www.pokewiki.de/Lilminip,548,5. Generation‍,Grün,Petilil,1.000.000,100% ♀,"0,5 m",Pflanze,"6,6 kg",35,30,45,70,50,50
+Dressella,https://www.pokewiki.de/Dressella,549,5. Generation‍,Grün,Lilligant,1.000.000,100% ♀,"1,1 m",Pflanze,"16,3 kg",60,90,70,110,75,75
+Barschuft,https://www.pokewiki.de/Barschuft,550,5. Generation‍,Grün,Basculin,1.000.000,50% ♂ 50% ♀,"1,0 m",Wasser,"18,0 kg",92,98,70,80,55,65
+Ganovil,https://www.pokewiki.de/Ganovil,551,5. Generation‍,Braun,Sandile,1.059.860,50% ♂ 50% ♀,"0,7 m",Boden Unlicht,"15,2 kg",72,65,50,35,35,35
+Rokkaiman,https://www.pokewiki.de/Rokkaiman,552,5. Generation‍,Braun,Krokorok,1.059.860,50% ♂ 50% ♀,"1,0 m",Boden Unlicht,"33,4 kg",82,74,60,45,45,45
+Rabigator,https://www.pokewiki.de/Rabigator,553,5. Generation‍,Rot,Krookodile,1.059.860,50% ♂ 50% ♀,"1,5 m",Boden Unlicht,"96,3 kg",117,92,95,65,70,80
+Flampion,https://www.pokewiki.de/Flampion,554,5. Generation‍,Rot,Darumaka,1.059.860,50% ♂ 50% ♀,"0,6 m",Feuer,"37,5 kg",90,50,70,15,45,45
+Flampivian,https://www.pokewiki.de/Flampivian,555,5. Generation‍,Rot,Darmanitan,1.059.860,50% ♂ 50% ♀,"1,3 m",Feuer  (Normalform)Feuer Psycho (Trance-Modus),"92,9 kg",140,95,105,30,55,55
+Maracamba,https://www.pokewiki.de/Maracamba,556,5. Generation‍,Grün,Maractus,1.000.000,50% ♂ 50% ♀,"1,0 m",Pflanze,"28,0 kg",86,60,75,106,67,67
+Lithomith,https://www.pokewiki.de/Lithomith,557,5. Generation‍,Rot,Dwebble,1.000.000,50% ♂ 50% ♀,"0,3 m",Käfer Gestein,"14,5 kg",65,55,50,35,35,85
+Castellith,https://www.pokewiki.de/Castellith,558,5. Generation‍,Rot,Crustle,1.000.000,50% ♂ 50% ♀,"1,4 m",Käfer Gestein,"200,0 kg",105,45,70,65,75,125
+Zurrokex,https://www.pokewiki.de/Zurrokex,559,5. Generation‍,Gelb,Scraggy,1.000.000,50% ♂ 50% ♀,"0,6 m",Unlicht Kampf,"11,8 kg",75,48,50,35,70,70
+Irokex,https://www.pokewiki.de/Irokex,560,5. Generation‍,Rot,Scrafty,1.000.000,50% ♂ 50% ♀,"1,1 m",Unlicht Kampf,"30,0 kg",90,58,65,45,115,115
+Symvolara,https://www.pokewiki.de/Symvolara,561,5. Generation‍,Schwarz,Sigilyph,1.000.000,50% ♂ 50% ♀,"1,4 m",Psycho Flug,"14,0 kg",58,97,72,103,80,80
+Makabaja,https://www.pokewiki.de/Makabaja,562,5. Generation‍,Schwarz,Yamask,1.000.000,50% ♂ 50% ♀,"0,5 m",Geist,"1,5 kg",30,30,38,55,65,85
+Echnatoll,https://www.pokewiki.de/Echnatoll,563,5. Generation‍,Gelb,Cofagrigus,1.000.000,50% ♂ 50% ♀,"1,7 m",Geist,"76,5 kg",50,30,58,95,105,145
+Galapaflos,https://www.pokewiki.de/Galapaflos,564,5. Generation‍,Blau,Tirtouga,1.000.000,"87,5% ♂ 12,5% ♀","0,7 m",Wasser Gestein,"16,5 kg",78,22,54,53,45,103
+Karippas,https://www.pokewiki.de/Karippas,565,5. Generation‍,Blau,Carracosta,1.000.000,"87,5% ♂ 12,5% ♀","1,2 m",Wasser Gestein,"82,0 kg",108,32,74,83,65,133
+Flapteryx,https://www.pokewiki.de/Flapteryx,566,5. Generation‍,Gelb,Archen,1.000.000,"87,5% ♂ 12,5% ♀","0,6 m",Gestein Flug,"9,5 kg",112,70,55,74,45,45
+Aeropteryx,https://www.pokewiki.de/Aeropteryx,567,5. Generation‍,Gelb,Archeops,1.000.000,"87,5% ♂ 12,5% ♀","1,4 m",Gestein Flug,"32,0 kg",140,110,75,112,65,65
+Unratütox,https://www.pokewiki.de/Unrat%C3%BCtox,568,5. Generation‍,Grün,Trubbish,1.000.000,50% ♂ 50% ♀,"0,6 m",Gift,"31,0 kg",50,65,50,40,62,62
+Deponitox,https://www.pokewiki.de/Deponitox,569,5. Generation‍,Grün,Garbodor,1.000.000,50% ♂ 50% ♀,"1,9 m",Gift,"107,3 kg",95,75,80,60,82,82
+Zorua,https://www.pokewiki.de/Zorua,570,5. Generation‍,Grau,Zorua,1.059.860,"87,5% ♂ 12,5% ♀","0,7 m",Unlicht,"12,5 kg",65,65,40,80,40,40
+Zoroark,https://www.pokewiki.de/Zoroark,571,5. Generation‍,Grau,Zoroark,1.059.860,"87,5% ♂ 12,5% ♀","1,6 m",Unlicht,"81,1 kg",105,105,60,120,60,60
+Picochilla,https://www.pokewiki.de/Picochilla,572,5. Generation‍,Grau,Minccino,800.000,25% ♂ 75%♀,"0,4 m",Normal,"5,8 kg",50,85,55,40,40,40
+Chillabell,https://www.pokewiki.de/Chillabell,573,5. Generation‍,Grau,Cinccino,800.000,25% ♂ 75% ♀,"0,5 m",Normal,"7,5 kg",95,115,75,65,60,60
+Mollimorba,https://www.pokewiki.de/Mollimorba,574,5. Generation‍,Violett,Gothita,1.059.860,25% ♂ 75% ♀,"0,4 m",Psycho,"5,8 kg",30,45,45,55,65,50
+Hypnomorba,https://www.pokewiki.de/Hypnomorba,575,5. Generation‍,Violett,Gothorita,1.059.860,25% ♂ 75% ♀,"0,7 m",Psycho,"18,0 kg",45,55,60,75,85,70
+Morbitesse,https://www.pokewiki.de/Morbitesse,576,5. Generation‍,Violett,Gothitelle,1.059.860,25% ♂ 75% ♀,"1,5 m",Psycho,"44,0 kg",55,65,70,95,110,95
+Monozyto,https://www.pokewiki.de/Monozyto,577,5. Generation‍,Grün,Solosis,1.059.860,50% ♂ 50% ♀,"0,3 m",Psycho,"1,0 kg",30,20,45,105,50,40
+Mitodos,https://www.pokewiki.de/Mitodos,578,5. Generation‍,Grün,Duosion,1.059.860,50% ♂ 50% ♀,"0,6 m",Psycho,"8,0 kg",40,30,65,125,60,50
+Zytomega,https://www.pokewiki.de/Zytomega,579,5. Generation‍,Grün,Reuniclus,1.059.860,50% ♂ 50% ♀,"1,0 m",Psycho,"20,1 kg",65,30,110,125,85,75
+Piccolente,https://www.pokewiki.de/Piccolente,580,5. Generation‍,Blau,Ducklett,1.000.000,50% ♂ 50% ♀,"0,5 m",Wasser Flug,"5,5 kg",44,55,62,44,50,50
+Swaroness,https://www.pokewiki.de/Swaroness,581,5. Generation‍,Weiß,Swanna,1.000.000,50% ♂ 50% ♀,"1,3 m",Wasser Flug,"24,2 kg",87,98,75,87,63,63
+Gelatini,https://www.pokewiki.de/Gelatini,582,5. Generation‍,Weiß,Vanillite,1.250.000,50% ♂ 50% ♀,"0,4 m",Eis,"5,7 kg",50,44,36,65,60,50
+Gelatroppo,https://www.pokewiki.de/Gelatroppo,583,5. Generation‍,Weiß,Vanillish,1.250.000,50% ♂ 50% ♀,"1,1 m",Eis,"41,0 kg",65,59,51,80,75,65
+Gelatwino,https://www.pokewiki.de/Gelatwino,584,5. Generation‍,Weiß,Vanilluxe,1.250.000,50% ♂ 50% ♀,"1,3 m",Eis,"57,5 kg",95,79,71,110,95,85
+Sesokitz,https://www.pokewiki.de/Sesokitz,585,5. Generation‍,Gelb,Deerling,1.000.000,50% ♂ 50% ♀,"0,6 m",Normal Pflanze,"19,5 kg",60,75,60,40,50,50
+Kronjuwild,https://www.pokewiki.de/Kronjuwild,586,5. Generation‍,Braun,Sawsbuck,1.000.000,50% ♀ 50% ♂,"1,9 m",Normal Pflanze,"92,5 kg",100,95,80,60,70,70
+Emolga,https://www.pokewiki.de/Emolga,587,5. Generation‍,Weiß,Emolga,1.000.000,50% ♂ 50% ♀,"0,4 m",Elektro Flug,"5,0 kg",75,103,55,75,60,60
+Laukaps,https://www.pokewiki.de/Laukaps,588,5. Generation‍,Blau,Karrablast,1.000.000,50% ♂ 50% ♀,"0,5 m",Käfer,"5,9 kg",75,60,50,40,45,45
+Cavalanzas,https://www.pokewiki.de/Cavalanzas,589,5. Generation‍,Grau,Escavalier,1.000.000,50% ♂ 50% ♀,"1,0 m",Käfer Stahl,"33,0 kg",135,20,70,60,105,105
+Tarnpignon,https://www.pokewiki.de/Tarnpignon,590,5. Generation‍,Weiß,Foongus,1.000.000,50% ♂ 50% ♀,"0,2 m",Pflanze Gift,"1,0 kg",55,15,69,55,55,45
+Hutsassa,https://www.pokewiki.de/Hutsassa,591,5. Generation‍,Weiß,Amoonguss,1.000.000,50% ♂ 50% ♀,"0,6 m",Pflanze Gift,"10,5 kg",85,30,114,85,80,70
+Quabbel,https://www.pokewiki.de/Quabbel,592,5. Generation‍,Weiß,Frillish,1.000.000,50% ♂ 50% ♀,"1,2 m",Wasser Geist,"33,0 kg",40,40,55,65,85,50
+Apoquallyp,https://www.pokewiki.de/Apoquallyp,593,5. Generation‍,Weiß,Jellicent,1.000.000,50% ♂ 50% ♀,"2,2 m",Wasser Geist,"135,0 kg",60,60,100,85,105,70
+Mamolida,https://www.pokewiki.de/Mamolida,594,5. Generation‍,Rosa,Alomomola,800.000,50% ♂ 50% ♀,"1,2 m",Wasser,"31,6 kg",75,65,165,40,45,80
+Wattzapf,https://www.pokewiki.de/Wattzapf,595,5. Generation‍,Gelb,Joltik,1.000.000,50% ♂ 50% ♀,"0,1 m",Käfer Elektro,"0,6 kg",47,65,50,57,50,50
+Voltula,https://www.pokewiki.de/Voltula,596,5. Generation‍,Gelb,Galvantula,1.000.000,50% ♂ 50% ♀,"0,8 m",Käfer Elektro,"14,3 kg",77,108,70,97,60,60
+Kastadur,https://www.pokewiki.de/Kastadur,597,5. Generation‍,Grau,Ferroseed,1.000.000,50% ♂ 50% ♀,"0,6 m",Pflanze Stahl,"18,8 kg",50,10,44,24,86,91
+Tentantel,https://www.pokewiki.de/Tentantel,598,5. Generation‍,Grau,Ferrothorn,1.000.000,50% ♂ 50% ♀,"1,0 m",Pflanze Stahl,"110,0 kg",94,20,74,54,116,131
+Klikk,https://www.pokewiki.de/Klikk,599,5. Generation‍,Grau,Klink,1.059.860,—,"0,3 m",Stahl,"21,0 kg",55,30,40,45,60,70
+Kliklak,https://www.pokewiki.de/Kliklak,600,5. Generation‍,Grau,Klang,1.059.860,—,"0,6 m",Stahl,"51,0 kg",80,50,60,70,85,95
+Klikdiklak,https://www.pokewiki.de/Klikdiklak,601,5. Generation‍,Grau,Klinklang,1.059.860,—,"0,6 m",Stahl,"81,0 kg",100,90,60,70,85,115
+Zapplardin,https://www.pokewiki.de/Zapplardin,602,5. Generation‍,Weiß,Tynamo,1.250.000,50% ♂ 50% ♀,"0,2 m",Elektro,"0,3 kg",55,60,35,45,40,40
+Zapplalek,https://www.pokewiki.de/Zapplalek,603,5. Generation‍,Blau,Eelektrik,1.250.000,50% ♂ 50% ♀,"1,2 m",Elektro,22 kg,85,40,65,75,70,70
+Zapplarang,https://www.pokewiki.de/Zapplarang,604,5. Generation‍,Blau,Eelektross,1.250.000,50% ♂ 50% ♀,"2,1 m",Elektro,"80,5 kg",115,50,85,105,80,80
+Pygraulon,https://www.pokewiki.de/Pygraulon,605,5. Generation‍,Blau,Elgyem,1.000.000,50% ♂ 50% ♀,"0,5 m",Psycho,"9,0 kg",55,30,55,85,55,55
+Megalon,https://www.pokewiki.de/Megalon,606,5. Generation‍,Braun,Beheeyem,1.000.000,50% ♂ 50% ♀,"1,0 m",Psycho,"34,5 kg",75,40,75,125,95,75
+Lichtel,https://www.pokewiki.de/Lichtel,607,5. Generation‍,Weiß,Litwick,1.059.860,50% ♂ 50% ♀,"0,3 m",Geist Feuer,"3,1 kg",30,20,50,65,55,55
+Laternecto,https://www.pokewiki.de/Laternecto,608,5. Generation‍,Schwarz,Lampent,1.059.860,50% ♂ 50% ♀,"0,6 m",Geist Feuer,"13,0 kg",40,55,60,95,60,60
+Skelabra,https://www.pokewiki.de/Skelabra,609,5. Generation‍,Schwarz,Chandelure,1.059.860,50% ♂ 50% ♀,"1,0 m",Geist Feuer,"34,3 kg",55,80,60,145,90,90
+Milza,https://www.pokewiki.de/Milza,610,5. Generation‍,Grün,Axew,1.250.000,50% ♂ 50% ♀,"0,6 m",Drache,"18,0 kg",87,57,46,30,40,60
+Sharfax,https://www.pokewiki.de/Sharfax,611,5. Generation‍,Grün,Fraxure,1.250.000,50% ♂ 50% ♀,"1,0 m",Drache,"36,0 kg",117,67,66,40,50,70
+Maxax,https://www.pokewiki.de/Maxax,612,5. Generation‍,Gelb,Haxorus,1.250.000,50% ♂ 50% ♀,"1,8 m",Drache,"105,5 kg",147,97,77,60,70,90
+Petznief,https://www.pokewiki.de/Petznief,613,5. Generation‍,Weiß,Cubchoo,1.000.000,50% ♂ 50% ♀,"0,5 m",Eis,"8,5 kg",70,40,55,60,40,40
+Siberio,https://www.pokewiki.de/Siberio,614,5. Generation‍,Weiß,Beartic,1.000.000,50% ♂ 50% ♀,"2,6 m",Eis,"260,0 kg",130,50,95,70,80,80
+Frigometri,https://www.pokewiki.de/Frigometri,615,5. Generation‍,Blau,Cryogonal,1.000.000,—,"1,1 m",Eis,"148,0 kg",50,105,80,95,135,50
+Schnuthelm,https://www.pokewiki.de/Schnuthelm,616,5. Generation‍,Rot,Shelmet,1.000.000,50% ♂ 50% ♀,"0,4 m",Käfer,"7,7 kg",40,25,50,40,65,85
+Hydragil,https://www.pokewiki.de/Hydragil,617,5. Generation‍,Rot,Accelgor,1.000.000,50% ♂ 50% ♀,"0,8 m",Käfer,"25,3 kg",70,145,80,100,60,40
+Flunschlik,https://www.pokewiki.de/Flunschlik,618,5. Generation‍,Braun,Stunfisk,1.000.000,50% ♂ 50% ♀,"0,7 m",Boden Elektro,"11,0 kg",66,32,109,81,99,84
+Lin-Fu,https://www.pokewiki.de/Lin-Fu,619,5. Generation‍,Gelb,Mienfoo,1.059.860,50% ♂ 50% ♀,"0,9 m",Kampf,"20,0 kg",85,65,45,55,50,50
+Wie-Shu,https://www.pokewiki.de/Wie-Shu,620,5. Generation‍,Violett,Mienshao,1.059.860,50% ♂ 50% ♀,"1,4 m",Kampf,"35,5 kg",125,105,65,95,60,60
+Shardrago,https://www.pokewiki.de/Shardrago,621,5. Generation‍,Rot,Druddigon,1.000.000,50% ♂ 50% ♀,"1,6 m",Drache,"139,0 kg",120,48,77,60,90,90
+Golbit,https://www.pokewiki.de/Golbit,622,5. Generation‍,Grün,Golett,1.000.000,—,"1,0 m",Boden Geist,"92,0 kg",74,35,59,35,50,50
+Golgantes,https://www.pokewiki.de/Golgantes,623,5. Generation‍,Grün,Golurk,1.000.000,—,"2,8 m",Boden Geist,"330,0 kg",124,55,89,55,80,80
+Gladiantri,https://www.pokewiki.de/Gladiantri,624,5. Generation‍,Rot,Pawniard,1.000.000,50% ♂ 50% ♀,"0,5 m",Unlicht Stahl,"10,2 kg",85,60,45,40,40,70
+Caesurio,https://www.pokewiki.de/Caesurio,625,5. Generation‍,Rot,Bisharp,1.000.000,50% ♂ 50% ♀,"1,6 m",Unlicht Stahl,"70,0 kg",125,70,65,60,70,100
+Bisofank,https://www.pokewiki.de/Bisofank,626,5. Generation‍,Braun,Bouffalant,1.000.000,50% ♂ 50% ♀,"1,6 m",Normal,"94,6 kg",110,55,95,40,95,95
+Geronimatz,https://www.pokewiki.de/Geronimatz,627,5. Generation‍,Weiß,Rufflet,1.250.000,100% ♂,"0,5 m",Normal Flug,"10,5 kg",83,60,70,37,50,50
+Washakwil,https://www.pokewiki.de/Washakwil,628,5. Generation‍,Rot,Braviary,1.250.000,100% ♂,"1,5 m",Normal Flug,"41,0 kg",123,80,100,57,75,75
+Skallyk,https://www.pokewiki.de/Skallyk,629,5. Generation‍,Braun,Vullaby,1.250.000,100% ♀,"0,5 m",Unlicht Flug,"9,0 kg",55,60,70,45,65,75
+Grypheldis,https://www.pokewiki.de/Grypheldis,630,5. Generation‍,Braun,Mandibuzz,1.250.000,100% ♀,"1,2 m",Unlicht Flug,"39,5 kg",65,80,110,55,95,105
+Furnifraß,https://www.pokewiki.de/Furnifra%C3%9F,631,5. Generation‍,Rot,Heatmor,1.000.000,50% ♂ 50% ♀,"1,4 m",Feuer,"58,0 kg",97,65,85,105,66,66
+Fermicula,https://www.pokewiki.de/Fermicula,632,5. Generation‍,Grau,Durant,1.000.000,50% ♂ 50% ♀,"0,3 m",Käfer Stahl,"33,0 kg",109,109,58,48,48,112
+Kapuno,https://www.pokewiki.de/Kapuno,633,5. Generation‍,Blau,Deino,1.250.000,50% ♂ 50% ♀,"0,8 m",Unlicht Drache,"17,3 kg",65,38,52,45,50,50
+Duodino,https://www.pokewiki.de/Duodino,634,5. Generation‍,Blau,Zweilous,1.250.000,50% ♂ 50% ♀,"1,4 m",Unlicht Drache,"50,0 kg",85,58,72,65,70,70
+Trikephalo,https://www.pokewiki.de/Trikephalo,635,5. Generation‍,Blau,Hydreigon,1.250.000,50% ♂ 50% ♀,"1,8 m",Unlicht Drache,"160,0 kg",105,98,92,125,90,90
+Ignivor,https://www.pokewiki.de/Ignivor,636,5. Generation‍,Weiß,Larvesta,1.250.000,50% ♂ 50% ♀,"1,1 m",Käfer Feuer,"28,8 kg",85,60,55,50,55,55
+Ramoth,https://www.pokewiki.de/Ramoth,637,5. Generation‍,Weiß,Volcarona,1.250.000,50% ♂ 50 ♀,"1,6 m",Käfer Feuer,"46,0 kg",60,100,85,135,105,65
+Kobalium,https://www.pokewiki.de/Kobalium,638,5. Generation‍,Blau,Cobalion,1.250.000,—,"2,1 m",Stahl Kampf,"250,0 kg",90,108,91,90,72,129
+Terrakium,https://www.pokewiki.de/Terrakium,639,5. Generation‍,Grau,Terrakion,1.250.000,—,"1,9 m",Gestein Kampf,"260,0 kg",129,108,91,72,90,90
+Viridium,https://www.pokewiki.de/Viridium,640,5. Generation‍,Grün,Virizion,1.250.000,—,"2,0 m",Pflanze Kampf,"200,0 kg",90,108,91,90,129,72
+Boreos,https://www.pokewiki.de/Boreos,641,5. Generation‍,Grün,Tornadus,1.250.000,100% ♂,"1,5 m (Inkarnationsform)1,4 m (Tiergeistform)",Flug,"63,0 kg",115,111,79,125,80,70
+Voltolos,https://www.pokewiki.de/Voltolos,642,5. Generation‍,Blau,Thundurus,1.250.000,100% ♂,"1,5 m (Inkarnationsform) 3,0 m (Tiergeistform)",Elektro Flug,"61,0 kg",115,111,79,125,80,70
+Reshiram,https://www.pokewiki.de/Reshiram,643,5. Generation‍,Weiß,Reshiram,1.250.000,—,"3,2 m",Drache Feuer,"330,0 kg",120,90,100,150,120,100
+Zekrom,https://www.pokewiki.de/Zekrom,644,5. Generation‍,Schwarz,Zekrom,1.250.000,—,"2,9 m",Drache Elektro,"345,0 kg",150,90,100,120,100,120
+Demeteros,https://www.pokewiki.de/Demeteros,645,5. Generation‍,Braun,Landorus,1.250.000,100% ♂,"1,5 m (Inkarnationsform) 1,3 m (Tiergeistform)",Boden Flug,"68,0 kg",125,101,89,115,80,90
+Kyurem,https://www.pokewiki.de/Kyurem,646,5. Generation‍,Grau,Kyurem,1.250.000,—,"3,0 m3,3 m (Schwarzes Kyurem)3,6 m (Weißes Kyurem)",Drache Eis,"325,0 kg",130,95,125,130,90,90
+Keldeo,https://www.pokewiki.de/Keldeo,647,5. Generation‍,Gelb,Keldeo,1.250.000,—,"1,4 m",Wasser Kampf,"48,5 kg",72,108,91,129,90,90
+Meloetta,https://www.pokewiki.de/Meloetta,648,5. Generation‍,Weiß,Meloetta,1.250.000,—,"0,6 m",Normal Psycho (Gesangsform)Normal Kampf (Tanzform),"6,5 kg",77,90,100,128,128,77
+Genesect,https://www.pokewiki.de/Genesect,649,5. Generation‍,Violett,Genesect,1.250.000,—,"1,5 m",Käfer Stahl,"82,5 kg",120,99,71,120,95,95
+Igamaro,https://www.pokewiki.de/Igamaro,650,6. Generation‍,Grün,Chespin,1.059.860,"87,5% ♂ 12,5% ♀","0,4 m",Pflanze,"9,0 kg",61,38,56,48,45,65
+Igastarnish,https://www.pokewiki.de/Igastarnish,651,6. Generation‍,Grün,Quilladin,1.059.860,"87,5% ♂ 12,5% ♀","0,7 m",Pflanze,"29,0 kg",78,57,61,56,58,95
+Brigaron,https://www.pokewiki.de/Brigaron,652,6. Generation‍,Grün,Chesnaught,1.059.860,"87,5% ♂ 12,5% ♀","1,6 m",Pflanze Kampf,"90,0 kg",107,64,88,74,75,122
+Fynx,https://www.pokewiki.de/Fynx,653,6. Generation‍,Rot,Fennekin,1.059.860,"87,5% ♂ 12,5% ♀","0,4 m",Feuer,"9,4 kg",45,60,40,62,60,40
+Rutena,https://www.pokewiki.de/Rutena,654,6. Generation‍,Rot,Braixen,1.059.860,"87,5% ♂ 12,5% ♀","1,0 m",Feuer,"14,5 kg",59,73,59,90,70,58
+Fennexis,https://www.pokewiki.de/Fennexis,655,6. Generation‍,Rot,Delphox,1.059.860,"87,5% ♂ 12,5% ♀","1,5 m",Feuer Psycho,"39,0 kg",69,104,75,114,100,72
+Froxy,https://www.pokewiki.de/Froxy,656,6. Generation‍,Blau,Froakie,1.059.860,"87,5% ♂ 12,5% ♀","0,3 m",Wasser,"7,0 kg",56,71,41,62,44,40
+Amphizel,https://www.pokewiki.de/Amphizel,657,6. Generation‍,Blau,Frogadier,1.059.860,"87,5% ♂ 12,5% ♀","0,6 m",Wasser,"10,9 kg",63,97,54,83,56,52
+Quajutsu,https://www.pokewiki.de/Quajutsu,658,6. Generation‍,Blau,Greninja,1.059.860,"87,5% ♂ 12,5% ♀","1,5 m",Wasser Unlicht,"40,0 kg",95,122,72,103,71,67
+Scoppel,https://www.pokewiki.de/Scoppel,659,6. Generation‍,Braun,Bunnelby,1.000.000,50% ♂ 50% ♀,"0,4 m",Normal,"5,0 kg",36,57,38,32,36,38
+Grebbit,https://www.pokewiki.de/Grebbit,660,6. Generation‍,Braun,Diggersby,1.000.000,50% ♂ 50% ♀,"1,0 m",Normal Boden,"42,4 kg",56,78,85,50,77,77
+Dartiri,https://www.pokewiki.de/Dartiri,661,6. Generation‍,Rot,Fletchling,1.059.860,50% ♂ 50% ♀,"0,3 m",Normal Flug,"1,7 kg",50,62,45,40,38,43
+Dartignis,https://www.pokewiki.de/Dartignis,662,6. Generation‍,Rot,Fletchinder,1.059.860,50% ♂ 50% ♀,"0,7 m",Feuer Flug,"16,0 kg",73,84,62,56,52,55
+Fiaro,https://www.pokewiki.de/Fiaro,663,6. Generation‍,Rot,Talonflame,1.059.860,50% ♂ 50% ♀,"1,2 m",Feuer Flug,"24,5 kg",81,126,78,74,69,71
+Purmel,https://www.pokewiki.de/Purmel,664,6. Generation‍,Schwarz,Scatterbug,1.000.000,50% ♂ 50% ♀,"0,3 m",Käfer,"2,5 kg",35,35,38,27,25,40
+Puponcho,https://www.pokewiki.de/Puponcho,665,6. Generation‍,Schwarz,Spewpa,1.000.000,50% ♂ 50% ♀,"0,3 m",Käfer,"8,4 kg",22,29,45,27,30,60
+Vivillon,https://www.pokewiki.de/Vivillon,666,6. Generation‍,Schwarz,Vivillon,1.000.000,50% ♂ 50% ♀,"1,2 m",Käfer Flug,"17,0 kg",52,89,80,90,50,50
+Leufeo,https://www.pokewiki.de/Leufeo,667,6. Generation‍,Braun,Litleo,1.059.860,"12,5% ♂ 87,5% ♀","0,6 m",Feuer Normal,"13,5 kg",50,72,62,73,54,58
+Pyroleo,https://www.pokewiki.de/Pyroleo,668,6. Generation‍,Braun,Pyroar,1.059.860,"12,5% ♂ 87,5% ♀","1,5 m",Feuer Normal,"81,5 kg",68,106,86,109,66,72
+Flabébé,https://www.pokewiki.de/Flab%C3%A9b%C3%A9,669,6. Generation‍,Weiß,Flabébé,1.000.000,100% ♀,"0,1 m",Fee,"0,1 kg",38,42,44,61,79,39
+Floette,https://www.pokewiki.de/Floette,670,6. Generation‍,Weiß,Floette,1.000.000,100% ♀,"0,2 m",Fee,"0,9 kg",45,52,54,75,98,47
+Florges,https://www.pokewiki.de/Florges,671,6. Generation‍,Weiß,Florges,1.000.000,100% ♀,"1,1 m",Fee,"10,0 kg",65,75,78,112,154,68
+Mähikel,https://www.pokewiki.de/M%C3%A4hikel,672,6. Generation‍,Braun,Skiddo,1.000.000,50% ♂ 50% ♀,"0,9 m",Pflanze,"31,0 kg",65,52,66,62,57,48
+Chevrumm,https://www.pokewiki.de/Chevrumm,673,6. Generation‍,Braun,Gogoat,1.000.000,50% ♂ 50% ♀,"1,7 m",Pflanze,"91,0 kg",100,68,123,97,81,62
+Pam-Pam,https://www.pokewiki.de/Pam-Pam,674,6. Generation‍,Weiß,Pancham,1.000.000,50% ♂ 50% ♀,"0,6 m",Kampf,"8,0 kg",84,43,67,46,48,62
+Pandagro,https://www.pokewiki.de/Pandagro,675,6. Generation‍,Weiß,Pangoro,1.000.000,50% ♂ 50% ♀,"2,1 m",Kampf Unlicht,"136,0 kg",124,58,95,69,71,78
+Coiffwaff,https://www.pokewiki.de/Coiffwaff,676,6. Generation‍,Weiß,Furfrou,1.000.000,50% ♂ 50% ♀,"1,2 m",Normal,"28,0 kg",80,102,75,65,90,60
+Psiau,https://www.pokewiki.de/Psiau,677,6. Generation‍,Grau,Espurr,1.000.000,50% ♂ 50% ♀,"0,3 m",Psycho,"3,5 kg",48,68,62,63,60,54
+Psiaugon,https://www.pokewiki.de/Psiaugon,678,6. Generation‍,Weiß,Meowstic,1.000.000,50% ♂ 50% ♀,"0,6 m",Psycho,"8,5 kg",48,104,74,83,81,76
+Gramokles,https://www.pokewiki.de/Gramokles,679,6. Generation‍,Braun,Honedge,1.000.000,50% ♂ 50% ♀,"0,8 m",Stahl Geist,"2,0 kg",80,28,45,35,37,100
+Duokles,https://www.pokewiki.de/Duokles,680,6. Generation‍,Braun,Doublade,1.000.000,50% ♂ 50% ♀,"0,8 m",Stahl Geist,"4,5 kg",110,35,59,45,49,150
+Durengard,https://www.pokewiki.de/Durengard,681,6. Generation‍,Braun,Aegislash,1.000.000,50% ♂ 50% ♀,"1,7 m",Stahl Geist,"53,0 kg",50,60,60,50,150,150
+Parfi,https://www.pokewiki.de/Parfi,682,6. Generation‍,Rosa,Spritzee,1.000.000,50% ♂ 50% ♀,"0,2 m",Fee,"0,5 kg",52,23,78,63,65,60
+Parfinesse,https://www.pokewiki.de/Parfinesse,683,6. Generation‍,Rosa,Aromatisse,1.000.000,50% ♂ 50% ♀,"0,8 m",Fee,"15,5 kg",72,29,101,99,89,72
+Flauschling,https://www.pokewiki.de/Flauschling,684,6. Generation‍,Weiß,Swirlix,1.000.000,50% ♂ 50% ♀,"0,4 m",Fee,"3,5 kg",48,49,62,59,57,66
+Sabbaione,https://www.pokewiki.de/Sabbaione,685,6. Generation‍,Weiß,Slurpuff,1.000.000,50% ♂ 50% ♀,"0,8 m",Fee,"5,0 kg",80,72,82,85,75,86
+Iscalar,https://www.pokewiki.de/Iscalar,686,6. Generation‍,Blau,Inkay,1.000.000,50% ♂ 50% ♀,"0,4 m",Unlicht Psycho,"3,5 kg",54,45,53,37,46,53
+Calamanero,https://www.pokewiki.de/Calamanero,687,6. Generation‍,Blau,Malamar,1.000.000,50% ♂ 50% ♀,"1,5 m",Unlicht Psycho,"47,0 kg",92,73,86,68,75,88
+Bithora,https://www.pokewiki.de/Bithora,688,6. Generation‍,Braun,Binacle,1.000.000,50% ♂ 50% ♀,"0,5 m",Gestein Wasser,"31,0 kg",52,50,42,39,56,67
+Thanathora,https://www.pokewiki.de/Thanathora,689,6. Generation‍,Braun,Barbaracle,1.000.000,50% ♂ 50% ♀,"1,3 m",Gestein Wasser,"96,0 kg",105,68,72,54,86,115
+Algitt,https://www.pokewiki.de/Algitt,690,6. Generation‍,Braun,Skrelp,1.000.000,50% ♂ 50% ♀,"0,5 m",Gift Wasser,"7,3 kg",60,30,50,60,60,60
+Tandrak,https://www.pokewiki.de/Tandrak,691,6. Generation‍,Braun,Dragalge,1.000.000,50% ♂ 50% ♀,"1,8 m",Gift Drache,"81,5 kg",75,44,65,97,123,90
+Scampisto,https://www.pokewiki.de/Scampisto,692,6. Generation‍,Blau,Clauncher,1.250.000,50% ♂ 50% ♀,"0,5 m",Wasser,"8,3 kg",53,44,50,58,63,62
+Wummer,https://www.pokewiki.de/Wummer,693,6. Generation‍,Blau,Clawitzer,1.250.000,50% ♂ 50% ♀,"1,3 m",Wasser,"35,3 kg",73,59,71,120,89,88
+Eguana,https://www.pokewiki.de/Eguana,694,6. Generation‍,Gelb,Helioptile,1.000.000,50% ♂ 50% ♀,"0,5 m",Elektro Normal,"6,0 kg",38,70,44,61,43,33
+Elezard,https://www.pokewiki.de/Elezard,695,6. Generation‍,Gelb,Heliolisk,1.000.000,50% ♂ 50% ♀,"1,0 m",Elektro Normal,"21,0 kg",55,109,62,109,94,52
+Balgoras,https://www.pokewiki.de/Balgoras,696,6. Generation‍,Braun,Tyrunt,1.000.000,"87,5% ♂ 12,5% ♀","0,8 m",Gestein Drache,"26,0 kg",89,48,58,45,45,77
+Monargoras,https://www.pokewiki.de/Monargoras,697,6. Generation‍,Rot,Tyrantrum,1.000.000,"87,5% ♂ 12,5% ♀","2,5 m",Gestein Drache,"270,0 kg",121,71,82,69,59,119
+Amarino,https://www.pokewiki.de/Amarino,698,6. Generation‍,Blau,Amaura,1.000.000,"87,5% ♂ 12,5% ♀","1,3 m",Gestein Eis,"25,2 kg",59,46,77,67,63,50
+Amagarga,https://www.pokewiki.de/Amagarga,699,6. Generation‍,Blau,Aurorus,1.000.000,"87,5% ♂ 12,5% ♀","2,7 m",Gestein Eis,"225,0 kg",77,58,123,99,92,72
+Feelinara,https://www.pokewiki.de/Feelinara,700,6. Generation‍,Rosa,Sylveon,1.000.000,"87,5% ♂ 12,5% ♀","1,0 m",Fee,"23,5 kg",65,60,95,110,130,65
+Resladero,https://www.pokewiki.de/Resladero,701,6. Generation‍,Grün,Hawlucha,1.000.000,50% ♂ 50% ♀,"0,8 m",Kampf Flug,"21,5 kg",92,118,78,74,63,75
+Dedenne,https://www.pokewiki.de/Dedenne,702,6. Generation‍,Gelb,Dedenne,1.000.000,50% ♂ 50% ♀,"0,2 m",Elektro Fee,"2,2 kg",58,101,67,81,67,57
+Rocara,https://www.pokewiki.de/Rocara,703,6. Generation‍,Grau,Carbink,1.250.000,—,"0,3 m",Gestein Fee,"5,7 kg",50,50,50,50,150,150
+Viscora,https://www.pokewiki.de/Viscora,704,6. Generation‍,Violett,Goomy,1.250.000,50% ♂ 50% ♀,"0,3 m",Drache,"2,8 kg",50,40,45,55,75,35
+Viscargot,https://www.pokewiki.de/Viscargot,705,6. Generation‍,Violett,Sliggoo,1.250.000,50% ♂ 50% ♀,"0,8 m",Drache,"17,5 kg",75,60,68,82,113,53
+Viscogon,https://www.pokewiki.de/Viscogon,706,6. Generation‍,Violett,Goodra,1.250.000,50% ♂ 50% ♀,"2,0 m",Drache,"150,5 kg",100,80,90,110,150,70
+Clavion,https://www.pokewiki.de/Clavion,707,6. Generation‍,Grau,Klefki,800.000,50% ♂ 50% ♀,"0,2 m",Stahl Fee,"3,0 kg",80,75,57,80,87,91
+Paragoni,https://www.pokewiki.de/Paragoni,708,6. Generation‍,Braun,Phantump,1.000.000,50% ♂ 50% ♀,"0,4 m",Geist Pflanze,"7,0 kg",70,38,43,50,60,48
+Trombork,https://www.pokewiki.de/Trombork,709,6. Generation‍,Braun,Trevenant,1.000.000,50% ♂ 50% ♀,"1,5 m",Geist Pflanze,"71,0 kg",110,56,85,65,82,76
+Irrbis,https://www.pokewiki.de/Irrbis,710,6. Generation‍,Braun,Pumpkaboo,1.000.000,50% ♂ 50% ♀,"S = 0,3 mM = 0,4 m
+L = 0,5 m
+XL = 0,8 m",Geist Pflanze,"S = 3,5 kgM = 5,0 kg
+L = 7,5 kg
+XL = 15,0 kg",66,56,44,44,55,70
+Pumpdjinn,https://www.pokewiki.de/Pumpdjinn,711,6. Generation‍,Braun,Gourgeist,1.000.000,50% ♂ 50% ♀,"S = 0,7 mM = 0,9 mL = 1,1 mXL = 1,7 m",Geist Pflanze,"S = 9,5 kgM = 12,5 kgL = 14,0 kgXL = 39,0 kg",85,99,55,58,75,122
+Arktip,https://www.pokewiki.de/Arktip,712,6. Generation‍,Blau,Bergmite,1.000.000,50% ♂ 50% ♀,"1,0 m",Eis,"99,5 kg",69,28,55,32,35,85
+Arktilas,https://www.pokewiki.de/Arktilas,713,6. Generation‍,Blau,Avalugg,1.000.000,50% ♂ 50% ♀,"2,0 m",Eis,"505,0 kg",117,28,95,44,46,184
+EF-eM,https://www.pokewiki.de/EF-eM,714,6. Generation‍,Violett,Noibat,1.000.000,50% ♂ 50% ♀,"0,5 m",Flug Drache,"8,0 kg",30,55,40,45,40,35
+UHaFnir,https://www.pokewiki.de/UHaFnir,715,6. Generation‍,Violett,Noivern,1.000.000,50% ♂ 50% ♀,"1,5 m",Flug Drache,"85,0 kg",70,123,85,97,80,80
+Xerneas,https://www.pokewiki.de/Xerneas,716,6. Generation‍,Blau,Xerneas,1.250.000,—,"3,0 m",Fee,"215,0 kg",131,99,126,131,98,95
+Yveltal,https://www.pokewiki.de/Yveltal,717,6. Generation‍,Rot,Yveltal,1.250.000,—,"5,8 m",Unlicht Flug,"203,0 kg",131,99,126,131,98,95
+Zygarde,https://www.pokewiki.de/Zygarde,718,6. Generation‍,Grün,Zygarde,1.250.000,—,"5,0 m (50%-Zygarde)1,2 m (10%-Zygarde)4,5 m (Optimum-Zygarde)",Drache Boden,"305,0 kg (50%-Zygarde)33,5 kg (10%-Zygarde)610,0 kg (Optimum-Zygarde)",100,115,54,61,85,71
+Diancie,https://www.pokewiki.de/Diancie,719,6. Generation‍,Rosa,Diancie,1.250.000,—,"0,7 m1,1 m (Mega)",Gestein Fee,"8,8 kg27,8 kg (Mega)",100,50,50,100,150,150
+Hoopa,https://www.pokewiki.de/Hoopa,720,6. Generation‍,Violett,Hoopa,1.250.000,—,"0,5 m (Gebannte Form)6,5 m (Entfesselte Form)",Psycho Geist Psycho Unlicht (Entfesselt),"9,0 kg (Gebannte Form)490,0 kg (Entfesselte Form)",110,70,80,150,130,60
+Volcanion,https://www.pokewiki.de/Volcanion,721,6. Generation‍,Braun,Volcanion,1.250.000,—,"1,7 m",Feuer Wasser,"195,0 kg",110,70,80,130,90,120
+Bauz,https://www.pokewiki.de/Bauz,722,7. Generation,Braun,Rowlet,1.059.860,"87,5% ♂ 12,5% ♀","0,3 m",Pflanze Flug,"1,5 kg",55,42,68,50,50,55
+Arboretoss,https://www.pokewiki.de/Arboretoss,723,7. Generation,Braun,Dartrix,1.059.860,"87,5% ♂ 12,5% ♀","0,7 m",Pflanze Flug,"16,0 kg",75,52,78,70,70,75
+Silvarro,https://www.pokewiki.de/Silvarro,724,7. Generation,Braun,Decidueye,1.059.860,"87,5% ♂ 12,5% ♀","1,6 m",Pflanze Geist,"36,6 kg",107,70,78,100,100,75
+Flamiau,https://www.pokewiki.de/Flamiau,725,7. Generation,Rot,Litten,1.059.860,"87,5% ♂ 12,5% ♀","0,4 m",Feuer,"4,3 kg",65,70,45,60,40,40
+Miezunder,https://www.pokewiki.de/Miezunder,726,7. Generation,Rot,Torracat,1.059.860,"87,5% ♂ 12,5% ♀","0,7 m",Feuer,"25,0 kg",85,90,65,80,50,50
+Fuegro,https://www.pokewiki.de/Fuegro,727,7. Generation,Rot,Incineroar,1.059.860,"87,5% ♂ 12,5% ♀","1,8 m",Feuer Unlicht,"83,0 kg",115,60,95,80,90,90
+Robball,https://www.pokewiki.de/Robball,728,7. Generation,Blau,Popplio,1.059.860,"87,5% ♂ 12,5% ♀","0,4 m",Wasser,"7,5 kg",54,40,50,66,56,54
+Marikeck,https://www.pokewiki.de/Marikeck,729,7. Generation,Blau,Brionne,1.059.860,"87,5% ♂ 12,5% ♀","0,6 m",Wasser,"17,5 kg",69,50,60,91,81,69
+Primarene,https://www.pokewiki.de/Primarene,730,7. Generation,Blau,Primarina,1.059.860,"87,5% ♂ 12,5% ♀","1,8 m",Wasser Fee,"44,0 kg",74,60,80,126,116,74
+Peppeck,https://www.pokewiki.de/Peppeck,731,7. Generation,Schwarz,Pikipek,1.000.000,50% ♂ 50% ♀,"0,3 m",Normal Flug,"1,2 kg",75,65,35,30,30,30
+Trompeck,https://www.pokewiki.de/Trompeck,732,7. Generation,Schwarz,Trumbeak,1.000.000,50% ♂ 50% ♀,"0,6 m",Normal Flug,"14,8 kg",85,75,55,40,50,50
+Tukanon,https://www.pokewiki.de/Tukanon,733,7. Generation,Schwarz,Toucannon,1.000.000,50% ♂ 50% ♀,"1,1 m",Normal Flug,"26,0 kg",120,60,80,75,75,75
+Mangunior,https://www.pokewiki.de/Mangunior,734,7. Generation,Braun,Yungoos,1.000.000,50% ♂ 50% ♀,"0,4 m",Normal,"6,0 kg",70,45,48,30,30,30
+Manguspektor,https://www.pokewiki.de/Manguspektor,735,7. Generation,Braun,Gumshoos,1.000.000,50% ♂ 50% ♀,"0,7 m",Normal,"14,2 kg",110,45,88,55,60,60
+Mabula,https://www.pokewiki.de/Mabula,736,7. Generation,Grau,Grubbin,1.000.000,50% ♂ 50% ♀,"0,4 m",Käfer,"4,4 kg",62,46,47,55,45,45
+Akkup,https://www.pokewiki.de/Akkup,737,7. Generation,Grün,Charjabug,1.000.000,50% ♂ 50% ♀,"0,5 m",Käfer Elektro,"10,5 kg",82,36,57,55,75,95
+Donarion,https://www.pokewiki.de/Donarion,738,7. Generation,Blau,Vikavolt,1.000.000,50% ♂ 50% ♀,"1,5 m",Käfer Elektro,"45,0 kg",70,43,77,145,75,90
+Krabbox,https://www.pokewiki.de/Krabbox,739,7. Generation,Violett,Crabrawler,1.000.000,50% ♂ 50% ♀,"0,6 m",Kampf,"7,0 kg",82,63,47,42,47,57
+Krawell,https://www.pokewiki.de/Krawell,740,7. Generation,Weiß,Crabominable,1.000.000,50% ♂ 50% ♀,"1,7 m",Kampf Eis,"180,0 kg",132,43,97,62,67,77
+Choreogel,https://www.pokewiki.de/Choreogel,741,7. Generation,Rot,Oricorio,1.000.000,25% ♂ 75% ♀,"0,6 m",Feuer Flug (Flamenco-Stil)Elektro Flug (Cheerleading-Stil)Psycho Flug (Hula-Stil)Geist Flug (Buyo-Stil),"3,4 kg",70,93,75,98,70,70
+Wommel,https://www.pokewiki.de/Wommel,742,7. Generation,Gelb,Cutiefly,1.000.000,50% ♂ 50% ♀,"0,1 m",Käfer Fee,"0,2 kg",45,84,40,55,40,40
+Bandelby,https://www.pokewiki.de/Bandelby,743,7. Generation,Gelb,Ribombee,1.000.000,50% ♂ 50% ♀,"0,2 m",Käfer Fee,"0,5 kg",55,124,60,95,70,60
+Wuffels,https://www.pokewiki.de/Wuffels,744,7. Generation,Braun,Rockruff,1.000.000,50% ♂ 50% ♀,"0,5 m",Gestein,"9,2 kg",65,60,45,30,40,40
+Wolwerock,https://www.pokewiki.de/Wolwerock,745,7. Generation,Braun,Lycanroc,1.000.000,50% ♂ 50% ♀,"0,8 m (Tag- und Zwielichtform)1,1 m (Nachtform)",Gestein,"25,0 kg",115,112,75,55,65,65
+Lusardin,https://www.pokewiki.de/Lusardin,746,7. Generation,Blau,Wishiwashi,800.000,50% ♂ 50% ♀,"0,2 m (Einzel)8,2 m (Schwarm)",Wasser,"0,3 kg (Einzel)78,6 kg (Schwarm)",20,40,45,25,25,20
+Garstella,https://www.pokewiki.de/Garstella,747,7. Generation,Blau,Mareanie,1.000.000,50% ♂ 50% ♀,"0,4 m",Gift Wasser,"8,0 kg",53,45,50,43,52,62
+Aggrostella,https://www.pokewiki.de/Aggrostella,748,7. Generation,Blau,Toxapex,1.000.000,50% ♂ 50% ♀,"0,7 m",Gift Wasser,"14,5 kg",63,35,50,53,142,152
+Pampuli,https://www.pokewiki.de/Pampuli,749,7. Generation,Braun,Mudbray,1.000.000,50% ♂ 50% ♀,"1,0 m",Boden,"110,0 kg",100,45,70,45,55,70
+Pampross,https://www.pokewiki.de/Pampross,750,7. Generation,Braun,Mudsdale,1.000.000,50% ♂ 50% ♀,"2,5 m",Boden,"920,0 kg",125,35,100,55,85,100
+Araqua,https://www.pokewiki.de/Araqua,751,7. Generation,Grün,Dewpider,1.000.000,50% ♂ 50% ♀,"0,3 m",Wasser Käfer,"4,0 kg",40,27,38,40,72,52
+Aranestro,https://www.pokewiki.de/Aranestro,752,7. Generation,Grün,Araquanid,1.000.000,50% ♂ 50% ♀,"1,8 m",Wasser Käfer,"82,0 kg",70,42,68,50,132,92
+Imantis,https://www.pokewiki.de/Imantis,753,7. Generation,Rosa,Fomantis,1.000.000,50% ♂ 50% ♀,"0,3 m",Pflanze,"1,5 kg",55,35,40,50,35,35
+Mantidea,https://www.pokewiki.de/Mantidea,754,7. Generation,Rosa,Lurantis,1.000.000,50% ♂ 50% ♀,"0,9 m",Pflanze,"18,5 kg",105,45,70,80,90,90
+Bubungus,https://www.pokewiki.de/Bubungus,755,7. Generation,Violett,Morelull,1.000.000,50% ♂ 50% ♀,"0,2 m",Pflanze Fee,"1,5 kg",35,15,40,65,75,55
+Lamellux,https://www.pokewiki.de/Lamellux,756,7. Generation,Violett,Shiinotic,1.000.000,50% ♂ 50% ♀,"1,0 m",Pflanze Fee,"11,5 kg",45,30,60,90,100,80
+Molunk,https://www.pokewiki.de/Molunk,757,7. Generation,Schwarz,Salandit,1.000.000,"87,5% ♂ 12,5% ♀","0,6 m",Gift Feuer,"4,8 kg",44,77,48,71,40,40
+Amfira,https://www.pokewiki.de/Amfira,758,7. Generation,Schwarz,Salazzle,1.000.000,100% ♀,"1,2 m",Gift Feuer,"22,2 kg",64,117,68,111,60,60
+Velursi,https://www.pokewiki.de/Velursi,759,7. Generation,Rosa,Stufful,1.000.000,50% ♂ 50% ♀,"0,5 m",Normal Kampf,"6,8 kg",75,50,70,45,50,50
+Kosturso,https://www.pokewiki.de/Kosturso,760,7. Generation,Rosa,Bewear,1.000.000,50% ♂ 50% ♀,"2,1 m",Normal Kampf,"135,0 kg",125,60,120,55,60,80
+Frubberl,https://www.pokewiki.de/Frubberl,761,7. Generation,Violett,Bounsweet,1.059.860,100% ♀,"0,3 m",Pflanze,"3,2 kg",30,32,42,30,38,38
+Frubaila,https://www.pokewiki.de/Frubaila,762,7. Generation,Violett,Steenee,1.059.860,100% ♀,"0,7 m",Pflanze,"8,2 kg",40,62,52,40,48,48
+Fruyal,https://www.pokewiki.de/Fruyal,763,7. Generation,Violett,Tsareena,1.059.860,100% ♀,"1,2 m",Pflanze,"21,4 kg",120,72,72,50,98,98
+Curelei,https://www.pokewiki.de/Curelei,764,7. Generation,Grün,Comfey,800.000,25% ♂ 75% ♀,"0,1 m",Fee,"0,3 kg",52,100,51,82,110,90
+Kommandutan,https://www.pokewiki.de/Kommandutan,765,7. Generation,Weiß,Oranguru,1.250.000,50% ♂ 50% ♀,"1,5 m",Normal Psycho,"76,0 kg",60,60,90,90,110,80
+Quartermak,https://www.pokewiki.de/Quartermak,766,7. Generation,Weiß,Passimian,1.250.000,50% ♂ 50% ♀,"2,0 m",Kampf,"82,8 kg",120,80,100,40,60,90
+Reißlaus,https://www.pokewiki.de/Rei%C3%9Flaus,767,7. Generation,Grau,Wimpod,1.000.000,50% ♂ 50% ♀,"0,5 m",Käfer Wasser,"12,0 kg",35,80,25,20,30,40
+Tectass,https://www.pokewiki.de/Tectass,768,7. Generation,Grau,Golisopod,1.000.000,50% ♂ 50% ♀,"2,0 m",Käfer Wasser,"108,0 kg",125,40,75,60,90,140
+Sankabuh,https://www.pokewiki.de/Sankabuh,769,7. Generation,Braun,Sandygast,1.000.000,50% ♂ 50% ♀,"0,5 m",Geist Boden,"70,0 kg",55,15,55,70,45,80
+Colossand,https://www.pokewiki.de/Colossand,770,7. Generation,Braun,Palossand,1.000.000,50% ♂ 50% ♀,"1,3 m",Geist Boden,"250,0 kg",75,35,85,100,75,110
+Gufa,https://www.pokewiki.de/Gufa,771,7. Generation,Schwarz,Pyukumuku,800.000,50% ♂ 50% ♀,"0,3 m",Wasser,"1,2 kg",60,5,55,30,130,130
+Typ:Null,https://www.pokewiki.de/Typ%3ANull,772,7. Generation,Grau,Type: Null,1.250.000,—,"1,9 m",Normal,"120,5 kg",95,59,95,95,95,95
+Amigento,https://www.pokewiki.de/Amigento,773,7. Generation,Grau,Silvally,1.250.000,—,"2,3 m",Normal  (variabel) (variiert je nach Typ des getragenen Items),"100,5 kg",95,95,95,95,95,95
+Meteno,https://www.pokewiki.de/Meteno,774,7. Generation,Braun,Minior,1.059.860,—,"0,3 m",Gestein Flug,"40,0 kg (Meteorform)0,3 kg (Farbige Kerne)",60,60,60,60,100,100
+Koalelu,https://www.pokewiki.de/Koalelu,775,7. Generation,Blau,Komala,1.250.000,50% ♂ 50% ♀,"0,4 m",Normal,"19,9 kg",115,65,65,75,95,65
+Tortunator,https://www.pokewiki.de/Tortunator,776,7. Generation,Rot,Turtonator,1.000.000,50% ♂ 50% ♀,"2,0 m",Feuer Drache,"212,0 kg",78,36,60,91,85,135
+Togedemaru,https://www.pokewiki.de/Togedemaru,777,7. Generation,Grau,Togedemaru,1.000.000,50% ♂ 50% ♀,"0,3 m",Elektro Stahl,"3,3 kg",98,96,65,40,73,63
+Mimigma,https://www.pokewiki.de/Mimigma,778,7. Generation,Gelb,Mimikyu,1.000.000,50% ♂ 50% ♀,"0,2 m",Geist Fee,"0,7 kg",90,96,55,50,105,80
+Knirfish,https://www.pokewiki.de/Knirfish,779,7. Generation,Rosa,Bruxish,1.000.000,50% ♂ 50% ♀,"0,9 m",Wasser Psycho,"19,0 kg",105,92,68,70,70,70
+Sen-Long,https://www.pokewiki.de/Sen-Long,780,7. Generation,Weiß,Drampa,1.000.000,50% ♂ 50% ♀,"3,0 m",Normal Drache,"185,0 kg",60,36,78,135,91,85
+Moruda,https://www.pokewiki.de/Moruda,781,7. Generation,Grün,Dhelmise,1.000.000,—,"3,9 m",Geist Pflanze,"210,0 kg",131,40,70,86,90,100
+Miniras,https://www.pokewiki.de/Miniras,782,7. Generation,Grau,Jangmo-o,1.250.000,50% ♂ 50% ♀,"0,6 m",Drache,"29,7 kg",55,45,45,45,45,65
+Mediras,https://www.pokewiki.de/Mediras,783,7. Generation,Grau,Hakamo-o,1.250.000,50% ♂ 50% ♀,"1,2 m",Drache Kampf,"47,0 kg",75,65,55,65,70,90
+Grandiras,https://www.pokewiki.de/Grandiras,784,7. Generation,Grau,Kommo-o,1.250.000,50% ♂ 50% ♀,"1,6 m",Drache Kampf,"78,2 kg",110,85,75,100,105,125
+Kapu-Riki,https://www.pokewiki.de/Kapu-Riki,785,7. Generation,Gelb,Tapu Koko,1.250.000,—,"1,8 m",Elektro Fee,"20,5 kg",115,130,70,95,75,85
+Kapu-Fala,https://www.pokewiki.de/Kapu-Fala,786,7. Generation,Rosa,Tapu Lele,1.250.000,—,"1,2 m",Psycho Fee,"18,6 kg",85,95,70,130,115,75
+Kapu-Toro,https://www.pokewiki.de/Kapu-Toro,787,7. Generation,Rot,Tapu Bulu,1.250.000,—,"1,9 m",Pflanze Fee,"45,5 kg",130,75,70,85,95,115
+Kapu-Kime,https://www.pokewiki.de/Kapu-Kime,788,7. Generation,Violett,Tapu Fini,1.250.000,—,"1,3 m",Wasser Fee,"21,2 kg",75,85,70,95,130,115
+Cosmog,https://www.pokewiki.de/Cosmog,789,7. Generation,Blau,Cosmog,1.250.000,—,"0,2 m",Psycho,"0,1 kg",29,37,43,29,31,31
+Cosmovum,https://www.pokewiki.de/Cosmovum,790,7. Generation,Blau,Cosmoem,1.250.000,—,"0,1 m",Psycho,"999,9 kg",29,37,43,29,131,131
+Solgaleo,https://www.pokewiki.de/Solgaleo,791,7. Generation,Weiß,Solgaleo,1.250.000,—,"3,4 m",Psycho Stahl,"230,0 kg",137,97,137,113,89,107
+Lunala,https://www.pokewiki.de/Lunala,792,7. Generation,Violett,Lunala,1.250.000,—,"4,0 m",Psycho Geist,"120,0 kg",113,97,137,137,107,89
+Anego,https://www.pokewiki.de/Anego,793,7. Generation,Weiß,Nihilego,1.250.000,—,"1,2 m",Gestein Gift,"55,5 kg",53,103,109,127,131,47
+Masskito,https://www.pokewiki.de/Masskito,794,7. Generation,Rot,Buzzwole,1.250.000,—,"2,4 m",Käfer Kampf,"333,6 kg",139,79,107,53,53,139
+Schabelle,https://www.pokewiki.de/Schabelle,795,7. Generation,Weiß,Pheromosa,1.250.000,—,"1,8 m",Käfer Kampf,"25,0 kg",137,151,71,137,37,37
+Voltriant,https://www.pokewiki.de/Voltriant,796,7. Generation,Schwarz,Xurkitree,1.250.000,—,"3,8 m",Elektro,"100,0 kg",89,83,83,173,71,71
+Kaguron,https://www.pokewiki.de/Kaguron,797,7. Generation,Grün,Celesteela,1.250.000,—,"9,2 m",Stahl Flug,"999,9 kg",101,61,97,107,101,103
+Katagami,https://www.pokewiki.de/Katagami,798,7. Generation,Weiß,Kartana,1.250.000,—,"0,3 m",Pflanze Stahl,"0,1 kg",181,109,59,59,31,131
+Schlingking,https://www.pokewiki.de/Schlingking,799,7. Generation,Schwarz,Guzzlord,1.250.000,—,"5,5 m",Unlicht Drache,"888,0 kg",101,43,223,97,53,53
+Necrozma,https://www.pokewiki.de/Necrozma,800,7. Generation,Schwarz,Necrozma,1.250.000,—,"2,4 m3,8 m (Abendmähne)4,0 m (Morgenschwingen)",Psycho   Psycho Stahl (Abendmähne) Psycho Geist (Morgenschwingen),"230,0 kg460,0 kg (Abendmähne)350,0 kg (Morgenschwingen)",107,79,97,127,89,101
+Magearna,https://www.pokewiki.de/Magearna,801,7. Generation,Grau,Magearna,1.250.000,—,"1,0 m",Stahl Fee,"80,5 kg",95,65,80,130,115,115
+Marshadow,https://www.pokewiki.de/Marshadow,802,7. Generation,Grau,Marshadow,1.250.000,—,"0,7 m",Kampf Geist,"22,2 kg",125,125,90,90,90,80
