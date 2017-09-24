@@ -43,13 +43,13 @@ By default the following Packages are loaded:
 
 Before we start we introduce the pipe operator `%>%` - see https://github.com/tidyverse/magrittr
 
-This operator take the left hand side and _plugs_ it into the right hand side as first argument.
+This operator takes the left hand side and _plugs_ it into the right hand side as first argument.
 
 * `f(x)` equivalent to `x %>% f()`
 * `f(x, y)` is equivalent to `x %>% f(y)`
 * `h(g(f(x)))` is equivalent to `x %>% f %>% g %>% h`
 
-This operator make code much more readable as we will see throuout this presentation.
+This operator makes the code much more readable as we will see throughout this presentation.
 
 The pipe `%>%` can also be used with an argument placeholder `.`
 * `f(y, x)` is equivalent to `x %>% f(y, .)`
@@ -85,7 +85,7 @@ Lots of data science projects stark with a given dataset you want to analyse.
 
 In this presentation we are goint to analyse a given csv (comma seperated values) file `pokemon_raw.csv` with Pokemon stats. 
 
-If your data is saved in database [`dbplyr`](https://github.com/tidyverse/dbplyr) is the tidyverse database backend (e.g. for MySQL/MariaDB, Postgresql and SQLite).
+If your data is saved in a database use [`dbplyr`](https://github.com/tidyverse/dbplyr), it is the tidyverse database backend (e.g. for MySQL/MariaDB, Postgresql and SQLite).
 
 To load data into __R__ you can use the `read_csv` (with an underscore) function as follows:
 
@@ -203,7 +203,7 @@ ncol(pokemon)
 knitr::include_graphics("img/tidyverse-flow-understand.jpg") 
 ```
 
-The Visualise part will be done in the other session about `ggplot2`
+The visualisation part will be done in the other session about `ggplot2`
 
 At the ISI (World Statistics Congress) 2017 Hadley Wickham said:
 
@@ -226,7 +226,7 @@ Lets say we only want to have the name, the hp and size of the pokemon. We can u
 pokemon %>% select(german, english, hp, size)
 ```
 
-There are some select helpers see `?select_helpers` like starts_with:
+There are some select helpers see `?select_helpers` like `starts_with`:
 
 ```{r select2}
 pokemon %>% select(starts_with("type"))
@@ -261,7 +261,7 @@ pokemon %>% filter(generation == 1)
 
 This results in the well known 151 pokemon from the original Game Boy games.
 
-You can combile filters with AND `&` and OR `|`. Filter expects a logical vector of the same length as the data:
+You can combine filters with AND `&` and OR `|`. A filter expects a logical vector of the same length as the data:
 
 ```{r transform-logical, out.width="100%",fig.cap="Venn diagrams on how to filter - source: http://r4ds.had.co.nz/transform.html ", echo=FALSE} 
 knitr::include_graphics("img/transform-logical.png") 
@@ -281,7 +281,7 @@ pokemon %>% filter(color %in% c("Rot", "Grün"))
 
 * Filter for Pokemon that do not have a gender (`male` is NA)
 * How many Pokemon do only have one type?
-* Filter for Pokemon with the same name in english and german from generation 1 and type_1 == Gift
+* Filter for Pokemon with the same name in English and German from generation 1 and type_1 == gift
 
 ### mutate
 
@@ -326,7 +326,7 @@ pokemon %>%
   select(rn, german, english, hp, speed)
 ```
 
-To arrange the data in a descending order wrap the variable in `desc(.)`. 
+To arrange the data in a descending order, wrap the variable in `desc(.)`. 
 To order by multiple columns just use multiple arguments to arrange:
 
 ```{r arrange2}
@@ -388,7 +388,7 @@ pokemon %>%
   select(rn, generation, german, english, hp)
 ```
 
-Group by also works with `mutate`. Lets say we want to know how much the maximum hp is bigger than the mean hp:
+Group by also works with `mutate`. Lets say we want to know how much bigger the maximum hp is than the mean hp:
 
 ```{r group_by2}
 pokemon %>% 
@@ -469,7 +469,7 @@ require(broom) # tidy model parameter
 lm(hp ~ size, data = pokemon) %>% tidy
 ```
 
-And now we want to fit the same model per generation. Do do this we nest the data as follows:
+And now we want to fit the same model per generation. To do this we nest the data as follows:
 ```{r}
 (pokemon_nested <- nest(pokemon, -generation))
 ```
