@@ -97,8 +97,7 @@ read_csv("dat/pokemon_raw.csv", skip = 1)
 If you do not specify the `col_types` `read_csv` guesses the col_type based on the first 1000 columns.
 In the above case 
 
-> Important: To make your research reproduciable and be sure the next time you import the file it 
-has the same format: specify the col_types explicitly as follows
+> Specify the col_types explicitly: To make your research reproduciable
 
 ```{r read-csv-explicit}
 read_csv("dat/pokemon_raw.csv", 
@@ -247,9 +246,9 @@ To select all columns but a specific one use `-var`. `pokemon %>% select(-rn)` d
 
 #### Exercise 
 
-* Select only the names (german and english)
-* Select all variables that start_with `e`
+* Select only the Pokemon names (german and english)
 * Select the names, attack, speed and size
+* Select all variables that `ends_with` "attack"
 
 ### filter
 
@@ -421,12 +420,11 @@ Lets say we would get one csv file per generation.
 
 ```{r, include=FALSE}
 pokemon2 <- read_csv("dat/pokemon_raw.csv", skip = 1)
-gen <- pokemon2$generation %>% unique
-for (i in seq_along(gen)) {
-  pokemon %>% 
-    filter(generation == gen[i]) %>% 
-    write_csv(path = paste0("dat/multi-file/pokemon_raw_gen_", i, ".csv"))
-}
+pokemon2 %>% 
+  split(.$generation) %>% 
+  map2(set_names(seq_along(.)), 
+       ~write_csv(.x, path = paste0("dat/multi-file/pokemon_raw_gen_", .y, ".csv"))) %>% 
+  invisible
 ```
 
 ```{r}
