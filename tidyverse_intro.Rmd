@@ -57,7 +57,8 @@ The pipe `%>%` can also be used with an argument placeholder `.`
 
 And you can reuse the placeholder for attributes:
 
-* `f(x, y = nrow(x), z = ncol(x))` is equivalent to `x %>% f(y = nrow(.), z = ncol(.))`
+* `f(x, y = nrow(x), z = ncol(x))` is equivalent to 
+`x %>% f(y = nrow(.), z = ncol(.))`
 
 This can be overruled by enclosing curly brackets `{}`:
 
@@ -168,7 +169,7 @@ In the case of the `pokemon` data-set we only need to seperate the
 `gender` and the `types` column into multiple columns:
 
 ```{r seperate-data}
-pokemon %>% select(gender, types) # select will be explained later on
+pokemon %>% select(english, gender, types) # select will be explained later on
 ```
 
  This can easily be done via `seperate` as follows.
@@ -248,7 +249,7 @@ To select all columns but a specific one use `-var`. `pokemon %>% select(-rn)` d
 
 * Select only the Pokemon names (german and english)
 * Select the names, attack, speed and size
-* Select all variables that `ends_with` "attack"
+* Select all variables that `ends_with` "n"
 
 ### filter
 
@@ -278,9 +279,11 @@ pokemon %>% filter(color %in% c("Rot", "Grün"))
 
 #### Exercise
 
-* Filter for Pokemon that do not have a gender (`male` is NA)
-* How many Pokemon do only have one type?
-* Filter for Pokemon with the same name in English and German from generation 1 and type_1 == gift
+* Filter for Pokemon that do not have a gender (`male` = "")
+* How many Pokemon do only have one type? (`type_2` is NA)
+* Filter for Pokemon with the same name in English and German
+  * from generation 1
+* Pokemon that have a size between 0.5 and 1
 
 ### mutate
 
@@ -344,7 +347,8 @@ Lets say we want to know the `mean` and the `median` __hp__ of all pokemon, we c
 pokemon %>% 
   summarise(
     mean_hp = mean(hp),
-    median_hp = median(hp)
+    median_hp = median(hp),
+    name_int = first(paste(german, english))
     )
 ```
 
@@ -397,7 +401,7 @@ pokemon %>%
     hp_normalized = hp - mean_hp
     ) %>% 
   filter(hp == max(hp)) %>% 
-  select(rn, generation, german, english, hp, mean_hp, hp_normalized) 
+  select(rn, generation, german, english, hp, mean_hp, hp_normalized)
 ```
 
 Excercise:
@@ -405,7 +409,7 @@ Excercise:
 * Which Pokemon has the highest `speed` per `type_1`?
 * How much more/less `attack` do Pokemon with a dual_type have?
 * Calculate the mean for all numeric variables per generation. Carefully read the documentation of `summarise_if`
-* Count the mostly female (`female` > 50) Pokemon per type_1
+* Count the mostly female (`female` > 50) Pokemon per `type_1`
 
 ## Appendix
 
