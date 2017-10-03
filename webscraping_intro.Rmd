@@ -26,7 +26,7 @@ library(rvest)
 
 ## HTML = XML 
 
-Live visualisation of the Chrome developer toolbar and selector gadget
+Live showcase of the Chrome developer toolbar and selector gadget
 
 http://selectorgadget.com/
 
@@ -205,7 +205,7 @@ Exercise
 
 * Scrape the french name of the pokemon
 
-* Extract the href (url) of the Pokemon image:
+* Extract the `src` (url) of the Pokemon image:
 ```{r poke-img, out.width="100%",fig.cap="Pokemon image - source: https://www.pokewiki.de/Bisasam", echo=FALSE} 
 knitr::include_graphics("img/poke-image.jpg") 
 ```

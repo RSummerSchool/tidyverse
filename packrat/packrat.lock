@@ -18,10 +18,21 @@ Source: CRAN
 Version: 1.1-2
 Hash: c0d56cd15034f395874c870141870c25
 
+Package: RSelenium
+Source: CRAN
+Version: 1.7.1
+Hash: df30e4b7228823c97f5c2fc6da269575
+Requires: XML, binman, caTools, httr, openssl, wdman
+
 Package: Rcpp
 Source: CRAN
 Version: 0.12.12
 Hash: 8b3d5ebb9a9a4ab5c86b3a81b0cfb774
+
+Package: XML
+Source: CRAN
+Version: 3.98-1.9
+Hash: 02079c4025bbfa0f63400cc0bb414952
 
 Package: assertthat
 Source: CRAN
@@ -48,6 +59,12 @@ Source: CRAN
 Version: 0.2
 Hash: 8ab2dbf7ea120cf2d31183e0bf388485
 Requires: Rcpp, bindr, plogr
+
+Package: binman
+Source: CRAN
+Version: 0.1.0
+Hash: 5da2c054e60e56a67eea59a2b697a6f6
+Requires: assertthat, httr, jsonlite, rappdirs, semver, xml2, yaml
 
 Package: bitops
 Source: CRAN
@@ -262,6 +279,11 @@ Version: 0.2.3
 Hash: d741f262ed1b74543e33c5426a497996
 Requires: magrittr, rlang, tibble
 
+Package: rappdirs
+Source: CRAN
+Version: 0.3.1
+Hash: 7340cfebc77ad7b107a549a8635e64dd
+
 Package: readr
 Source: CRAN
 Version: 1.1.1
@@ -322,6 +344,18 @@ Version: 0.3-1
 Hash: 367275e3dcdd208339e131c7a41bec56
 Requires: stringr
 
+Package: seleniumPipes
+Source: CRAN
+Version: 0.3.7
+Hash: 05aacb96a5b7c9237fd3b0ac91020c73
+Requires: httr, jsonlite, magrittr, whisker, xml2
+
+Package: semver
+Source: CRAN
+Version: 0.2.0
+Hash: 2eb2029e35bde1a770ad44c5bbbe81db
+Requires: Rcpp, assertthat
+
 Package: stringi
 Source: CRAN
 Version: 1.1.5
@@ -332,6 +366,11 @@ Source: CRAN
 Version: 1.2.0
 Hash: 25a86d7f410513ebb7c0bc6a5e16bdc3
 Requires: magrittr, stringi
+
+Package: subprocess
+Source: CRAN
+Version: 0.8.0
+Hash: 7b373207cd5fd6ebc471627a0820ab42
 
 Package: tibble
 Source: CRAN
@@ -364,6 +403,17 @@ Package: viridisLite
 Source: CRAN
 Version: 0.2.0
 Hash: 10f0c25af3dc84eaae10f5854f47efdb
+
+Package: wdman
+Source: CRAN
+Version: 0.2.2
+Hash: d6e969002ac36f5c6b7072c121b87caa
+Requires: assertthat, binman, semver, subprocess, yaml
+
+Package: whisker
+Source: CRAN
+Version: 0.3-2
+Hash: 803d662762e532705c2c066a82d066e7
 
 Package: xml2
 Source: CRAN
